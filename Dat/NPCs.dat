@@ -80,7 +80,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=913
+NumNPCs=914
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9253,4 +9253,20 @@ MinHIT=200
 DEF=10
 PoderAtaque=350
 PoderEvasion=300
+BackUp=0Ç
+
+[NPC914]
+Name=Guardian Catas
+NpcType=0
+Desc=¡Soy el Guardian de esta entrada!No te dejare pasar!
+Head=1
+Heading=3
+Body=221
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
 BackUp=0
