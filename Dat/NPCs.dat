@@ -80,7 +80,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=914
+NumNPCs=923
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9262,6 +9262,151 @@ Desc=¡Soy el Guardian de esta entrada!No te dejare pasar!
 Head=1
 Heading=3
 Body=221
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC915]
+Name=Cazador de osos
+NpcType=0
+Desc=¡Cuidado! Osos salvajes cerca!!
+Head=1
+Heading=3
+Body=58
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC916]
+Name=Mago Veril
+NpcType=0
+Desc=¡Cuidado! Esta isla es muy peligrosa!
+Head=5
+Heading=3
+Body=241
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+
+[NPC917]
+Name=Minero Nix
+NpcType=0
+Desc=A minar minar minar....
+Head=1
+Heading=3
+Body=364
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC918]
+Name=Pescador Nix
+NpcType=0
+Desc=¡ He pescado algo !
+Head=1
+Heading=3
+Body=3
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC919]
+Name=Misero
+NpcType=0
+Desc= Aleluya!!
+Head=1
+Heading=3
+Body=284
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC920]
+Name=Misero dos
+NpcType=0
+Desc= Perdona mis pecados...
+Head=2
+Heading=3
+Body=46
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC921]
+Name=Cazador dos
+NpcType=0
+Desc=Estos bosques son peligrosos..
+Head=2
+Heading=3
+Body=320
+Movement=2
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC922]
+Name=Aviso DD
+NpcType=0
+Desc=Shhhh,este es el famoso DD,tienes una espada matadragones para dejarme?
+Head=2
+Heading=3
+Body=170
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+
+[NPC923]
+Name=Entrada catas
+NpcType=0
+Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven!
+Head=4
+Heading=3
+Body=35
 Movement=1
 Attackable=0
 ReSpawn=0
