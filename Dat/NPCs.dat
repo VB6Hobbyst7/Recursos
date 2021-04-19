@@ -80,7 +80,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=923
+NumNPCs=924
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9414,4 +9414,30 @@ Hostile=0
 Domable=0
 Alineacion=0
 Comercia=0
+BackUp=0
+
+[NPC924]
+Name=Camello
+NpcType=0
+Head=0
+Heading=3
+Body=546
+Movement=2
+AguaValida=0
+Attackable=1
+ReSpawn=0
+Hostile=0
+Domable=810
+Alineacion=0
+Comercia=0
+GiveEXP=10
+GiveGLDMin=0
+MinHP=65
+MaxHP=65
+MaxHIT=5
+MinHIT=2
+DEF=2
+PoderAtaque=25
+PoderEvasion=15
+Snd2=8
 BackUp=0
