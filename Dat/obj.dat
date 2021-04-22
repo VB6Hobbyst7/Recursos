@@ -70,7 +70,7 @@ usar primero los nros más bajos.
 [INIT]
 'aca va el numero de OBJ mas alto, NO la cantidad de OBJs.
 'esto sirve para que los GMS puedan ver la lista completa de items para crear en una ventanita.
-NumOBJs=1099
+NumOBJs=1100
 
 
 
@@ -12704,7 +12704,7 @@ Agarrable=1
 Name=Balsa
 GrhIndex=638
 ObjType=31
-NumRopaje=84
+NumRopaje=547
 Agarrable=0
 MinHit=0
 MaxHit=0
@@ -12712,9 +12712,7 @@ MinDef=0
 MaxDef=0
 Valor=12000
 Crucial=0
-MinSkill=35
-Madera=10000
-SkCarpinteria=40
+MinSkill=10
 
 
 
