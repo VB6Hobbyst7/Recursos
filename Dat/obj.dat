@@ -12704,7 +12704,7 @@ Agarrable=1
 Name=Balsa
 GrhIndex=638
 ObjType=31
-NumRopaje=84
+NumRopaje=547
 Agarrable=0
 MinHit=0
 MaxHit=0
@@ -12712,9 +12712,7 @@ MinDef=0
 MaxDef=0
 Valor=12000
 Crucial=0
-MinSkill=35
-Madera=10000
-SkCarpinteria=40
+MinSkill=10
 
 
 
