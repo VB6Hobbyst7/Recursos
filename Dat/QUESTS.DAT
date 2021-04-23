@@ -290,7 +290,7 @@ RequiredNPC1=0
 RewardGLD=0
 RewardEXP=0
  
-RewardOBJs=1
+RewardOBJs=0
 RewardOBJ1=0
 
 ---------------------------------------- quest nix ciudad de pescadores ----------------------------------
