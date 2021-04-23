@@ -9274,7 +9274,7 @@ BackUp=0
 [NPC915]
 Name=Cazador de osos
 NpcType=0
-Desc=¡Cuidado! Osos salvajes cerca!!
+Desc=¡Cuidado! Osos salvajes cerca!! /BonusQuest
 Head=1
 Heading=3
 Body=58
@@ -9286,6 +9286,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=1
 
 [NPC916]
 Name=Mago Veril
@@ -9415,6 +9416,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=2
 
 [NPC924]
 Name=Camello
@@ -9490,13 +9492,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=1
-QuestNumber=2
-QuestNumber=3
-QuestNumber=4
-QuestNumber=5
-QuestNumber=6
-QuestNumber=7
+
 
 [NPC928]
 Name=Quest Ullathorpe
@@ -9513,13 +9509,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=8
-QuestNumber=9
-QuestNumber=10
-QuestNumber=11
-QuestNumber=12
-QuestNumber=13
-QuestNumber=14
+
 
 
 [NPC929]
@@ -9537,9 +9527,6 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=15
-QuestNumber=16
-QuestNumber=17
 
 
 
