@@ -9274,7 +9274,7 @@ BackUp=0
 [NPC915]
 Name=Cazador de osos
 NpcType=0
-Desc=¡Cuidado! Osos salvajes cerca!!
+Desc=¡Cuidado! Osos salvajes cerca!! /BONUSQUEST
 Head=1
 Heading=3
 Body=58
@@ -9286,9 +9286,10 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=1
 
 [NPC916]
-Name=Mago Veril
+Name=Mago Veril /BONUSQUEST
 NpcType=0
 Desc=¡Cuidado! Esta isla es muy peligrosa!
 Head=5
@@ -9302,6 +9303,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=3
 
 
 [NPC917]
@@ -9321,7 +9323,7 @@ Comercia=0
 BackUp=0
 
 [NPC918]
-Name=Pescador Nix
+Name=Pescador Nix /BONUSQUEST
 NpcType=0
 Desc=¡ He pescado algo !
 Head=1
@@ -9335,6 +9337,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=4
 
 [NPC919]
 Name=Misero
@@ -9371,7 +9374,7 @@ BackUp=0
 [NPC921]
 Name=Cazador dos
 NpcType=0
-Desc=Estos bosques son peligrosos..
+Desc=Ayudame!! /BONUSQUEST
 Head=2
 Heading=3
 Body=320
@@ -9383,11 +9386,12 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=6
 
 [NPC922]
 Name=Aviso DD
 NpcType=0
-Desc=Shhhh,este es el famoso DD,tienes una espada matadragones para dejarme?
+Desc=Shhhh,tengo una espada matadragones /BONUSQUEST
 Head=2
 Heading=3
 Body=170
@@ -9399,11 +9403,12 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=5
 
 [NPC923]
 Name=Entrada catas
 NpcType=0
-Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven!
+Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven! /BONUSQUEST
 Head=4
 Heading=3
 Body=35
@@ -9415,6 +9420,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=2
 
 [NPC924]
 Name=Camello
@@ -9490,13 +9496,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=1
-QuestNumber=2
-QuestNumber=3
-QuestNumber=4
-QuestNumber=5
-QuestNumber=6
-QuestNumber=7
+
 
 [NPC928]
 Name=Quest Ullathorpe
@@ -9513,13 +9513,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=8
-QuestNumber=9
-QuestNumber=10
-QuestNumber=11
-QuestNumber=12
-QuestNumber=13
-QuestNumber=14
+
 
 
 [NPC929]
@@ -9537,9 +9531,6 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=15
-QuestNumber=16
-QuestNumber=17
 
 
 
