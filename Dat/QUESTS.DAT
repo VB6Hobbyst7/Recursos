@@ -15,7 +15,7 @@ RequiredOBJ1=26-1
 RequiredOBJ2=42-1
  
 RequiredNPCs=0
-RequiredNPC1=
+RequiredNPC1=0
  
 RewardGLD=100
 RewardEXP=150
@@ -119,7 +119,7 @@ DescFinal=Cada vez estas mas preprado para dejar de ser Newbie! Y toma este mart
 RequiredLevel=11
  
 RequiredOBJs=1
-RequiredOBJ1=163=1
+RequiredOBJ1=163-1
  
 RequiredNPCs=0
 RequiredNPC1=0
@@ -128,7 +128,7 @@ RewardGLD=500
 RewardEXP=2500
  
 RewardOBJs=1
-RewardOBJ1=389=1
+RewardOBJ1=389-1
 
 
 [QUEST7]
@@ -139,7 +139,7 @@ DescFinal=Lo siento pero..  Tu ya no eres newbie! Adelante Aventurero!!!
 RequiredLevel=12
  
 RequiredOBJs=1
-RequiredOBJ1=165=1
+RequiredOBJ1=165-1
  
 RequiredNPCs=0
 RequiredNPC1=0
@@ -148,7 +148,7 @@ RewardGLD=1000
 RewardEXP=12142
  
 RewardOBJs=1
-RewardOBJ1=389=1
+RewardOBJ1=389-1
 
 
 ----------------------------Quest Ullathorpe Ciudad te taladores y carpinteros---------------------------------------
@@ -163,7 +163,7 @@ RequiredOBJs=1
 RequiredOBJ1=404-1
 
 RequiredNPCs=1
-RequiredNPC1=539=1
+RequiredNPC1=539-1
  
 RewardGLD=500
 RewardEXP=1000
@@ -182,10 +182,10 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=4
-RequiredNPC1=501=4
-RequiredNPC2=510=1
-RequiredNPC3=523=2
-RequiredNPC4=636=6
+RequiredNPC1=501-4
+RequiredNPC2=510-1
+RequiredNPC3=523-2
+RequiredNPC4=636-6
  
 RewardGLD=2000
 RewardEXP=3500
@@ -204,9 +204,9 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=507=3
-RequiredNPC1=502=4
-RequiredNPC1=503=5
+RequiredNPC1=507-3
+RequiredNPC1=502-4
+RequiredNPC1=503-5
  
 RewardGLD=1750
 RewardEXP=3500
@@ -225,7 +225,7 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=511=2
+RequiredNPC1=511-2
  
 RewardGLD=2000
 RewardEXP=5500
@@ -245,7 +245,7 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=529=20
+RequiredNPC1=529-20
  
 RewardGLD=2500
 RewardEXP=6500
@@ -265,7 +265,7 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=531=1
+RequiredNPC1=531-1
  
 RewardGLD=4500
 RewardEXP=7500
@@ -282,7 +282,7 @@ DescFinal= Aqui tienes! a Navegar!!!
 RequiredLevel=18
  
 RequiredOBJs=1
-RequiredOBJ1=58=2000
+RequiredOBJ1=58-2000
 
 RequiredNPCs=0
 RequiredNPC1=0
@@ -304,7 +304,7 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=510=5
+RequiredNPC1=510-5
  
 RewardGLD=2250
 RewardEXP=6250
@@ -324,14 +324,14 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=606=2
+RequiredNPC1=606-2
  
 RewardGLD=3000
 RewardEXP=7250
  
 RewardOBJs=2
-RewardOBJ1=131
-RewardOBJ2=383
+RewardOBJ1=131-1
+RewardOBJ2=383-1
 
 
 
@@ -342,10 +342,10 @@ DescFinal=Gracias!
 RequiredLevel=21
  
 RequiredOBJs=1
-RequiredOBJ1=404=10
+RequiredOBJ1=404-10
 
 RequiredNPCs=1
-RequiredNPC1=539=10
+RequiredNPC1=539-10
  
 RewardGLD=3000
 RewardEXP=7750
@@ -360,15 +360,15 @@ Desc=La guerra la ganamos JE! ahora tenemos que celebrarlo,matame unos cuantos c
 DescFinal= Toma,esta vestimenta ya no la voy a usar mas.
 RequiredLevel=22
  
-RequiredOBJs=10
-RequiredOBJ1=0=10
+RequiredOBJs=0
+RequiredOBJ1=0-10
 
 RequiredNPCs=1
-RequiredNPC1=612=10
+RequiredNPC1=612-10
  
 RewardGLD=3000
 RewardEXP=7750
  
 RewardOBJs=1
-RewardOBJ1=239=1
+RewardOBJ1=239-1
 
