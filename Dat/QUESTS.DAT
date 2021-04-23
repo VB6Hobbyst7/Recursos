@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=14
+NumQuests=18
  
 
 ---------------------------Quest Newbie Dungeon Iniciales----------------------------
@@ -293,4 +293,82 @@ RewardEXP=0
 RewardOBJs=1
 RewardOBJ1=0
 
+---------------------------------------- quest nix ciudad de pescadores ----------------------------------
+[QUEST15]
+Nombre=Catacumbas
+Desc=Las catacubmas estan infectadas de arañas y los newbies no se atreben a pasar por ellas,mata 5 arañas para despejar la zona,si puedes claro!
+DescFinal= ja ja ja, esta era facil... solo una pequeña prueba.
+RequiredLevel=19
+ 
+RequiredOBJs=0
+RequiredOBJ1=0
+
+RequiredNPCs=1
+RequiredNPC1=510=5
+ 
+RewardGLD=2250
+RewardEXP=6250
+ 
+RewardOBJs=0
+RewardOBJ1=0
+
+
+
+[QUEST16]
+Nombre=Navegando
+Desc=Los pescadores tienen miedo de pescar,Ahi unos tiburon rondando estas orillas de nix,deberias de tener una balsa para navegarbuscalo y acaba con el!
+DescFinal=Ahora los pescadores estan tranquilos,toma estos regalos.
+RequiredLevel=20
+ 
+RequiredOBJs=0
+RequiredOBJ1=0
+
+RequiredNPCs=1
+RequiredNPC1=606=2
+ 
+RewardGLD=3000
+RewardEXP=7250
+ 
+RewardOBJs=2
+RewardOBJ1=131
+RewardOBJ2=383
+
+
+
+[QUEST17]
+Nombre=Escudos
+Desc=Necesito escudos para mi clan,aqui a la derecha viven muchas tortugas gigantes,traeme 10 caparazones para poder protejernos de la gran batalla que se aproxima!
+DescFinal=Gracias!
+RequiredLevel=21
+ 
+RequiredOBJs=1
+RequiredOBJ1=404=10
+
+RequiredNPCs=1
+RequiredNPC1=539=10
+ 
+RewardGLD=3000
+RewardEXP=7750
+ 
+RewardOBJs=0
+RewardOBJ1=0
+
+
+[QUEST18] ' falta implementar la piel de cocodrilo
+Nombre=Pantano
+Desc=La guerra la ganamos JE! ahora tenemos que celebrarlo,matame unos cuantos cocodrilos y traeme sus pieles para hacerme una buena vestimenta de fiesta.
+DescFinal= Toma,esta vestimenta ya no la voy a usar mas.
+RequiredLevel=22
+ 
+RequiredOBJs=10
+RequiredOBJ1=0=10
+
+RequiredNPCs=1
+RequiredNPC1=612=10
+ 
+RewardGLD=3000
+RewardEXP=7750
+ 
+RewardOBJs=1
+RewardOBJ1=239=1
 
