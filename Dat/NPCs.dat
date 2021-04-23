@@ -80,7 +80,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=928
+NumNPCs=929
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9474,7 +9474,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 
-
+-------------------------------- Quests -----------------------------------------------
 [NPC927]
 Name=Quest Newbie Dungeon
 NpcType=0
@@ -9491,6 +9491,12 @@ Alineacion=0
 Comercia=0
 BackUp=0
 QuestNumber=1
+QuestNumber=2
+QuestNumber=3
+QuestNumber=4
+QuestNumber=5
+QuestNumber=6
+QuestNumber=7
 
 [NPC928]
 Name=Quest Ullathorpe
@@ -9507,4 +9513,29 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+QuestNumber=8
+QuestNumber=9
+QuestNumber=10
+QuestNumber=11
+QuestNumber=12
+QuestNumber=13
+QuestNumber=14
+
+
+[NPC929]
+Name=Quest Nix
+NpcType=0
+Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. /QUEST.
+Head=5
+Heading=4
+Body=135
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
 QuestNumber=1
+
