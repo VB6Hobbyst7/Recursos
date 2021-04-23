@@ -80,7 +80,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=926
+NumNPCs=928
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9473,3 +9473,38 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+
+
+[NPC927]
+Name=Quest Newbie Dungeon
+NpcType=0
+Desc=¡Buen día ! El newbie dungeon es el lugar mas famoso de entreno para los principiantes! Puedo compensarte con algunas misiones /QUEST.
+Head=0
+Heading=3
+Body=4
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=1
+
+[NPC928]
+Name=Quest Ullathorpe
+NpcType=0
+Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos. /QUEST.
+Head=0
+Heading=3
+Body=4
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=1
