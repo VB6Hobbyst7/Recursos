@@ -18,49 +18,59 @@ PosMap=34
 ----------------------------QUEST Newbie Dungeon-----------------------------------------
 
 [QUEST2]
-Nombre= Muchas bocas que alimentar!.
-Desc= ¿Puedes darme una mano? Están llegando aventureros por montones y no tengo con que alimentarlos. Si puedes ve y mata 10 pollos. Recuerda que necesito sus cuerpos, trata de no ser muy duro con ellos.
-DescFinal= ¡Genial, muy buen trabajo! Pondré manos a la obra ya mismo, esos pollos no se cocinarán solos. ¿O si?
+Nombre=Estamina
+Desc=Aveces muchas muertes son causa de la mala alimentacion.. Debes de comer y beber para mantener siempre una buena energia que te permita viajar y defenderte! por cierto.. tengo hambre! me traes 1 pollo y un vino??
+DescFinal=Increible! un pollo bien hermoso y una botella de vino de calidad,agarra este hacha y tendre mas misiones para ti!
 NextQuest=
 RequiredLevel=1
-RequiredOBJs=1
-RequiredOBJ1=26-10
-RequiredNPCs=1
-RequiredNPC1=501-10
-RewardGLD=150
-RewardEXP=100
+RequiredOBJs=2
+RequiredOBJ1=26-1
+RequiredOBJ2=42-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=100
+RewardEXP=150
+RewardOBJs=1
+RewardOBJ1=127-1
 PosMap=34
 Repetible=0
 
 [QUEST3]
-Nombre= Plumas
-Desc= Hola de nuevo! Necesito enviar una carta a un paisano que esta en Banderbill. ¿Puedes traerme algunas Pluma de Gallo? son las mejores para escribir.
-Te lo agradeceré.
-DescFinal= Genial! con estas plumas podre escribir muy bien! Toma tu recompensa.
-RequiredLevel=1
+Nombre=Cansancio
+Desc=Despues de comer tanto me siento muy cansado y tengo frio,una de las maneras de recuperar estamina rapida es haciendo una fogata,tengo ya una daga,pero necesitaria 3 maderas para hacer fuego,me las traes??
+Descfinal= Ahora si! estoy con energia suficiente para cualquier cosa! Toma esta espada,la puede usar cualquier clase!
+RequiredLevel=3
 RequiredOBJs=1
-RequiredOBJ1=2596-1
+RequiredOBJ1=58-3
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=150
-RewardEXP=150
+RewardGLD=175 
+RewardEXP=250
+RewardOBJs=1
+RewardOBJ1=2-1
 PosMap=55
 Repetible=0
 
 [QUEST4]
-Nombre= Un veneno mortal.
-Desc= Veo que te sobra valor pero necesitaras más que eso para sobrevivir en estas tierras. Deberás equiparte con todo tipo de pociones para la aventura. Mata 10 serpientes y tráeme su veneno, creo que podré hacer unos cuantos antídotos para ti.
-DescFinal= Buen trabajo, aguardame un instante...Toma!! he podido hacer unas cuantas pociones para ti. Si necesitas más no dudes en regresar.
+Nombre=Combate
+Desc=Cualquiera se encuentra preocupado por el peligro que tienen criaturas que habitan aqui,pero armate de valor.. Mata unos cuantos NPC con la espada que te di y aprende a pegar y alegarte para no ser golpeado !
+DescFinal=Pareces un experto ya! toma estas pociones para curarte de el daño que ayas sufrido!
 NextQuest=
-RequiredLevel=1
-RequiredOBJs=1
-RequiredOBJ1=2492-10
-RequiredNPCs=1
-RequiredNPC1=502-10
-RewardGLD=50
-RewardEXP=150
-RewardOBJs=1
-RewardObj1=2497-5
+RequiredLevel=5
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=4
+RequiredNPC1=504-10
+RequiredNPC2=634-15
+RequiredNPC3=506-15
+RequiredNPC4=501-5
+RewardGLD=300
+RewardEXP=950
+RewardOBJs=4
+RewardOBJ1=491-100
+RewardOBJ2=461-100
+RewardOBJ3=462-50
+RewardOBJ4=166-10
 PosMap=44
 Repetible=0
 

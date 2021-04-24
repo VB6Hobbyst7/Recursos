@@ -9537,10 +9537,9 @@ Comercia=0
 BackUp=0
 
 [NPC930]
-Name=Margareth <Quest de Ullathorpe> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
+Name=Margareth <Quest Newbie Dungeon> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
 NpcType=17
-Desc=Bienvenido a Ullathorpe! es una ciudad muy peligrosa,asi que andate con cuidado!quizas puedas hacerme unos favores que te recompensare gratamente.
-Head=707
+Desc=Bienvenido a Newbie Dungeon!! Yo te enseñare lo basico para aprender!
 Showname=1
 Heading=3
 Body=537
@@ -9552,10 +9551,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=5
-QuestNumber1=1
-QuestNumber2=14
-QuestNumber3=15
-QuestNumber4=16
-QuestNumber5=17
-'QuestNumber= ESTA OPCION SOLO SI SOLO TIENE UNA QUEST PONERLO SIN NUMERO EL QUESTNUMBER
+NumQuest=3
+QuestNumber1=2
+QuestNumber2=3
+QuestNumber3=4
+
