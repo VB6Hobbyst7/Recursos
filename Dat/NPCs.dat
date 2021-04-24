@@ -12,6 +12,9 @@
 7 ====== TIMBEROS
 8 ======
 9 ====== PUEDE RESUCITAR SOLAMENTE A LOS NEWBIES
+14====== objetivos de quest(revisar por que es de ao20 y no se si existe aca)
+17====== Quest npc que da
+
 
 MOVEMENT
 10 ====== PATHFINDING
@@ -80,7 +83,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=929
+NumNPCs=930
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9532,5 +9535,26 @@ Alineacion=0
 Comercia=0
 BackUp=0
 
-
+[NPC930]
+Name=Margareth <Quest de Ullathorpe> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
+NpcType=17
+Desc=Bienvenido a Ullathorpe! es una ciudad muy peligrosa,asi que andate con cuidado!quizas puedas hacerme unos favores que te recompensare gratamente.
+Head=707
+Showname=1
+Heading=3
+Body=537
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=5
+QuestNumber1=1
+QuestNumber2=14
+QuestNumber3=15
+QuestNumber4=16
+QuestNumber5=17
 
