@@ -12,8 +12,8 @@
 7 ====== TIMBEROS
 8 ======
 9 ====== PUEDE RESUCITAR SOLAMENTE A LOS NEWBIES
-14====== objetivos de quest(revisar por que es de ao20 y no se si existe aca)
-17====== Quest npc que da
+14 ====== objetivos de quest(revisar por que es de ao20 y no se si existe aca)
+17 ====== QUEST
 
 
 MOVEMENT
@@ -46,6 +46,7 @@ NPCS GUARDIAS LEGIÓN
 NPCS NO HOSTILES
 NPCS HOSTILES
 NPCS PRETORIANOS
+NPCS QUEST
 
 ##############################################
 ###############REVISIONES#####################
@@ -9557,4 +9558,4 @@ QuestNumber2=14
 QuestNumber3=15
 QuestNumber4=16
 QuestNumber5=17
-
+'QuestNumber= ESTA OPCION SOLO SI SOLO TIENE UNA QUEST PONERLO SIN NUMERO EL QUESTNUMBER
