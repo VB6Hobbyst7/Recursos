@@ -9125,11 +9125,12 @@ EquitandoBody=512
 ############################################
 
 [NPC909]
-Name=Gran Orco Legendario
+Name=Gulfas Morgolock
+Desc=Yo soy el creador de estas tierras ! no te atrevas a retarme!
 NpcType=0
-Head=0
+Head=2
 Heading=3
-Body=537
+Body=56
 Movement=10
 AguaValida=0
 Attackable=1
@@ -9259,21 +9260,37 @@ PoderAtaque=350
 PoderEvasion=300
 BackUp=0Ç
 
-[NPC914]
-Name=Guardian Catas
-NpcType=0
-Desc=¡Soy el Guardian de esta entrada!No te dejare pasar!
-Head=1
-Heading=3
-Body=221
-Movement=1
-Attackable=0
+NPC914] 'Guardian Catas Boss
+Name=Guardian Nivel Dos
+NpcType=10
+Head=2
+Heading=221
+Arma=13
+Escudo=7
+Casco=8
+Movement=11
+Attackable=1
 ReSpawn=0
 Hostile=0
 Domable=0
 Alineacion=0
 Comercia=0
-BackUp=0
+GiveEXP=0
+GiveGLDMin=0
+MinHP=455
+MaxHP=455
+MaxHIT=200
+MinHIT=115
+DEF=30
+PoderAtaque=400
+PoderEvasion=190
+LanzaSpells=5
+Sp1=10
+Sp2=24
+Sp3=25
+Sp4=23
+Sp5=1
+
 
 [NPC915]
 Name=Cazador de osos
