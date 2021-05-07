@@ -12699,7 +12699,6 @@ GrhIndex=30497
 ObjType=4
 Agarrable=1
 
-
 [OBJ1100]
 Name=Balsa
 GrhIndex=30744
@@ -12713,7 +12712,6 @@ MaxDef=0
 Valor=12000
 Crucial=0
 MinSkill=10
-
 
 [OBJ1101] 'Puerta para negocio porque no tiene clave 'ulla
 Name=Puerta de madera abierta
@@ -12737,7 +12735,15 @@ IndexAbierta=1101
 IndexCerrada=1102
 IndexCerradaLlave=1102
 
+[OBJ1103]
+Name=Teleport 
+GrhIndex=31304
+ObjType=19
+Agarrable=1
 
-
-
+[OBJ1104]
+Name=Teleport 
+GrhIndex=31311
+ObjType=19
+Agarrable=1
 
