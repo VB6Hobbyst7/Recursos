@@ -70,7 +70,7 @@ usar primero los nros más bajos.
 [INIT]
 'aca va el numero de OBJ mas alto, NO la cantidad de OBJs.
 'esto sirve para que los GMS puedan ver la lista completa de items para crear en una ventanita.
-NumOBJs=1104
+NumOBJs=1108
 
 
 
@@ -12747,3 +12747,46 @@ GrhIndex=31311
 ObjType=19
 Agarrable=1
 
+[OBJ1105] 'Puerta piedra castillo
+Name=Puerta de piedra abierta
+GrhIndex=31350
+ObjType=6
+Agarrable=1
+Abierta=0
+Llave=0
+IndexAbierta=1105
+IndexCerrada=1106
+IndexCerradaLlave=1106
+
+[OBJ1106] 'Puerta piedra castillo
+Name=Puerta de piedra cerrada
+GrhIndex=31349
+ObjType=6
+Abierta=1
+Agarrable=1
+Llave=0
+IndexAbierta=1105
+IndexCerrada=1106
+IndexCerradaLlave=1106
+
+[OBJ1107] 'Puerta piedra suelo
+Name=Puerta de piedra en suelo abierta
+GrhIndex=31403
+ObjType=6
+Agarrable=1
+Abierta=0
+Llave=0
+IndexAbierta=1107
+IndexCerrada=1108
+IndexCerradaLlave=1108
+
+[OBJ1108] 'Puerta piedra suelo
+Name=Puerta de piedra en suelo cerrada
+GrhIndex=31404
+ObjType=6
+Abierta=1
+Agarrable=1
+Llave=0
+IndexAbierta=1107
+IndexCerrada=1108
+IndexCerradaLlave=1108
