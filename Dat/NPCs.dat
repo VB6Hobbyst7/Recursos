@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=930
+NumNPCs=932
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9572,4 +9572,51 @@ NumQuest=3
 QuestNumber1=2
 QuestNumber2=3
 QuestNumber3=4
+
+[NPC931]
+Name=Rey
+NpcType=0
+Head=1
+Heading=3
+Body=364
+Movement=0
+AguaValida=0
+Attackable=1
+ReSpawn=1
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=0
+GiveGLD=0
+MinHP=50000
+MaxHP=50000
+MaxHIT=300
+MinHIT=300
+DEF=30
+PoderAtaque=1000
+PoderEvasion=270
+LanzaSpells=3
+Sp1=3
+Sp2=10
+Sp3=1
+AfectaParalisis=1
+BackUp=1
+
+[NPC932] 'Asesino DagaRusa
+Name=Asesino
+NpcType=0
+Head=-1
+Heading=3
+Body=221
+Arma=3
+Casco=1
+Escudo=4
+Movement=0
+Attackable=0
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=0
+Comercia=0
 
