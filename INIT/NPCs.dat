@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 610
+Actual Npc con Nro más alto: 936
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 610
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=930
+NumNPCs=936
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9125,11 +9125,12 @@ EquitandoBody=512
 ############################################
 
 [NPC909]
-Name=Gran Orco Legendario
+Name=Gulfas Morgolock
+Desc=Yo soy el creador de estas tierras ! no te atrevas a retarme!
 NpcType=0
-Head=0
+Head=2
 Heading=3
-Body=537
+Body=56
 Movement=10
 AguaValida=0
 Attackable=1
@@ -9257,23 +9258,39 @@ MinHIT=200
 DEF=10
 PoderAtaque=350
 PoderEvasion=300
-BackUp=0Ç
+BackUp=0
 
-[NPC914]
-Name=Guardian Catas
-NpcType=0
-Desc=¡Soy el Guardian de esta entrada!No te dejare pasar!
-Head=1
-Heading=3
-Body=221
-Movement=1
-Attackable=0
+NPC914] 'Guardian Catas Boss
+Name=Guardian Nivel Dos
+NpcType=10
+Head=2
+Heading=221
+Arma=13
+Escudo=7
+Casco=8
+Movement=11
+Attackable=1
 ReSpawn=0
 Hostile=0
 Domable=0
 Alineacion=0
 Comercia=0
-BackUp=0
+GiveEXP=0
+GiveGLDMin=0
+MinHP=455
+MaxHP=455
+MaxHIT=200
+MinHIT=115
+DEF=30
+PoderAtaque=400
+PoderEvasion=190
+LanzaSpells=5
+Sp1=10
+Sp2=24
+Sp3=25
+Sp4=23
+Sp5=1
+
 
 [NPC915]
 Name=Cazador de osos
@@ -9555,4 +9572,195 @@ NumQuest=3
 QuestNumber1=2
 QuestNumber2=3
 QuestNumber3=4
+
+[NPC931]
+Name=Rey
+NpcType=0
+Head=1
+Heading=3
+Body=364
+Movement=0
+AguaValida=0
+Attackable=1
+ReSpawn=1
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=0
+GiveGLD=0
+MinHP=50000
+MaxHP=50000
+MaxHIT=300
+MinHIT=300
+DEF=30
+PoderAtaque=1000
+PoderEvasion=270
+LanzaSpells=3
+Sp1=3
+Sp2=10
+Sp3=1
+AfectaParalisis=1
+BackUp=1
+
+[NPC932] 'Asesino DagaRusa
+Name=Asesino
+NpcType=0
+Head=-1
+Heading=3
+Body=221
+Arma=3
+Casco=1
+Escudo=4
+Movement=0
+Attackable=0
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=0
+Comercia=0
+
+[NPC933] 
+Name=Áncalon, el dragón dorado
+NpcType=0
+Head=0
+Heading=3
+Body=551
+Movement=3
+AguaValida=0
+Attackable=1
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=265000
+GiveGLDMin=30000
+GiveGLDMax=60000
+MinHP=200000
+MaxHP=200000
+MaxHIT=5000
+MinHIT=1000
+DEF=0
+PoderAtaque=400
+PoderEvasion=320
+LanzaSpells=2
+Sp1=15
+Sp2=25
+SND1=30
+SND2=31
+SND3=32
+NROITEMS=1
+Obj1=194-1500
+AfectaParalisis=1
+BackUp=0
+
+[NPC934] 
+Name=Cthulu
+NpcType=0
+Head=0
+Heading=3
+Body=550
+Movement=3
+AguaValida=0
+Attackable=1
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=265000
+GiveGLDMin=30000
+GiveGLDMax=60000
+MinHP=200000
+MaxHP=200000
+MaxHIT=5000
+MinHIT=1000
+DEF=0
+PoderAtaque=400
+PoderEvasion=320
+LanzaSpells=2
+Sp1=15
+Sp2=25
+SND1=30
+SND2=31
+SND3=32
+NROITEMS=1
+Obj1=194-1500
+AfectaParalisis=1
+BackUp=0
+
+[NPC935]
+Name=Yik'ahku
+NpcType=0
+Head=0
+Heading=3
+Body=549
+Movement=3
+AguaValida=0
+Attackable=1
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=265000
+GiveGLDMin=30000
+GiveGLDMax=60000
+MinHP=200000
+MaxHP=200000
+MaxHIT=5000
+MinHIT=1000
+DEF=0
+PoderAtaque=400
+PoderEvasion=320
+LanzaSpells=2
+Sp1=15
+Sp2=25
+SND1=30
+SND2=31
+SND3=32
+NROITEMS=1
+Obj1=194-1500
+AfectaParalisis=1
+BackUp=0
+
+[NPC936]
+Name=Reina Medusa
+NpcType=0
+Head=0
+Heading=3
+Body=548
+Movement=3
+AguaValida=0
+Attackable=1
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=265000
+GiveGLDMin=30000
+GiveGLDMax=60000
+MinHP=200000
+MaxHP=200000
+MaxHIT=5000
+MinHIT=1000
+DEF=0
+PoderAtaque=400
+PoderEvasion=320
+LanzaSpells=2
+Sp1=15
+Sp2=25
+SND1=30
+SND2=31
+SND3=32
+NROITEMS=1
+Obj1=194-1500
+AfectaParalisis=1
+BackUp=0
+
+
+
+
 
