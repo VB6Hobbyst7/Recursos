@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 936
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=970
+NumNPCs=967
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9924,7 +9924,7 @@ QuestNumber=
 Name=Hobbit
 NpcType=0
 Desc=Tengo que hacer un viaje muy largo en otras tierras,estoy tomando un descanso.
-Head=1
+Head=0
 Heading=3
 Body=561
 Movement=1
@@ -9942,9 +9942,9 @@ QuestNumber=
 Name=Gollum
 NpcType=0
 Desc=MI TESORO! MI TESOOOROOO!!!Trame mi tesoro y te recompensare!!!!!
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=562
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9957,12 +9957,12 @@ QuestNumber=
 
 
 [NPC949]
-Name=
+Name=Pirata pata de palo
 NpcType=0
-Desc=
-Head=1
+Desc=Yo era un capitan..hace ya mucho,un tiburon me arranco una pata!
+Head=0
 Heading=3
-Body=58
+Body=563
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9975,12 +9975,12 @@ QuestNumber=
 
 
 [NPC950]
-Name=
+Name=Mendigo
 NpcType=0
-Desc=
-Head=1
+Desc=Porfavor dame unas monedas para alimentarme!
+Head=0
 Heading=3
-Body=58
+Body=564
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9993,12 +9993,12 @@ QuestNumber=
 
 
 [NPC951]
-Name=
+Name=La muerte
 NpcType=0
-Desc=
-Head=1
+Desc=No me mires mucho si no quieres encontrarme.
+Head=0
 Heading=3
-Body=58
+Body=565
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10011,12 +10011,12 @@ QuestNumber=
 
 
 [NPC952]
-Name=
+Name=Arquero Elfo
 NpcType=0
-Desc=
-Head=1
+Desc=Me quede sin flechas,traeme algunas y te recompensare!
+Head=0
 Heading=3
-Body=58
+Body=566
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10029,16 +10029,16 @@ QuestNumber=
 
 
 [NPC953]
-Name=
+Name=Espantapajaros
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=567
 Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
+Attackable=1
+ReSpawn=1
+Hostile=1
 Domable=0
 Alineacion=0
 Comercia=0
@@ -10047,12 +10047,12 @@ QuestNumber=
 
 
 [NPC954]
-Name=
+Name=Budista Meditando
 NpcType=0
-Desc=
-Head=1
+Desc=Estoy meditando! no molestes!
+Head=0
 Heading=3
-Body=58
+Body=568
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10065,12 +10065,12 @@ QuestNumber=
 
 
 [NPC955]
-Name=
+Name=Pirata
 NpcType=0
-Desc=
-Head=1
+Desc=Yo domino los mares!
+Head=0
 Heading=3
-Body=58
+Body=569
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10083,12 +10083,12 @@ QuestNumber=
 
 
 [NPC956]
-Name=
+Name=Budista
 NpcType=0
-Desc=
-Head=1
+Desc=Esto antes era un templo budista,quieres saber mas?
+Head0
 Heading=3
-Body=58
+Body=570
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10101,12 +10101,12 @@ QuestNumber=
 
 
 [NPC957]
-Name=
+Name=Decoracion calaveras
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=571
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10119,12 +10119,12 @@ QuestNumber=
 
 
 [NPC958]
-Name=
+Name=Planta de tomate
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=572
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10137,12 +10137,12 @@ QuestNumber=
 
 
 [NPC959]
-Name=
+Name=Cofre cerrado
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=573
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10155,12 +10155,12 @@ QuestNumber=
 
 
 [NPC960]
-Name=
+Name=Piedra pequeña
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=574
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10173,12 +10173,12 @@ QuestNumber=
 
 
 [NPC961]
-Name=
+Name=Piedra Grande
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=575
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10191,12 +10191,12 @@ QuestNumber=
 
 
 [NPC962]
-Name=
+Name=Lapida vieja
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=576
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10209,12 +10209,12 @@ QuestNumber=
 
 
 [NPC963]
-Name=
+Name=lapida muy vieja
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=577
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10227,12 +10227,12 @@ QuestNumber=
 
 
 [NPC964]
-Name=
+Name=Regalo
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=578
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10245,12 +10245,12 @@ QuestNumber=
 
 
 [NPC965]
-Name=
+Name=Cofre pirata
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=579
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10262,12 +10262,12 @@ BackUp=0
 QuestNumber=
 
 [NPC967]
-Name=
+Name=Lapida
 NpcType=0
 Desc=
-Head=1
+Head=0
 Heading=3
-Body=58
+Body=580
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10277,57 +10277,4 @@ Alineacion=0
 Comercia=0
 BackUp=0
 QuestNumber=
-
-[NPC968]
-Name=
-NpcType=0
-Desc=
-Head=1
-Heading=3
-Body=58
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-[NPC969]
-Name=
-NpcType=0
-Desc=
-Head=1
-Heading=3
-Body=58
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-[NPC970]
-Name=
-NpcType=0
-Desc=
-Head=1
-Heading=3
-Body=58
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
 
