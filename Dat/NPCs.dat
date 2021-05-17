@@ -9761,7 +9761,7 @@ BackUp=0
 [NPC938]
 Name=Guardia Azul Quest
 NpcType=0
-Desc=
+Desc=Soy un escolta real,de la mas alta elite,quizas puedas hacerme unos favores.
 Head=0
 Heading=3
 Body=552
@@ -9777,12 +9777,12 @@ QuestNumber=
 
 
 [NPC939]
-Name=
+Name=Mercenario
 NpcType=0
-Desc=
-Head=1
+Desc=Pero mis servicios son demasiado costosos para ti,prueba con alguien de tu nivel.
+Head=0
 Heading=3
-Body=58
+Body=553
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9795,12 +9795,12 @@ QuestNumber=
 
 
 [NPC940]
-Name=
+Name=Guardia Budista
 NpcType=0
-Desc=
-Head=1
+Desc=Yo era un defensor del Templo Budista,si si...antes era un Templo sagrado,quieres saber mas?
+Head=0
 Heading=3
-Body=58
+Body=554
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9813,12 +9813,12 @@ QuestNumber=
 
 
 [NPC941]
-Name=
+Name=Viajero
 NpcType=0
-Desc=
-Head=1
+Desc=Estoy de viaje por estas tierras,puedo compensarte a camvio de unos favores.
+Head=0
 Heading=3
-Body=58
+Body=555
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9831,12 +9831,12 @@ QuestNumber=
 
 
 [NPC942]
-Name=
+Name=Caballero sediento
 NpcType=0
-Desc=
-Head=1
+Desc=Que miras? solo estoy echando un trago,vengo de Nix y estoy sediento.
+Head=0
 Heading=3
-Body=58
+Body=556
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9849,12 +9849,12 @@ QuestNumber=
 
 
 [NPC943]
-Name=
+Name=Gandalf
 NpcType=0
-Desc=
-Head=1
+Desc=Soy un buen Mago,pero tambien me gusta disfrutar de la buena musica y bebidas,la taberna de banderbille es la mejor!
+Head=0
 Heading=3
-Body=58
+Body=557
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9867,12 +9867,12 @@ QuestNumber=
 
 
 [NPC944]
-Name=
+Name=Caballero
 NpcType=0
-Desc=
-Head=1
+Desc=No te atrevas a desafiarme con esa mirada! te cres valiente?? haver si puedes cumplir alguna de mis misiones!
+Head=0
 Heading=3
-Body=58
+Body=558
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9885,12 +9885,12 @@ QuestNumber=
 
 
 [NPC945]
-Name=
+Name=Rufian
 NpcType=0
-Desc=
-Head=1
+Desc=Estoy aqui perdido hace dias,necesito unas cuantas cosas,me puedes ayudar?
+Head=0
 Heading=3
-Body=58
+Body=559
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9903,12 +9903,12 @@ QuestNumber=
 
 
 [NPC946]
-Name=
+Name=Enano Guerrero
 NpcType=0
-Desc=
-Head=1
+Desc=Mi hacha ya esta gastada,podrias traerme una hacha nueva?
+Head=0
 Heading=3
-Body=58
+Body=560
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -9921,12 +9921,12 @@ QuestNumber=
 
 
 [NPC947]
-Name=
+Name=Hobbit
 NpcType=0
-Desc=
+Desc=Tengo que hacer un viaje muy largo en otras tierras,estoy tomando un descanso.
 Head=1
 Heading=3
-Body=58
+Body=561
 Movement=1
 Attackable=0
 ReSpawn=0
