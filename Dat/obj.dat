@@ -99,6 +99,7 @@ LingH=3
 LingP=0
 LingO=0
 SkHerreria=25
+SkillcombateArm=7
 
 [OBJ3]
 Name=Hacha
@@ -120,6 +121,7 @@ LingH=2
 LingP=0
 LingO=0
 SkHerreria=15
+SkillcombateArm=8
 
 [OBJ4]
 Name=Árbol
@@ -181,6 +183,7 @@ LingH=1
 LingP=0
 LingO=0
 SkHerreria=10
+SkillcombateArm=2
 
 [OBJ10]
 Name=Cofre Abierto
@@ -291,7 +294,8 @@ CP6=CLERIGO
 LingH=16
 LingP=0
 LingO=0
-SkHerreria=20
+SkHerreria=20ç
+SkillcombateArm=10
 
 [OBJ20]
 Name=Lápida
@@ -1361,6 +1365,7 @@ LingH=60
 LingP=0
 LingO=0
 SkHerreria=70
+SkillcombateArm=45
 
 [OBJ124]
 Name=Katana
@@ -1381,6 +1386,7 @@ LingH=43
 LingP=0
 LingO=0
 SkHerreria=55
+SkillcombateArm=55
 
 [OBJ125]
 Name=Sable
@@ -1407,6 +1413,7 @@ LingH=33
 LingP=0
 LingO=0
 SkHerreria=30
+SkillcombateArm=40
 
 [OBJ126]
 Name=Hacha Larga de Guerra
@@ -1430,6 +1437,7 @@ LingH=90
 LingP=0
 LingO=0
 SkHerreria=90
+SkillcombateArm=50
 
 [OBJ127]
 Name=Hacha de Leñador
@@ -1469,6 +1477,7 @@ LingH=60
 LingP=0
 LingO=0
 SkHerreria=55
+SkillDefEscudos=15
 
 [OBJ129]
 Name=Hacha de Guerra Dos Filos
@@ -1493,6 +1502,7 @@ LingH=85
 LingP=0
 LingO=0
 SkHerreria=86
+SkillcombateArm=60
 
 [OBJ130]
 Name=Escudo de Plata
@@ -1510,13 +1520,13 @@ CP2=DRUIDA
 CP3=LADRON
 CP4=BARDO
 CP5=PIRATA
-CP6=ASESINO
 CP7=CAZADOR
 CP8=TRABAJADOR
 LingH=100
 LingP=50
 LingO=0
 SkHerreria=85
+SkillDefEscudos=20
 
 [OBJ131]
 Name=Casco de Hierro Completo
@@ -1581,6 +1591,7 @@ LingH=60
 LingP=30
 LingO=0
 SkHerreria=70
+SkillDefEscudos=15
 
 [OBJ134]
 Name=Cartel Armaduras
@@ -1873,6 +1884,7 @@ LingH=7
 LingP=0
 LingO=0
 SkHerreria=15
+Skillapuñalar=15
 Upgrade=365
 
 [OBJ166] 
@@ -4071,11 +4083,23 @@ MinHit=3
 MaxHit=6
 Apuñala=1
 Valor=1960
+CP1=PIRATA
+CP2=MAGO
+CP3=PALADIN
+CP4=CLERIGO
+CP5=CAZADOR
+CP6=LADRON
+CP7=BANDIDO
+CP8=GUERRERO
+CP9=BARDO
+CP10=DRUIDA
+CP11=TRABAJADOR
 Crucial=0
 LingH=28
 LingP=0
 LingO=0
 SkHerreria=35
+Skillapuñalar=25
 Upgrade=366
 
 [OBJ366]
@@ -4089,13 +4113,24 @@ MaxHit=7
 Apuñala=1
 Valor=2660
 Crucial=0
-CP1=GUERRERO
+CP1=PIRATA
+CP2=MAGO
+CP3=PALADIN
+CP4=CLERIGO
+CP5=CAZADOR
+CP6=LADRON
+CP7=BANDIDO
+CP8=GUERRERO
+CP9=BARDO
+CP10=DRUIDA
+CP11=TRABAJADOR
 LingH=38
 LingP=0
 LingO=0
 SkHerreria=50
+Skillapuñalar=55
 Upgrade=367
-CP2=PIRATA
+
 
 [OBJ367]
 Name=Daga +4
@@ -4123,6 +4158,7 @@ LingH=50
 LingP=0
 LingO=0
 SkHerreria=75
+Skillapuñalar=80
 
 [OBJ368]
 Name=Lápida
@@ -4619,6 +4655,7 @@ LingH=500
 LingP=400
 LingO=300
 SkHerreria=100
+StaminaNe=300
 
 [OBJ403]
 Name=Espada de Plata
@@ -4644,6 +4681,7 @@ LingH=140
 LingP=220
 LingO=0
 SkHerreria=90
+SkillcombateArm=80
 
 [OBJ404]
 Name=Escudo de Tortuga
@@ -4664,6 +4702,7 @@ LingH=5
 LingP=0
 LingO=0
 SkHerreria=20
+SkillDefEscudos=5
 
 
 [OBJ405]
@@ -6603,8 +6642,8 @@ GrhIndex=716
 ObjType=2
 Agarrable=0
 Anim=15
-MinHit=1000
-MaxHit=1000
+MinHit=0
+MaxHit=0
 Valor=188000
 Crucial=0
 LingH=500
@@ -8697,6 +8736,7 @@ LingH=60
 LingP=30
 LingO=0
 SkHerreria=70
+SkillDefEscudos=15
 
 [OBJ709]
 Name=Columna Egipcia
