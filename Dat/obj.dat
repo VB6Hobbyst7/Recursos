@@ -164,26 +164,29 @@ IndexCerrada=8
 IndexCerradaLlave=8
 
 [OBJ9]
-Name=Horquilla
+Name=Guantes de lucha
 GrhIndex=508
 ObjType=2
 Agarrable=0
 Anim=26
-MinHit=1
-MaxHit=2
-Valor=70
+MinHit=2
+MaxHit=5
+Valor=10000
 Crucial=1
 CP1=MAGO
-CP2=DRUIDA
-CP3=LADRON
-CP4=BARDO
+CP2=PIRATA
+CP3=CAZADOR
+CP4=PALADIN
 CP5=ASESINO
-CP6=CLERIGO
+CP6=DRUIDA
+CP7=BARDO
+CP8=GUERRERO
+CP9=CLERIGO
+CP10=TRABAJADOR
 LingH=1
 LingP=0
 LingO=0
 SkHerreria=10
-SkillcombateArm=2
 
 [OBJ10]
 Name=Cofre Abierto
