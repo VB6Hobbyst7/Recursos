@@ -10064,9 +10064,9 @@ QuestNumber=
 
 
 [NPC955]
-Name=Budista Meditando
+Name=Pirata
 NpcType=0
-Desc=Estoy meditando! no molestes!
+Desc=Yo domino los mares!
 Head=0
 Heading=3
 Body=569
@@ -10082,9 +10082,9 @@ QuestNumber=
 
 
 [NPC956]
-Name=Pirata
+Name=Budista
 NpcType=0
-Desc=Yo domino los mares!
+Desc=Esto antes era un templo budista,quieres saber mas?
 Head=0
 Heading=3
 Body=570
@@ -10100,9 +10100,9 @@ QuestNumber=
 
 
 [NPC957]
-Name=Budista
+Name=Pirata
 NpcType=0
-Desc=Esto antes era un templo budista,quieres saber mas?
+Desc=Yo domino los mares!
 Head=0
 Heading=3
 Body=570
