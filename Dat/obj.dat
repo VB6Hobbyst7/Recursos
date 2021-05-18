@@ -70,7 +70,7 @@ usar primero los nros más bajos.
 [INIT]
 'aca va el numero de OBJ mas alto, NO la cantidad de OBJs.
 'esto sirve para que los GMS puedan ver la lista completa de items para crear en una ventanita.
-NumOBJs=1108
+NumOBJs=1109
 
 
 
@@ -12833,3 +12833,11 @@ Llave=0
 IndexAbierta=1107
 IndexCerrada=1108
 IndexCerradaLlave=1108
+
+[OBJ1109]
+Name=Poción Sanadora
+GrhIndex=32101
+ObjType=36
+Agarrable=0
+Valor=0
+Crucial=1
