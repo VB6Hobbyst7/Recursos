@@ -9917,7 +9917,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+QuestNumber=6
 
 
 [NPC947]
@@ -9952,7 +9952,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+QuestNumber=10
 
 
 [NPC949]
@@ -9994,7 +9994,7 @@ QuestNumber=
 [NPC951]
 Name=Mendigo
 NpcType=0
-Desc=Porfavor dame unas monedas para alimentarme!
+Desc=Ayudame,no tengo nada....me das algo para poder tener algo de dignidad?
 Head=0
 Heading=3
 Body=565
@@ -10006,13 +10006,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+QuestNumber=9
 
 
 [NPC952]
 Name=La muerte
 NpcType=0
-Desc=No me mires mucho, si no quieres encontrarme claro.
+Desc=No retes a la muerte,todos morimos algun dia,veamos de que eres capaz.
 Head=0
 Heading=3
 Body=566
@@ -10024,7 +10024,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+QuestNumber=7
 
 
 [NPC953]
@@ -10042,7 +10042,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+QuestNumber=5
 
 
 [NPC954]
@@ -10078,13 +10078,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+QuestNumber=8
 
 
 [NPC956]
 Name=Budista
 NpcType=0
-Desc=Esto antes era un templo budista,quieres saber mas?
+Desc=Los rumores son ciertos,Banderbill era un templo budista,hasta que el rey conqisto el templo y lo convirtio en una fortaleza,pero aun queda parte oculta del templo.
 Head=0
 Heading=3
 Body=570
