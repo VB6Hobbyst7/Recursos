@@ -75,111 +75,103 @@ PosMap=44
 Repetible=0
 
 [QUEST5]
-Nombre= Recetas de Alquimia
-Desc= He oído rumores de que en algún lugar de este dungeon existe un libro con las mejores recetas de alquimia.
- Si logras dar con el tal vez pueda preparar varias posiones para ti.
-DescFinal=
+Nombre= Flechas
+Desc= Necesito flechas para seguir mi aventura,trame unas cuantas y te compensare.
+DescFinal=Gracias! ahora si puedo seguir!
 NextQuest=
-RequiredLevel=3
-RequiredOBJs=0
-RequiredOBJ1=0 
+RequiredLevel=13
+RequiredOBJs=1
+RequiredOBJ1=480-500
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=0
-RewardEXP=150
+RewardGLD=5000
+RewardEXP=15050
 RewardOBJs=0
 RewardObj1=0
-RequiredTargetNPCS=1
-RequiredTargetNPC1=401
 PosMap=47
 Repetible=0
 
 
 [QUEST6]
-Nombre= Un libro en muy mal estado.
-Desc= El libro está en muy mal estado y al parecer le faltan muchas páginas, revisa por los alrededores no pueden estar demasiado lejos.
-Consigue las páginas restantes del libro (10)
-DescFinal=  
+Nombre= Hacha dos filos
+Desc= Mi hacha esta muy desgastada y me es dificil batallar,traeme una hacha y seras compensado!
+DescFinal= Ahora podre destripar a mis enemigos! 
 NextQuest=
-RequiredLevel=5
+RequiredLevel=13
 RequiredOBJs=1
-RequiredOBJ1=2496-10
+RequiredOBJ1=129-1
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=175
-RewardEXP=350
+RewardGLD=15550
+RewardEXP=5350
 PosMap=208
 Repetible=0
 
 
-[QUEST7]
-Nombre= Recetas para pociones
-Desc= Vamos a probar si realmente funciona esto, necesito una pluma de gallo para poder apuntar mis recetas. tráeme dos por si acaso.
-DescFinal=
+[QUEST7] 'Falta añadir tarjet de matar 10 usuarios.
+Nombre= Almas
+Desc= En las tabernas ahi gente buena y gente mala,yo nisiquiera soy gente,soy una sombra,traeme 10 almas si quieres que sigamos hablando.
+DescFinal=MMM mi señor se pondra muy contento.
 NextQuest=
-RequiredLevel=7
-RequiredOBJs=1
-RequiredOBJ1=2596-2
+RequiredLevel=20
+RequiredOBJs=0
+RequiredOBJ1=0
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=250
-RewardEXP=300
+RewardGLD=10000
+RewardEXP=10000
 PosMap=218
 Repetible=0
 
 
 [QUEST8]
-Nombre= Ingredientes extraños
-Desc= ¡Fantástico! Ya podemos realizar todo tipo de pociones; si deseas que haga unas cuantas para ti deberás traerme los siguientes ingredientes: 
-tres Colmillos de serpiente, dos alas de murcielago y un cuerpo de serpiente.
-DescFinal= ¡Increíble! ha sido más rápido de lo que me esperaba, Toma aquí tienes tu recompensa.
+Nombre= Una fragata
+Desc= ¡Estoy tirando en tierra y necesito navegar,lo tengo en la sangre,soy un pirata aventurero en busca de tesoros,si me an abandonado,yo solo me enfrentare a todo el mar!traeme una embarcacion!
+DescFinal=Ahora estoy listo para navegar!
 NextQuest=
-RequiredLevel=6
-RequiredOBJs=3
-RequiredOBJ1=2479-3
-RequiredOBJ2=2480-2
-RequiredOBJ3=2478-1
+RequiredLevel=20
+RequiredOBJs=1
+RequiredOBJ1=474-1
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=100
-RewardEXP=400
+RewardGLD=100000
+RewardEXP=50000
 PosMap=4
 Repetible=0
 
 
 
 [QUEST9]
-Nombre= ¡Oh no, maldita peste!
-Desc= ¡Ten cuidado! He oído rumores de que se ha desatado una peste entre las criaturas de este dungeon. Tráeme una muestra de sus fluidos, tal vez podamos hacer algo.
-DescFinal= Con estas muestras tengo suficiente. ¡Buen trabajo!
+Nombre= Ayuda
+Desc= Unos bandidos me despojaron,eran criminales,por eso vine a Banderbill,es la ciudad del bien...pero no tengo nada...
+DescFinal= Gracias,ahora podre buscar una manera de sobrevivir.
 NextQuest=
-RequiredLevel=7
+RequiredLevel=1
 RequiredOBJs=4
-RequiredOBJ1=2491-1
-RequiredOBJ2=2492-1
-RequiredOBJ3=2494-1
-RequiredOBJ4=2495-1
+RequiredOBJ1=-1-25
+RequiredOBJ2=-43-25
+RequiredOBJ3=-15-1
+RequiredOBJ4=-31-1
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=250
-RewardEXP=500
+RewardGLD=2500
+RewardEXP=2500
 RewardOBJs=0
 RewardObj1=0
 PosMap=206
 Repetible=0
 
 [QUEST10]
-Nombre= El guante
-Desc= ¡No lo vas a creer pero, por estos dungeons hay una serpiente naranja, más poderosa de lo normal, parecía inofensiva pero me mordio la mano y se trago mi guante!
-¡Ve con cuidado por favor, pero MATALA! y si puedes recupera mi guante, seguro que aún yace en sus tripas...
-DescFinal= Un excelente trabajo aventurero o debería llamarte... domador de serpientes Je Je Je, toma estas monedas.
-RequiredLevel=8
+Nombre= Aventura
+Desc=Tengo una enfermedad que me esta matando,me siento cansado y debil,solo puedo curarme con una pocion magica,que la bruja del pantano fabrica,yo estoy debil para luchar ya..
+DescFinal= Gracias,ya me la he tomado,espero que me haga efecto
+RequiredLevel=25
 RequiredOBJs=1
 RequiredOBJ1=2598-1
 RequiredNPCs=0
 RequiredNPC1=0
-RewardGLD=550
-RewardEXP=100
+RewardGLD=25000
+RewardEXP=40000
 PosMap=55
 Repetible=0
 
