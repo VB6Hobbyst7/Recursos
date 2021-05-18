@@ -8453,7 +8453,7 @@ BackUp=0
 ############################################
 
 [NPC643]
-Name=Hombre Lobo
+Name=Guardian del cementerio
 NpcType=0
 Head=0
 Heading=3
@@ -8466,13 +8466,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=1450
-GiveGLDMin=140
-GiveGLDMax=240
-MinHP=1000
-MaxHP=1000
-MaxHIT=100
-MinHIT=75
+GiveEXP=3450
+GiveGLDMin=500
+GiveGLDMax=1040
+MinHP=2000
+MaxHP=2000
+MaxHIT=190
+MinHIT=1305
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
@@ -8537,7 +8537,7 @@ BackUp=0
 ############################################
 
 [NPC646]
-Name=Cría de tigre
+Name=Cabeza de zombie
 NpcType=0
 Head=0
 Heading=3
@@ -8550,13 +8550,14 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=1450
-GiveGLDMin=140
-GiveGLDMax=240
-MinHP=1000
-MaxHP=1000
-MaxHIT=100
-MinHIT=75
+GiveEXP=10
+GiveGLDMin=0
+GiveGLDMax=0
+MinHP=10
+MaxHP=10
+MaxHIT=3
+MinHIT=1
+Veneno=1
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
@@ -8621,7 +8622,7 @@ BackUp=0
 ############################################
 
 [NPC649]
-Name=Grán León
+Name=Bruja del pantano
 NpcType=0
 Head=0
 Heading=3
@@ -8634,16 +8635,21 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=1450
-GiveGLDMin=140
-GiveGLDMax=240
-MinHP=1000
-MaxHP=1000
-MaxHIT=100
-MinHIT=75
-DEF=0
-PoderAtaque=150
-PoderEvasion=70
+GiveEXP=10000
+GiveGLDMin=500
+GiveGLDMax=1200
+MinHP=5500
+MaxHP=5500
+MaxHIT=175
+MinHIT=125
+DEF=20
+PoderAtaque=220
+PoderEvasion=160
+Snd3=169
+LanzaSpells=3
+Sp1=15
+Sp2=23
+Sp3=9
 BackUp=0
 
 ############################################
