@@ -8650,6 +8650,8 @@ LanzaSpells=3
 Sp1=15
 Sp2=23
 Sp3=9
+NumDropquest=10
+Dropquest1=1109-1-1
 BackUp=0
 
 ############################################
