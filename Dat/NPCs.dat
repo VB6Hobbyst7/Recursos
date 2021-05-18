@@ -9937,11 +9937,10 @@ Comercia=0
 BackUp=0
 QuestNumber=
 
-
 [NPC948]
-Name=Gollum
+Name=Guerrero fornido
 NpcType=0
-Desc=MI TESORO! MI TESOOOROOO!!!Trame mi tesoro y te recompensare!!!!!
+Desc=Estoy muy cansado,quieres ayudarme?
 Head=0
 Heading=3
 Body=562
@@ -9957,9 +9956,9 @@ QuestNumber=
 
 
 [NPC949]
-Name=Pirata pata de palo
+Name=Gollum
 NpcType=0
-Desc=Yo era un capitan..hace ya mucho,un tiburon me arranco una pata!
+Desc=MI TESORO! MI TESOOOROOO!!!Trame mi tesoro y te recompensare!!!!!
 Head=0
 Heading=3
 Body=563
@@ -9975,9 +9974,9 @@ QuestNumber=
 
 
 [NPC950]
-Name=Mendigo
+Name=Pirata pata de palo
 NpcType=0
-Desc=Porfavor dame unas monedas para alimentarme!
+Desc=Yo era un capitan..hace ya mucho,un tiburon me arranco una pata!
 Head=0
 Heading=3
 Body=564
@@ -9993,9 +9992,9 @@ QuestNumber=
 
 
 [NPC951]
-Name=La muerte
+Name=Mendigo
 NpcType=0
-Desc=No me mires mucho si no quieres encontrarme.
+Desc=Porfavor dame unas monedas para alimentarme!
 Head=0
 Heading=3
 Body=565
@@ -10011,9 +10010,9 @@ QuestNumber=
 
 
 [NPC952]
-Name=Arquero Elfo
+Name=La muerte
 NpcType=0
-Desc=Me quede sin flechas,traeme algunas y te recompensare!
+Desc=No me mires mucho si no quieres encontrarme.
 Head=0
 Heading=3
 Body=566
@@ -10029,30 +10028,12 @@ QuestNumber=
 
 
 [NPC953]
-Name=Espantapajaros
+Name=Arquero Elfo
 NpcType=0
-Desc=
+Desc=Me quede sin flechas,traeme algunas y te recompensare!
 Head=0
 Heading=3
 Body=567
-Movement=1
-Attackable=1
-ReSpawn=1
-Hostile=1
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC954]
-Name=Budista Meditando
-NpcType=0
-Desc=Estoy meditando! no molestes!
-Head=0
-Heading=3
-Body=568
 Movement=1
 Attackable=0
 ReSpawn=0
@@ -10064,10 +10045,28 @@ BackUp=0
 QuestNumber=
 
 
-[NPC955]
-Name=Pirata
+[NPC954]
+Name=Espantapajaros
 NpcType=0
-Desc=Yo domino los mares!
+Desc=
+Head=0
+Heading=3
+Body=568
+Movement=1
+Attackable=1
+ReSpawn=1
+Hostile=1
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=
+
+
+[NPC955]
+Name=Budista Meditando
+NpcType=0
+Desc=Estoy meditando! no molestes!
 Head=0
 Heading=3
 Body=569
@@ -10083,10 +10082,10 @@ QuestNumber=
 
 
 [NPC956]
-Name=Budista
+Name=Pirata
 NpcType=0
-Desc=Esto antes era un templo budista,quieres saber mas?
-Head0
+Desc=Yo domino los mares!
+Head=0
 Heading=3
 Body=570
 Movement=1
@@ -10101,6 +10100,24 @@ QuestNumber=
 
 
 [NPC957]
+Name=Budista
+NpcType=0
+Desc=Esto antes era un templo budista,quieres saber mas?
+Head=0
+Heading=3
+Body=570
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=
+
+
+[NPC958]
 Name=Decoracion calaveras
 NpcType=0
 Desc=
@@ -10118,7 +10135,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC958]
+[NPC959]
 Name=Planta de tomate
 NpcType=0
 Desc=
@@ -10136,7 +10153,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC959]
+[NPC960]
 Name=Cofre cerrado
 NpcType=0
 Desc=
@@ -10154,7 +10171,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC960]
+[NPC961]
 Name=Piedra pequeña
 NpcType=0
 Desc=
@@ -10172,7 +10189,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC961]
+[NPC962]
 Name=Piedra Grande
 NpcType=0
 Desc=
@@ -10190,7 +10207,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC962]
+[NPC963]
 Name=Lapida vieja
 NpcType=0
 Desc=
@@ -10208,7 +10225,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC963]
+[NPC964]
 Name=lapida muy vieja
 NpcType=0
 Desc=
@@ -10226,7 +10243,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC964]
+[NPC965]
 Name=Regalo
 NpcType=0
 Desc=
@@ -10244,7 +10261,7 @@ BackUp=0
 QuestNumber=
 
 
-[NPC965]
+[NPC966]
 Name=Cofre pirata
 NpcType=0
 Desc=
