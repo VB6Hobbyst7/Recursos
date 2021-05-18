@@ -9761,7 +9761,7 @@ BackUp=0
 [NPC938]
 Name=Guardia Azul Quest
 NpcType=0
-Desc=Soy un escolta real,de la mas alta elite,quizas puedas hacerme unos favores.
+Desc=Soy un escolta real,quizas puedas hacerme unos favores.
 Head=0
 Heading=3
 Body=552
@@ -9779,7 +9779,7 @@ QuestNumber=
 [NPC939]
 Name=Mercenario
 NpcType=0
-Desc=Pero mis servicios son demasiado costosos para ti,prueba con alguien de tu nivel.
+Desc=Ya estoy viejo,es hora de descansar.
 Head=0
 Heading=3
 Body=553
@@ -9831,9 +9831,9 @@ QuestNumber=
 
 
 [NPC942]
-Name=Caballero sediento
+Name=Doncella
 NpcType=0
-Desc=Que miras? solo estoy echando un trago,vengo de Nix y estoy sediento.
+Desc=Quieres bailar? lara lara me encanta la musica y bailar!
 Head=0
 Heading=3
 Body=556
@@ -9869,7 +9869,7 @@ QuestNumber=
 [NPC944]
 Name=Caballero
 NpcType=0
-Desc=No te atrevas a desafiarme con esa mirada! te cres valiente?? haver si puedes cumplir alguna de mis misiones!
+Desc=te atrevas a desafiarme con esa mirada! te cres valiente?? haver si puedes cumplir alguna de mis misiones!
 Head=0
 Heading=3
 Body=558
@@ -10012,7 +10012,7 @@ QuestNumber=
 [NPC952]
 Name=La muerte
 NpcType=0
-Desc=No me mires mucho si no quieres encontrarme.
+Desc=No me mires mucho, si no quieres encontrarme claro.
 Head=0
 Heading=3
 Body=566
@@ -10066,7 +10066,7 @@ QuestNumber=
 [NPC955]
 Name=Pirata
 NpcType=0
-Desc=Yo domino los mares!
+Desc=Mi capitan pirata me abandono! ayudame!
 Head=0
 Heading=3
 Body=569
