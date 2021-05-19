@@ -9925,7 +9925,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=6
+Numquest=1
+QuestNumber1=6
 
 
 [NPC947]
@@ -9960,7 +9961,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=10
+Numquest=1
+QuestNumber1=10
 
 
 [NPC949]
@@ -10014,7 +10016,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=9
+Numquest=1
+QuestNumber1=9
 
 
 [NPC952]
@@ -10032,7 +10035,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=7
+Numquest=1
+QuestNumber1=7
 
 
 [NPC953]
@@ -10050,7 +10054,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=5
+Numquest=1
+QuestNumber1=5
 
 
 [NPC954]
@@ -10086,7 +10091,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=8
+Numquest=1
+QuestNumber1=8
 
 
 [NPC956]
