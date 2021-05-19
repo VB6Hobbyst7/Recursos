@@ -4547,6 +4547,9 @@ PoderAtaque=100
 PoderEvasion=20
 Snd2=33
 Snd3=164
+NumDropNPC=2
+DropNPC1=646-1-3
+DropNPC2=653-1-3
 BackUp=0
 
 ############################################
@@ -8481,7 +8484,7 @@ BackUp=0
 ############################################
 
 [NPC644]
-Name=Zombie Boss
+Name=Esqueleto roto
 NpcType=0
 Head=0
 Heading=3
@@ -8494,16 +8497,18 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=1450
-GiveGLDMin=140
-GiveGLDMax=240
-MinHP=1000
-MaxHP=1000
-MaxHIT=100
-MinHIT=75
+GiveEXP=25
+GiveGLDMin=2
+GiveGLDMax=6
+MinHP=11
+MaxHP=11
+MaxHIT=5
+MinHIT=3
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
+NumDropNPC=6
+DropNPC1=644-1-3
 BackUp=0
 
 ############################################
@@ -8650,6 +8655,9 @@ LanzaSpells=3
 Sp1=15
 Sp2=23
 Sp3=9
+NumDropNPC=2
+DropNPC1=550-1-3
+DropNPC2=554-1-4
 NumDropquest=10
 Dropquest1=1109-1-1
 BackUp=0
@@ -8741,7 +8749,7 @@ BackUp=0
 ############################################
 
 [NPC653]
-Name=Mano poseída
+Name=Zombie partido
 NpcType=0
 Head=0
 Heading=3
@@ -8754,13 +8762,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=1450
-GiveGLDMin=140
-GiveGLDMax=240
-MinHP=1000
-MaxHP=1000
-MaxHIT=100
-MinHIT=75
+GiveEXP=75
+GiveGLDMin=5
+GiveGLDMax=20
+MinHP=50
+MaxHP=50
+MaxHIT=30
+MinHIT=15
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
@@ -9164,7 +9172,7 @@ NROITEMS=1
 Obj1=1075-1
 
 [NPC910]
-Name=Dark Rotshon
+Name=Dark 
 NpcType=0
 Head=111
 Heading=3
@@ -9191,7 +9199,7 @@ BackUp=0
 
 
 [NPC911]
-Name=Dark Ronin
+Name=Dark Walter
 NpcType=0
 Head=111
 Heading=3
@@ -9217,7 +9225,7 @@ PoderEvasion=300
 BackUp=0
 
 [NPC912]
-Name=Dark Rama
+Name=Dark 
 NpcType=0
 Head=111
 Heading=3
@@ -9302,8 +9310,8 @@ Sp5=1
 
 [NPC915]
 Name=Cazador de osos
-NpcType=0
-Desc=¡Cuidado! Osos salvajes cerca!! /BONUSQUEST
+NpcType=17
+Desc=¡Cuidado! Osos salvajes cerca!! ''QUEST BONUS''
 Head=1
 Heading=3
 Body=58
@@ -9315,10 +9323,12 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+Numquest=1
+QuestNumber1=11
+
 
 [NPC916]
-Name=Mago Veril /BONUSQUEST
+Name=Mago Veril  ''QUEST BONUS''
 NpcType=17
 Desc=¡Cuidado! Esta isla es muy peligrosa!
 Head=5
@@ -9352,9 +9362,9 @@ Comercia=0
 BackUp=0
 
 [NPC918]
-Name=Pescador Nix /BONUSQUEST
+Name=Pescador Nix  ''QUEST BONUS''
 NpcType=17
-Desc=¡ He pescado algo !
+Desc=¡ Oh no! tengo un problema!
 Head=1
 Heading=3
 Body=3
@@ -9366,11 +9376,12 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=4
+Numquest=1
+QuestNumber=13
 
 [NPC919]
 Name=Misero
-NpcType=0
+NpcType=17
 Desc= Aleluya!!
 Head=1
 Heading=3
@@ -9386,7 +9397,7 @@ BackUp=0
 
 [NPC920]
 Name=Misero dos
-NpcType=0
+NpcType=17
 Desc= Perdona mis pecados...
 Head=2
 Heading=3
@@ -9403,7 +9414,7 @@ BackUp=0
 [NPC921]
 Name=Cazador dos
 NpcType=17
-Desc=Ayudame!! /BONUSQUEST
+Desc=Ayudame!!  ''QUEST BONUS''
 Head=2
 Heading=3
 Body=320
@@ -9415,12 +9426,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=6
+Numquest=1
+QuestNumber=15
 
 [NPC922]
 Name=Aviso DD
 NpcType=17
-Desc=Shhhh,tengo una espada matadragones /BONUSQUEST
+Desc=Shhhh,tengo una espada matadragones  ''QUEST BONUS''
 Head=2
 Heading=3
 Body=170
@@ -9432,12 +9444,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=5
+Numquest=1
+QuestNumber=14
 
 [NPC923]
 Name=Entrada catas
 NpcType=17
-Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven! /BONUSQUEST
+Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven!  ''QUEST BONUS''
 Head=4
 Heading=3
 Body=35
@@ -9449,7 +9462,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+Numquest=1
+QuestNumber1=12
 
 [NPC924]
 Name=Camello
@@ -9479,7 +9493,7 @@ BackUp=0
 
 [NPC925]
 Name=Guardia Muralla
-NpcType=0
+NpcType=17
 Desc= El mal habita por las afueras de la ciuad,entra en Banderbill para estar a salvo!
 Head=0
 Heading=3
@@ -9495,7 +9509,7 @@ BackUp=0
 
 [NPC926]
 Name=Guardia Muralla
-NpcType=0
+NpcType=17
 Desc= De las murallas para adentro,estaras a salvo...
 Head=0
 Heading=3
@@ -9530,7 +9544,7 @@ BackUp=0
 [NPC928]
 Name=Quest Ullathorpe
 NpcType=17
-Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos. /QUEST.
+Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos.
 Head=2
 Heading=3
 Body=135
@@ -9548,7 +9562,7 @@ BackUp=0
 [NPC929]
 Name=Quest Nix
 NpcType=17
-Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. /QUEST.
+Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. 
 Head=5
 Heading=4
 Body=135
@@ -9562,7 +9576,7 @@ Comercia=0
 BackUp=0
 
 [NPC930]
-Name=Margareth <Quest Newbie Dungeon> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
+Name=Margareth <Quest Newbie Dungeon>
 NpcType=17
 Desc=Bienvenido a Newbie Dungeon!! Yo te enseñare lo basico para aprender!
 Showname=1
@@ -9907,7 +9921,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+Numquest=1
+QuestNumber1=16
 
 
 [NPC946]
@@ -9931,7 +9946,7 @@ QuestNumber1=6
 
 [NPC947]
 Name=Hobbit
-NpcType=0
+NpcType=17
 Desc=Tengo que hacer un viaje muy largo en otras tierras,estoy tomando un descanso.
 Head=0
 Heading=3
