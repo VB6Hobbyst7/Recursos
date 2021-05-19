@@ -9315,11 +9315,11 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=1
+QuestNumber=
 
 [NPC916]
 Name=Mago Veril /BONUSQUEST
-NpcType=0
+NpcType=17
 Desc=¡Cuidado! Esta isla es muy peligrosa!
 Head=5
 Heading=3
@@ -9332,12 +9332,12 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=3
+QuestNumber=
 
 
 [NPC917]
 Name=Minero Nix
-NpcType=0
+NpcType=17
 Desc=A minar minar minar....
 Head=1
 Heading=3
@@ -9353,7 +9353,7 @@ BackUp=0
 
 [NPC918]
 Name=Pescador Nix /BONUSQUEST
-NpcType=0
+NpcType=17
 Desc=¡ He pescado algo !
 Head=1
 Heading=3
@@ -9402,7 +9402,7 @@ BackUp=0
 
 [NPC921]
 Name=Cazador dos
-NpcType=0
+NpcType=17
 Desc=Ayudame!! /BONUSQUEST
 Head=2
 Heading=3
@@ -9419,7 +9419,7 @@ QuestNumber=6
 
 [NPC922]
 Name=Aviso DD
-NpcType=0
+NpcType=17
 Desc=Shhhh,tengo una espada matadragones /BONUSQUEST
 Head=2
 Heading=3
@@ -9436,7 +9436,7 @@ QuestNumber=5
 
 [NPC923]
 Name=Entrada catas
-NpcType=0
+NpcType=17
 Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven! /BONUSQUEST
 Head=4
 Heading=3
@@ -9449,7 +9449,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=2
+QuestNumber=
 
 [NPC924]
 Name=Camello
@@ -9512,7 +9512,7 @@ BackUp=0
 -------------------------------- Quests -----------------------------------------------
 [NPC927]
 Name=Quest Newbie Dungeon
-NpcType=0
+NpcType=17
 Desc=¡Buen día ! El newbie dungeon es el lugar mas famoso de entreno para los principiantes! Puedo compensarte con algunas misiones /QUEST.
 Head=5
 Heading=3
@@ -9529,7 +9529,7 @@ BackUp=0
 
 [NPC928]
 Name=Quest Ullathorpe
-NpcType=0
+NpcType=17
 Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos. /QUEST.
 Head=2
 Heading=3
@@ -9547,7 +9547,7 @@ BackUp=0
 
 [NPC929]
 Name=Quest Nix
-NpcType=0
+NpcType=17
 Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. /QUEST.
 Head=5
 Heading=4
@@ -9768,7 +9768,7 @@ BackUp=0
 
 [NPC938]
 Name=Guardia Azul Quest
-NpcType=0
+NpcType=17
 Desc=Soy un escolta real,quizas puedas hacerme unos favores.
 Head=0
 Heading=3
@@ -9786,7 +9786,7 @@ QuestNumber=
 
 [NPC939]
 Name=Mercenario
-NpcType=0
+NpcType=17
 Desc=Ya estoy viejo,es hora de descansar.
 Head=0
 Heading=3
@@ -9804,7 +9804,7 @@ QuestNumber=
 
 [NPC940]
 Name=Guardia Budista
-NpcType=0
+NpcType=17
 Desc=Yo era un defensor del Templo Budista,si si...antes era un Templo sagrado,quieres saber mas?
 Head=0
 Heading=3
@@ -9822,7 +9822,7 @@ QuestNumber=
 
 [NPC941]
 Name=Viajero
-NpcType=0
+NpcType=17
 Desc=Estoy de viaje por estas tierras,puedo compensarte a camvio de unos favores.
 Head=0
 Heading=3
@@ -9840,7 +9840,7 @@ QuestNumber=
 
 [NPC942]
 Name=Doncella
-NpcType=0
+NpcType=17
 Desc=Quieres bailar? lara lara me encanta la musica y bailar!
 Head=0
 Heading=3
@@ -9858,7 +9858,7 @@ QuestNumber=
 
 [NPC943]
 Name=Gandalf
-NpcType=0
+NpcType=17
 Desc=Soy un buen Mago,pero tambien me gusta disfrutar de la buena musica y bebidas,la taberna de banderbille es la mejor!
 Head=0
 Heading=3
@@ -9876,7 +9876,7 @@ QuestNumber=
 
 [NPC944]
 Name=Caballero
-NpcType=0
+NpcType=17
 Desc=te atrevas a desafiarme con esa mirada! te cres valiente?? haver si puedes cumplir alguna de mis misiones!
 Head=0
 Heading=3
@@ -9894,7 +9894,7 @@ QuestNumber=
 
 [NPC945]
 Name=Rufian
-NpcType=0
+NpcType=17
 Desc=Estoy aqui perdido hace dias,necesito unas cuantas cosas,me puedes ayudar?
 Head=0
 Heading=3
@@ -9912,7 +9912,7 @@ QuestNumber=
 
 [NPC946]
 Name=Enano Guerrero
-NpcType=0
+NpcType=17
 Desc=Mi hacha ya esta gastada,podrias traerme una hacha nueva?
 Head=0
 Heading=3
@@ -9947,7 +9947,7 @@ QuestNumber=
 
 [NPC948]
 Name=Guerrero fornido
-NpcType=0
+NpcType=17
 Desc=Estoy muy cansado,quieres ayudarme?
 Head=0
 Heading=3
@@ -9965,7 +9965,7 @@ QuestNumber=10
 
 [NPC949]
 Name=Gollum
-NpcType=0
+NpcType=17
 Desc=MI TESORO! MI TESOOOROOO!!!Trame mi tesoro y te recompensare!!!!!
 Head=0
 Heading=3
@@ -9983,7 +9983,7 @@ QuestNumber=
 
 [NPC950]
 Name=Pirata pata de palo
-NpcType=0
+NpcType=17
 Desc=Yo era un capitan..hace ya mucho,un tiburon me arranco una pata!
 Head=0
 Heading=3
@@ -10001,7 +10001,7 @@ QuestNumber=
 
 [NPC951]
 Name=Mendigo
-NpcType=0
+NpcType=17
 Desc=Ayudame,no tengo nada....me das algo para poder tener algo de dignidad?
 Head=0
 Heading=3
@@ -10019,7 +10019,7 @@ QuestNumber=9
 
 [NPC952]
 Name=La muerte
-NpcType=0
+NpcType=17
 Desc=No retes a la muerte,todos morimos algun dia,veamos de que eres capaz.
 Head=0
 Heading=3
@@ -10037,7 +10037,7 @@ QuestNumber=7
 
 [NPC953]
 Name=Arquero Elfo
-NpcType=0
+NpcType=17
 Desc=Me quede sin flechas,traeme algunas y te recompensare!
 Head=0
 Heading=3
@@ -10073,7 +10073,7 @@ QuestNumber=
 
 [NPC955]
 Name=Pirata
-NpcType=0
+NpcType=17
 Desc=Mi capitan pirata me abandono! ayudame!
 Head=0
 Heading=3
@@ -10091,7 +10091,7 @@ QuestNumber=8
 
 [NPC956]
 Name=Budista
-NpcType=0
+NpcType=17
 Desc=Los rumores son ciertos,Banderbill era un templo budista,hasta que el rey conqisto el templo y lo convirtio en una fortaleza,pero aun queda parte oculta del templo.
 Head=0
 Heading=3
@@ -10109,7 +10109,7 @@ QuestNumber=
 
 [NPC957]
 Name=Pirata
-NpcType=0
+NpcType=17
 Desc=Yo domino los mares!
 Head=0
 Heading=3
