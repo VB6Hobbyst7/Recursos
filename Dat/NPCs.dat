@@ -4547,8 +4547,9 @@ PoderAtaque=100
 PoderEvasion=20
 Snd2=33
 Snd3=164
-NumDropNPC=1
+NumDropNPC=2
 DropNPC1=646-1-3
+DropNPC2=653-1-3
 BackUp=0
 
 ############################################
@@ -8748,7 +8749,7 @@ BackUp=0
 ############################################
 
 [NPC653]
-Name=Mano poseída
+Name=Zombie partido
 NpcType=0
 Head=0
 Heading=3
@@ -8761,13 +8762,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=1450
-GiveGLDMin=140
-GiveGLDMax=240
-MinHP=1000
-MaxHP=1000
-MaxHIT=100
-MinHIT=75
+GiveEXP=75
+GiveGLDMin=5
+GiveGLDMax=20
+MinHP=50
+MaxHP=50
+MaxHIT=30
+MinHIT=15
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
