@@ -281,35 +281,36 @@ RewardOBJ2=480-150
 RewardOBJ3=36-30
 PosMap=34
 
-[QUEST16]
-Nombre=El Bandido
-Desc=Ullathorpe era conocida por su tranquilidad, ahora ni eso. Un bandido en camino hacía aquí ha arrebatado mis pertenencías. Acaba con él. El dinero no importa, te lo daré.
-DescFinal=Qué bien quedará esta cabeza en mi mesa de luz. Gracias.
-NextQuest=
-RequiredLevel=13
-RequiredNPCs=1
-RequiredNPC1=553-1
-RequiredOBJs=1
-RequiredOBJ1=2757-1
-RewardGLD=300
-RewardEXP=1000
-PosMap=270
-Repetible=0
-
 [QUEST17]
-Nombre=Ojos de Araña
-Desc=Hoy desperté con una sensación de almorzar un estofado con ojos de araña, raro, verdad? No me animo a adentrarme en las catacumbas, por favor. Traeme unos ojos.
-DescFinal=Mh, luego te comento como sabe.
-RequiredLevel=15
-RequiredNPCs=1
-RequiredNPC1=512-1
+Nombre=La Balsa
+Desc=Aqui no tienes nada que hacer ya..todo esta en paz,mMm espera.. traeme 2000 leños y te are una Balsa para que puedas navegar a zonas poco profundas.
+DescFinal= Aqui tienes! a Navegar!!!
+RequiredLevel=18
 RequiredOBJs=1
-RequiredOBJ1=2484-1
-RewardGLD=1000
-RewardEXP=2000
-PosMap=1
-Repetible=0
+RequiredOBJ1=58-2000
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=34
 
+[QUEST18]
+Nombre=Tiburon
+Desc=Los pescadores tienen miedo de pescar,Ahi unos tiburon rondando estas orillas de nix,deberias de tener una balsa para navegarbuscalo y acaba con el!
+DescFinal=Ahora los pescadores estan tranquilos,toma estos regalos.
+RequiredLevel=8
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=606-2
+RewardGLD=3000
+RewardEXP=7250
+RewardOBJs=2
+RewardOBJ1=131-1
+RewardOBJ2=383-1
+PosMap=34
 
 [QUEST17]
 Nombre=El homicida.

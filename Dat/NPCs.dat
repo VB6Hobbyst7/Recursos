@@ -9364,7 +9364,7 @@ BackUp=0
 [NPC918]
 Name=Pescador Nix  ''QUEST BONUS''
 NpcType=17
-Desc=¡ Oh no! tengo un problema!
+Desc=Soy un veterano pescador.
 Head=1
 Heading=3
 Body=3
@@ -9376,8 +9376,9 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-Numquest=1
-QuestNumber=13
+Numquest=2
+QuestNumber1=13
+QuestNumber2=18
 
 [NPC919]
 Name=Misero
@@ -10143,7 +10144,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+Numquest=1
+QuestNumber=17
 
 
 [NPC958]
