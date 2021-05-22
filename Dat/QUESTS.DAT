@@ -312,155 +312,8 @@ RewardOBJ1=131-1
 RewardOBJ2=383-1
 PosMap=34
 
-[QUEST17]
-Nombre=El homicida.
-Desc=Necesito tu ayuda, en camino a las catacumbas se encuentra un Elfo Oscuro entre las sombras. El mismo lleva una Ropa Oscura, le arrebato la vida a mi hija y solo busco venganza. Traeme su corazón, serás recompensado y guardaremos el secreto.
-DescFinal=Que esto quede aquí, mi hija por fin descansa en paz. Ten esto como  muestra de agradecimiento.
-NextQuest=Le hablé de ti a un amigo mío, Román es su nombre. Está debajo del Muelle de Nix. Ve con él, tiene algo para ti.
-RequiredLevel=15
-RequiredNPCs=1
-RequiredNPC1=552-1
-RequiredOBJs=1
-RequiredOBJ1=2738-1
-RewardGLD=500
-RewardEXP=2300
-PosMap=98
-Repetible=0
-
-[QUEST18]
-Nombre=De Cacería.
-Desc=Que no te engañen, ¡las catacumbas son peligrosas! Pueden parecer bellas y dulces, pero son seres horripilantes, hemos perdido cientos de aventureros allí dentro, por culpa de arañas.
-Necesitamos acabar con esto, hagamos una cacería de arañas.
-¿Puedes matar 15 arañas para despejar la zona? si vuelves con vida, tendré un regalo para ti.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa. Guarda las pociones, serán útiles.
-NextQuest=
-RequiredLevel=15
-RequiredNPCs=1
-RequiredNPC1=512-15
-RewardGLD=2000
-RewardEXP=2500
-RewardOBJs=1
-RewardObj1=38-120
-PosMap=20
-Repetible=0
 
 [QUEST19]
-Nombre=Baja temperatura.
-Desc=Nuestros mineros nos han dado aviso que una plaga de Osos Pardos indagan por el Bosque Dork. Es una buena oportunidad para conseguir Pieles de Calidad.
-Si crees poder con ellos, consigueme 20 pieles. Aquí estaré.
-DescFinal=Te agradezco la ayuda, necesitaba una Armadura de cuero. Quiero darte esto.
-NextQuest=Sí estás en busca de mayores desafios, habla con Federico!
-RequiredLevel=16
-RequiredNPCs=1
-RequiredNPC1=551-20
-RequiredOBJs=1
-RequiredObj1=415-20
-RewardGLD=1000
-RewardEXP=2500
-PosMap=20
-Repetible=0
-
-[QUEST20]
-Nombre=Nuevas especies.
-Desc=Es de público conocimiento que las Catacumbas no son un lugar de niños, pero, creíamos tenerlo controlado. Hace años que nuestros guerreros no aniquilan esas criáturas y han desarrollado nuevas especies. 
-Al parecer, estas no son tan débiles. Una de ellas es enorme, supuestamente yacé en el interior de las Catacumbas. Acabá con ella. 
-DescFinal=No puedo creerlo, estabamos desesperados. Creíamos que sería el fin de nuestra conexión hacia Ullathorpe. Esto es para tí. 
-NextQuest=
-RequiredLevel=18
-RequiredNPCs=1
-RequiredNPC1=979-1
-RewardGLD=2500
-RewardEXP=3000
-PosMap=174
-Repetible=0
-
-[QUEST21]
-Nombre=El Banquete
-Desc=Hola, qué suerte verte por aquí.Estoy con un gran problema, El Rey organizará un banquete ¡y adivina qué! Tendremos la presencia del gran cocinero Shoruk. El Tabernero del Mesón Hostigado ha solicitado que envíe varios ingredientes, pero, lamentablemente no los puedo ir a buscar.
-¿Podrías ayudarme? ¡Consígueme estos ingredientes y un poco de leña para cocinar! Tendrás una recompensa.
-DescFinal=¡Gracias! Me salvaste. Esto es para tí.
-NextQuest=Cuando estés listo nuevamente, ven.
-RequiredLevel=19
-RequiredNPCs=0
-RequiredOBJs=10
-RequiredObj1=26-10
-RequiredObj2=21-20
-RequiredObj3=27-20
-RequiredObj4=28-10
-RequiredObj5=2089-15
-RequiredObj6=2094-15
-RequiredObj7=42-25
-RequiredObj8=160-40
-RequiredObj9=163-50
-RequiredObj10=136=10
-RewardGLD=3000
-RewardEXP=3500
-PosMap=55
-Repetible=0
-
-[QUEST22]
-Nombre=Protección acuática. 
-Desc= Exploradores han comentado que existe una extraña Caverna cerca de Verill, algo como un... ¿Atlantis? No lo sé, investiguemos. En Muelles Olvidados suelen haber nadadores, acabá con dos de ellos para obtener sus trajes. 
-DescFinal=Excelente trabajo! Vamos para allá. 
-NextQuest=
-RequiredLevel=25
-RequiredNPCs=1
-RequiredNPC1=1000-2
-RequiredOBJs=1
-RequiredOBJ1=197=2
-RewardGLD=5000
-RewardEXP=5500
-RewardOBJs=1
-RequiredOBJ1=197-1
-PosMap=106
-Repetible=0
-
-[QUEST23]
-Nombre=Maldición!
-Desc=Agh, casi me desvanezco en aquella cueva. Pensé que mis pulmones daban, estoy equivocado. Necesito que te dirigas hacia la Isla de Morgolock y arranques ese Aliento a las Sirenas. Servirá para adentrarnos. 
-DescFinal= ¡Perfecto! Ahora sí que nada nos frena.
-NextQuest=
-RequiredLevel=26
-RequiredNPCs=1
-RequiredNPC1=515-5
-RequiredOBJs=1
-RequiredOBJ1=394-50
-RewardOBJs=1
-RewardOBJ1=394-25
-PosMap=106
-Repetible=0
-
-[QUEST24]
-Nombre=Continúa
-Desc=Creo que hasta aquí llego lo nuestro, Jovén aprendíz. Ve hasta Banderbill, Henry está buscando a alguien como tú.
-DescFinal=
-NextQuest=
-RequiredLevel=26
-RequiredNPCs=0
-RequiredNPC1=0
-RequiredTargetNPCS=1
-RequiredTargetNPC1=405
-RewardGLD=5000
-RewardEXP=15000
-PosMap=55
-Repetible=0
-
-[QUEST25]
-Nombre=El Corazón
-Desc=Mh, me han comentado de tí. Qué erés bueno, valiente, habilidoso y tienes la actitud necesaría. ¿De mi parte? Solo palabras. Compruébalo, necesito un Corazón de Gerier para un experimento botánico. Y sí, por supuesto: habrá premio.
-DescFinal=Já, quedé con la boca cerrada. Realmente, los rumores eran ciertos.
-NextQuest=
-RequiredLevel=27
-RequiredNPCs=1
-RequiredNPC1=571-1
-RequiredOBJs=1
-RequiredOBJ1=2739-1
-PosMap=106
-RewardGLD=10000
-RewardEXP=25000
-Repetible=0
-
-[QUEST26]
 Nombre=Malditos Piratas
 Desc=Esa horda de Pirátas han robado nuestros tesoros. No pretendo dejar todo como si nada, si lográs vencer una horda de ellos guardaré parte de la recompensa para tí. 
 DescFinal=Siendo sincero, creí que no podrías. ¡Aquí tienés!
@@ -477,25 +330,8 @@ RewardGLD=15000
 RewardEXP=45000
 Repetible=0
 
-[QUEST27]
-Nombre=¿Cacería?
-Desc=Muchas bocas comentan que hay sobrepoblación de Medusas ingresando a los pasillos de Verill, nunca he tenido la valentía para ingresar: acabá con ellas para terminar con el miedo de nuestros Mineros!
-Descfinal=Muy bien hecho, aquí tienes tu recompensa. 
-NextQuest=
-RequiredLevel=29
-RequiredNPCs=1
-RequiredNPC1=540-10
-RequiredNPC2=538-10
-RequiredOBJs=1
-RequiredObj1=2218-20
-PosMap=34
-RewardGLD=35000
-RewardOBJs=1
-RewardOBJ1=2229-1
-RewardEXP=50000
-Repetible=0
 
-[QUEST28]
+[QUEST20]
 Nombre=La espada mítica.
 Desc=Pensé que era una leyenda, pero no... ¡En verdad existe! La Espada Matadragones, encontré el lugar y necesito tu ayuda para recolectar minerales.
 DescFinal=Has tardado mucho, ya tengo los minerales. De igual modo, te recompensaré por tu lealtad. 
@@ -516,40 +352,7 @@ RewardGLD=0
 RewardEXP=55000
 Repetible=0
 
-[QUEST29]
-Nombre=Una Ninfa extraña.
-Desc=Una tarde cualquiera en busca de cocodrilos me topé con una Ninfa quien ha robado todo mi equipo. No se saldrá con la suya, buscala, dale su merecido y trae mis objetos!
-DescFinal=Oí que te suplicó piedad. Muy buen trabajo.
-NextQuest=
-RequiredNPCs=0
-RequiredNPC1=0
-RequiredOBJs=3
-RequiredObj1=0-0
-RequiredObj2=0-0
-RequiredObj3=0-0
-RewardOBJs=3
-RewardOBJ=1-0-1
-RewardOBJ=2-0-1
-RewardOBJ=3-0-1
-RewardGLD=0
-RewardEXP=0
-PosMap=271
-Repetible=1
 
-[QUEST30]
-Nombre=Continua
-Desc=Creo que es momento de continuar tu camino sólo. Ya has cumplido todos los objetivos que tenía para tí, pero, tranquilo.
-Navega hasta Lindos, pregunta por Armando y dí que vienes de mi parte.
-DescFinal=Esta es tú recompensa! Te la merecés. Hasta luego.
-NextQuest=Si quieres trabajo estoy aquí!
-RequiredLevel=30
-RequiredNPCs=0
-PosMap=33
-RequiredTargetNPCS=1
-RequiredTargetNPC1=410
-RewardGLD=40000
-RewardEXP=40000
-Repetible=1
 
 [QUEST31]
 Nombre=El perdon
