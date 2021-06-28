@@ -22,6 +22,7 @@ RewardEXP=150
  
 RewardOBJs=1
 RewardOBJ1=127-1
+PosMap=1
  
 [QUEST2]
 Nombre=Cansancio
@@ -37,6 +38,7 @@ RewardEXP=250
  
 RewardOBJs=1
 RewardOBJ1=2-1
+PosMap=1
  
 [QUEST3]
 Nombre=Combate
@@ -61,7 +63,7 @@ RewardOBJ1=491-100
 RewardOBJ2=461-100
 RewardOBJ3=462-50
 RewardOBJ4=166-10
-
+PosMap=1
 
 [QUEST4]
 Nombre=Comercio
@@ -85,7 +87,7 @@ RewardEXP=1550
  
 RewardOBJs=1
 RewardOBJ1=187-1
-
+PosMap=1
 
 
 
@@ -109,7 +111,7 @@ RewardEXP=1975
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
 [QUEST6]
 Nombre=Carpinteria
@@ -129,7 +131,7 @@ RewardEXP=2500
  
 RewardOBJs=1
 RewardOBJ1=389-1
-
+PosMap=1
 
 [QUEST7]
 Nombre=Herreria
@@ -149,7 +151,7 @@ RewardEXP=12142
  
 RewardOBJs=1
 RewardOBJ1=389-1
-
+PosMap=1
 
 ----------------------------Quest Ullathorpe Ciudad te taladores y carpinteros---------------------------------------
 
@@ -170,7 +172,7 @@ RewardEXP=1000
  
 RewardOBJs=1
 RewardOBJ1=38-100
-
+PosMap=1
 
 [QUEST9]
 Nombre=Bosque Dork
@@ -193,6 +195,7 @@ RewardEXP=3500
 RewardOBJs=2
 RewardOBJ1=19-1
 RewardOBJ2=204-1
+PosMap=1
 
 [QUEST10]
 Nombre=Infectados
@@ -214,6 +217,7 @@ RewardEXP=3500
 RewardOBJs=2
 RewardOBJ1=529-1
 RewardOBJ2=668-1
+PosMap=1
 
 [QUEST11]
 Nombre=Dungeon Marabel
@@ -234,6 +238,7 @@ RewardOBJs=3
 RewardOBJ1=38-150
 RewardOBJ2=23-5
 RewardOBJ3=43-5
+PosMap=1
 
 [QUEST12]
 Nombre=Plaga escorpiones
@@ -254,6 +259,7 @@ RewardOBJs=1
 RewardOBJ1=166-15
 RewardOBJ2=365-1
 RewardOBJ3=203-1
+PosMap=1
 
 [QUEST13]
 Nombre=Asesino
@@ -274,6 +280,7 @@ RewardOBJs=1
 RewardOBJ1=478-1
 RewardOBJ2=480-150
 RewardOBJ3=36-30
+PosMap=1
 
 [QUEST14]
 Nombre=La Balsa
@@ -292,6 +299,7 @@ RewardEXP=0
  
 RewardOBJs=0
 RewardOBJ1=0
+PosMap=1
 
 ---------------------------------------- quest nix ciudad de pescadores ----------------------------------
 [QUEST15]
@@ -311,7 +319,7 @@ RewardEXP=6250
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
 
 [QUEST16]
@@ -332,7 +340,7 @@ RewardEXP=7250
 RewardOBJs=2
 RewardOBJ1=131-1
 RewardOBJ2=383-1
-
+PosMap=1
 
 
 [QUEST17]
@@ -352,7 +360,7 @@ RewardEXP=7750
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
 [QUEST18] ' falta implementar la piel de cocodrilo
 Nombre=Pantano
@@ -371,6 +379,7 @@ RewardEXP=7750
  
 RewardOBJs=1
 RewardOBJ1=239-1
+PosMap=1
 
 [QUEST19]
 Nombre=Cazeria
@@ -391,7 +400,7 @@ RewardEXP=10000
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
 [QUEST20]
 Nombre=Catacumbas
@@ -410,6 +419,7 @@ RewardEXP=11000
  
 RewardOBJs=0
 RewardOBJ1=0
+PosMap=1
 
 [QUEST21]
 Nombre=Minas de oro
@@ -428,7 +438,7 @@ RewardEXP=50000
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
 [QUEST22]
 Nombre=Pescados
@@ -447,7 +457,7 @@ RewardEXP=6000
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
 [QUEST23]
 Nombre=Matadragones
@@ -470,6 +480,7 @@ RewardEXP=50000
  
 RewardOBJs=1
 RewardOBJ1=402
+PosMap=1
 
 [QUEST24]
 Nombre=Armamento
@@ -490,5 +501,5 @@ RewardEXP=12000
  
 RewardOBJs=0
 RewardOBJ1=0
-
+PosMap=1
 
