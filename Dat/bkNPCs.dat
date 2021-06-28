@@ -46,6 +46,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC12]
 Name=Sastre
 Desc=¡Hola forastero! Soy el Sastre de Ullathorpe, Bienvenido!
@@ -94,6 +95,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC19]
 Name=Sastre
 Desc=¡Bienvenida Viajera! Tengo hermosas vestimentas para ofrecerte...
@@ -142,6 +144,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC14]
 Name=Lilith
 Desc=Hola, tengo las mejores Pociones de la Alquimia.
@@ -190,6 +193,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC8]
 Name=Thorkis
 Desc=Hooooola jovencito, tengo las mejores provisiones de Ullathorpe!!
@@ -238,6 +242,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC80]
 Name=Mercader
 Desc=¡¡Hola buen amigo, compro y vendo todo tipo de mercancías!!
@@ -286,6 +291,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC7]
 Name=Herrero
 Desc=Bienvenido, rata de alcantarilla, soy el Herrero de Ullathorpe...tengo algunas armas que pueden ayudarte en tus viajes.
@@ -334,6 +340,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC54]
 Name=Armaduras
 Desc=Acércate, tengo algunas armaduras que podrían protegerte.
@@ -382,6 +389,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC46]
 Name=Mago
 Desc=Bienvenido a mi pequeña tienda de Ullathorpe... Tengo algunos hechizos que podrían interesarte.
@@ -430,6 +438,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC33]
 Name=Leñador
 Desc=¡Hola muchacho!, si deseas vender o comprar madera escribe /COMERCIAR.
@@ -478,6 +487,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC34]
 Name=Cullighan
 Desc=Usted sabe que no hay persona noble o respetable en estas tierras que no tenga su propia vivienda. ¡acérquese y sea dueño de una de las exclusivas casas de Ullathorpe. ¡Será admirado por toda la población!
@@ -526,6 +536,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC44]
 Name=Carpintero
 Desc=¡Hola muchacho!, bienvenido a mi humilde Carpintería.
@@ -574,6 +585,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC42]
 Name=Antogne
 Desc=¡Hola aventurero! Si estais hambriento habeis venido al lugar apropiador, tengo todo tipo de frutas.
@@ -622,6 +634,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC35]
 Name=Moraday
 Desc=¿Ha descubierto que la ciudad de Nix es la más hermosa de todo Argentum, verdad? ¡Pues qué mejor que ser un terrateniente de este paraíso! ¡Acércate que haremos negocios!
@@ -670,6 +683,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC37]
 Name=Herrero
 Desc=Bienvenido, rata de alcantarilla, soy el Herrero de Nix, tengo algunas armas que pueden ayudarte en tus viajes.
@@ -718,6 +732,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC15]
 Name=Thorkis
 Desc=¡Qué tal amigo! Entra, pues tengo las mejores provisiones de Nix!
@@ -766,6 +781,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC48]
 Name=Minero
 Desc=Tengo los mejores utensillos para mineros de todo Argentum.
@@ -814,6 +830,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC47]
 Name=Mago
 Desc=Bienvenido a mi pequeña tienda de Nix... Tengo algunos hechizos que podrían interesarte.
@@ -864,7 +881,7 @@ GiveGLDMax=0
 EquitandoBody=0
 [NPC41]
 Name=Pescador
-Desc=¡Bienvenido al gremio de pescadores!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+Desc=¡Bienvenido al gremio de pescadores!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 Head=2
 Body=3
 Heading=3
@@ -910,6 +927,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC99]
 Name=Mago
 Desc=¿Estás buscando los hechizos más poderosos? A buen puerto has llegado...
@@ -1003,6 +1021,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC50]
 Name=Tellez
 Desc=¡Hola! Bienvenido al "Mesón Hostigado", ¿Qué desea que le sirva?
@@ -1051,6 +1070,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC51]
 Name=Mago
 Desc=Bienvenido a mi pequeña Tienda de Banderbill... Tengo algunos hechizos que podrían interesarte.
@@ -1099,6 +1119,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC38]
 Name=Herrero
 Desc=¡Ven, pasa, que he fabricado las más poderosas armas de Banderbill para tí!
@@ -1147,6 +1168,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC25]
 Name=Sastre
 Desc=¡Bienvenido a la Sastrería de Banderbill! ¿En qué lo puedo ayudar?
@@ -1195,6 +1217,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC43]
 Name=Sorks
 Desc=¿¡Estáis sediento y hambriento!?
@@ -1243,6 +1266,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC27]
 Name=Sastre
 Desc=¡Ven y mira estas prendas que he confeccionado para nuestra raza!
@@ -1291,6 +1315,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC26]
 Name=Sastre
 Desc=¡Adelante hermosa niña! En mi tienda encontrarás vestidos hechos para tí!
@@ -1339,6 +1364,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC74]
 Name=Armaduras
 Desc=Ven, tengo resistentes armaduras para ofrecerte.
@@ -1387,6 +1413,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC114]
 Name=SR
 Desc=Bienvenido a la Sastrería Real.
@@ -1525,6 +1552,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC32]
 Name=Sastre
 Desc=¡Ven y mira estas vestimentas, seguro te encantarán!
@@ -1573,6 +1601,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC39]
 Name=Sastre
 Desc=¡Hola forastero! confeccionamos las mejores ropas de la zona.
@@ -1621,6 +1650,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC113]
 Name=Armaduras
 Desc=¡Tengo a la venta las mejores armaduras de la isla!
@@ -1669,6 +1699,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC56]
 Name=Herrero
 Desc=¡Ven, pasa, que he fabricado, aquí en Lindos, poderosas armas para tí!
@@ -1717,6 +1748,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC69]
 Name=Mago
 Desc=Ven por aquí joven, las artes mágicas superiores te están llamando...
@@ -1765,6 +1797,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC62]
 Name=Guldorf
 Desc=Si está buscando la paz y la tranquilidad en estas tierras ha llegado al lugar indicado... adquiera una de nuestras exclusivas residencias, y cambie su vida para siempre.
@@ -1813,6 +1846,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC109]
 Name=Sastre
 Desc=¡Bienvenidos a la Gran Sastrería de la Ciudad Perdida! Aquí encontrarán las ropas más exóticas del mundo...
@@ -2041,6 +2075,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC61]
 Name=Mago
 Desc=Bienvenido a mi pequeña tienda de Arkhein... Tengo algunos hechizos que podrían interesarte.
@@ -2089,6 +2124,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC40]
 Name=Tolloz
 Desc=¡Hola! Bienvenido a la Taberna de Arkhein, ¿Qué desea que le sirva?
@@ -2137,6 +2173,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC55]
 Name=Herrero
 Desc=¡Ven, pasa, que he fabricado las más poderosas armas de Arkhein para tí!
@@ -2232,6 +2269,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC29]
 Name=Sastre
 Desc=¡Ven y mira estas vestimentas, seguro te encantarán!
@@ -2280,6 +2318,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC30]
 Name=Sastre
 Desc=Aquí encontrarás las mejores prendas para enanos ¡Y a muy buen precio!
@@ -2328,6 +2367,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC101]
 Name=Karlk
 Desc=¡Hola bastardos! Os saluda Karlk, en estas tierras demoníacas están las mejores residencias para los miembros de la Legión Oscura... Si no eres legionario puedes también vivir acá, ¡pero os aseguro que los augura un infierno! jajaja!
@@ -2376,6 +2416,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC115]
 Name=SC
 Desc=¡AQUÍ OBTENDRÁS TU ARMADURA LEGIONARIA!
@@ -2469,6 +2510,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC103]
 Name=Carahuel
 Desc=¡Hola, pequeño amigo! ¿Estás buscando algo para llenar tu estómago? Creo que puedo ayudarte...
@@ -2517,6 +2559,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC57]
 Name=Bhoemond
 Desc= ¡Sea bienvenido a la famosa Taberna de Arghal!, Aquí podrá saciarse con la mejor comida y la mejor bebida de toda la zona.
@@ -2565,6 +2608,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC68]
 Name=Odkon
 Desc=¡Acérquese pequeño vistante de Arghal... Tengo prendas a su medida.
@@ -2613,6 +2657,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC64]
 Name=Virgin
 Desc=¡Bienvenida jovencita! Soy quien hace los mejores atuendos femeninos de todo Arghal, ven y prueba mi mercadería.
@@ -2661,6 +2706,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC112]
 Name=Herrero
 Desc=Con estas manos he construído algunas armas que te podrán servir en tus aventuras... ¡paga por ellas y serán tuyas!
@@ -2709,6 +2755,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC73]
 Name=Armaduras
 Desc=Si tienes agallas como para abandonar la ciudad y enfrentar el peligro de los bosques, deberás comprar una de las armaduras que he fabricado.
@@ -2757,6 +2804,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC63]
 Name=Steve
 Desc=Ven, acércate, que tengo para ofrecerte las mejores prendas masculinas de todo Arghal...
@@ -2805,6 +2853,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC59]
 Name=Mago
 Desc=Bienvenido, neófito a ésta, a mi pequeña escuela de Magia, ubicada en el corazón mismo de la ciudad de Arghal.
@@ -2853,6 +2902,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC21]
 Name=Sastre
 Desc=¡Hola forastero! Soy el Sastre de Nix, Bienvenido!
@@ -2901,6 +2951,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC22]
 Name=Sastre
 Desc=¡Bienvenida Viajera! Entra a mi tienda, ¡Tengo las mejores prendas de Nix!
@@ -2949,6 +3000,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC23]
 Name=Sastre
 Desc=¡Acérquese! Tengo pequeñas prendas que serán de su agrado...
@@ -2997,6 +3049,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC70]
 Name=Armaduras
 Desc=Acércate, tengo algunas armaduras que podrían protegerte.
@@ -3045,6 +3098,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC71]
 Name=Herrero
 Desc=Tened aquí las armas más poderosas de estas tierras... ¡Pasad y ved!
@@ -3093,6 +3147,7 @@ Obj20=0-0
 GiveGLDMin=0
 GiveGLDMax=0
 EquitandoBody=0
+Colorsangre=0
 [NPC123]
 Name=Aile
 Desc=Bienvenido, vendo ropas para los hermosos GNOMOS de estas tierras.
@@ -3567,6 +3622,7 @@ Obj17=0-0
 Obj18=0-0
 Obj19=0-0
 Obj20=0-0
+Colorsangre=0
 [NPC148]
 Name=Mago
 Desc=Ven por aquí joven, las artes mágicas superiores te están llamando...
@@ -3614,3 +3670,4 @@ Obj17=0-0
 Obj18=0-0
 Obj19=0-0
 Obj20=0-0
+Colorsangre=0
