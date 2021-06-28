@@ -37,6 +37,7 @@
 ' 33: botellas vacias
 ' 34: botellas llenas
 ' 35: manchas
+' 40: Alas
 
 
 ##############################################
@@ -70,9 +71,7 @@ usar primero los nros más bajos.
 [INIT]
 'aca va el numero de OBJ mas alto, NO la cantidad de OBJs.
 'esto sirve para que los GMS puedan ver la lista completa de items para crear en una ventanita.
-NumOBJs=1100
-
-
+NumOBJs=1111
 
 
 [OBJ1]
@@ -99,6 +98,7 @@ LingH=3
 LingP=0
 LingO=0
 SkHerreria=25
+SkillcombateArm=7
 
 [OBJ3]
 Name=Hacha
@@ -120,6 +120,7 @@ LingH=2
 LingP=0
 LingO=0
 SkHerreria=15
+SkillcombateArm=8
 
 [OBJ4]
 Name=Árbol
@@ -162,21 +163,25 @@ IndexCerrada=8
 IndexCerradaLlave=8
 
 [OBJ9]
-Name=Horquilla
+Name=Guantes de lucha
 GrhIndex=508
 ObjType=2
 Agarrable=0
 Anim=26
-MinHit=1
-MaxHit=2
-Valor=70
+MinHit=2
+MaxHit=5
+Valor=10000
 Crucial=1
 CP1=MAGO
-CP2=DRUIDA
-CP3=LADRON
-CP4=BARDO
+CP2=PIRATA
+CP3=CAZADOR
+CP4=PALADIN
 CP5=ASESINO
-CP6=CLERIGO
+CP6=DRUIDA
+CP7=BARDO
+CP8=GUERRERO
+CP9=CLERIGO
+CP10=TRABAJADOR
 LingH=1
 LingP=0
 LingO=0
@@ -291,7 +296,8 @@ CP6=CLERIGO
 LingH=16
 LingP=0
 LingO=0
-SkHerreria=20
+SkHerreria=20ç
+SkillcombateArm=10
 
 [OBJ20]
 Name=Lápida
@@ -1361,6 +1367,7 @@ LingH=60
 LingP=0
 LingO=0
 SkHerreria=70
+SkillcombateArm=45
 
 [OBJ124]
 Name=Katana
@@ -1381,6 +1388,7 @@ LingH=43
 LingP=0
 LingO=0
 SkHerreria=55
+SkillcombateArm=55
 
 [OBJ125]
 Name=Sable
@@ -1389,7 +1397,7 @@ ObjType=2
 Agarrable=0
 Anim=1
 MinHit=6
-MaxHit=11
+MaxHit=17
 Valor=2310
 Crucial=1
 CP1=MAGO
@@ -1407,6 +1415,7 @@ LingH=33
 LingP=0
 LingO=0
 SkHerreria=30
+SkillcombateArm=40
 
 [OBJ126]
 Name=Hacha Larga de Guerra
@@ -1430,6 +1439,7 @@ LingH=90
 LingP=0
 LingO=0
 SkHerreria=90
+SkillcombateArm=50
 
 [OBJ127]
 Name=Hacha de Leñador
@@ -1469,6 +1479,7 @@ LingH=60
 LingP=0
 LingO=0
 SkHerreria=55
+SkillDefEscudos=15
 
 [OBJ129]
 Name=Hacha de Guerra Dos Filos
@@ -1493,6 +1504,7 @@ LingH=85
 LingP=0
 LingO=0
 SkHerreria=86
+SkillcombateArm=60
 
 [OBJ130]
 Name=Escudo de Plata
@@ -1510,13 +1522,13 @@ CP2=DRUIDA
 CP3=LADRON
 CP4=BARDO
 CP5=PIRATA
-CP6=ASESINO
 CP7=CAZADOR
 CP8=TRABAJADOR
 LingH=100
 LingP=50
 LingO=0
 SkHerreria=85
+SkillDefEscudos=20
 
 [OBJ131]
 Name=Casco de Hierro Completo
@@ -1581,6 +1593,7 @@ LingH=60
 LingP=30
 LingO=0
 SkHerreria=70
+SkillDefEscudos=15
 
 [OBJ134]
 Name=Cartel Armaduras
@@ -1873,6 +1886,7 @@ LingH=7
 LingP=0
 LingO=0
 SkHerreria=15
+Skillapuñalar=15
 Upgrade=365
 
 [OBJ166] 
@@ -4071,11 +4085,23 @@ MinHit=3
 MaxHit=6
 Apuñala=1
 Valor=1960
+CP1=PIRATA
+CP2=MAGO
+CP3=PALADIN
+CP4=CLERIGO
+CP5=CAZADOR
+CP6=LADRON
+CP7=BANDIDO
+CP8=GUERRERO
+CP9=BARDO
+CP10=DRUIDA
+CP11=TRABAJADOR
 Crucial=0
 LingH=28
 LingP=0
 LingO=0
 SkHerreria=35
+Skillapuñalar=25
 Upgrade=366
 
 [OBJ366]
@@ -4089,13 +4115,24 @@ MaxHit=7
 Apuñala=1
 Valor=2660
 Crucial=0
-CP1=GUERRERO
+CP1=PIRATA
+CP2=MAGO
+CP3=PALADIN
+CP4=CLERIGO
+CP5=CAZADOR
+CP6=LADRON
+CP7=BANDIDO
+CP8=GUERRERO
+CP9=BARDO
+CP10=DRUIDA
+CP11=TRABAJADOR
 LingH=38
 LingP=0
 LingO=0
 SkHerreria=50
+Skillapuñalar=55
 Upgrade=367
-CP2=PIRATA
+
 
 [OBJ367]
 Name=Daga +4
@@ -4123,6 +4160,7 @@ LingH=50
 LingP=0
 LingO=0
 SkHerreria=75
+Skillapuñalar=80
 
 [OBJ368]
 Name=Lápida
@@ -4619,6 +4657,7 @@ LingH=500
 LingP=400
 LingO=300
 SkHerreria=100
+StaminaNe=300
 
 [OBJ403]
 Name=Espada de Plata
@@ -4644,6 +4683,7 @@ LingH=140
 LingP=220
 LingO=0
 SkHerreria=90
+SkillcombateArm=80
 
 [OBJ404]
 Name=Escudo de Tortuga
@@ -4664,6 +4704,7 @@ LingH=5
 LingP=0
 LingO=0
 SkHerreria=20
+SkillDefEscudos=5
 
 
 [OBJ405]
@@ -6603,14 +6644,15 @@ GrhIndex=716
 ObjType=2
 Agarrable=0
 Anim=15
-MinHit=1000
-MaxHit=1000
+MinHit=0
+MaxHit=0
 Valor=188000
 Crucial=0
 LingH=500
 LingP=400
 LingO=300
 SkHerreria=1000
+Aura=1
 
 [OBJ558]
 Name=Túnica de Mago Oscuro (E/G)
@@ -8697,6 +8739,7 @@ LingH=60
 LingP=30
 LingO=0
 SkHerreria=70
+SkillDefEscudos=15
 
 [OBJ709]
 Name=Columna Egipcia
@@ -12699,10 +12742,9 @@ GrhIndex=30497
 ObjType=4
 Agarrable=1
 
-
 [OBJ1100]
 Name=Balsa
-GrhIndex=638
+GrhIndex=30744
 ObjType=31
 NumRopaje=547
 Agarrable=0
@@ -12714,8 +12756,113 @@ Valor=12000
 Crucial=0
 MinSkill=10
 
+[OBJ1101] 'Puerta para negocio porque no tiene clave 'ulla
+Name=Puerta de madera abierta
+GrhIndex=30730
+ObjType=6
+Agarrable=1
+Abierta=0
+Llave=0
+IndexAbierta=1101
+IndexCerrada=1102
+IndexCerradaLlave=1102
 
+[OBJ1102] 'Puerta para negocio porque no tiene clave 'ulla
+Name=Puerta de madera cerrada
+GrhIndex=30731
+ObjType=6
+Abierta=1
+Agarrable=1
+Llave=0
+IndexAbierta=1101
+IndexCerrada=1102
+IndexCerradaLlave=1102
 
+[OBJ1103]
+Name=Teleport 
+GrhIndex=31304
+ObjType=19
+Agarrable=1
+
+[OBJ1104]
+Name=Teleport 
+GrhIndex=31311
+ObjType=19
+Agarrable=1
+
+[OBJ1105] 'Puerta piedra castillo
+Name=Puerta de piedra abierta
+GrhIndex=31350
+ObjType=6
+Agarrable=1
+Abierta=0
+Llave=0
+IndexAbierta=1105
+IndexCerrada=1106
+IndexCerradaLlave=1106
+
+[OBJ1106] 'Puerta piedra castillo
+Name=Puerta de piedra cerrada
+GrhIndex=31349
+ObjType=6
+Abierta=1
+Agarrable=1
+Llave=0
+IndexAbierta=1105
+IndexCerrada=1106
+IndexCerradaLlave=1106
+
+[OBJ1107] 'Puerta piedra suelo
+Name=Puerta de piedra en suelo abierta
+GrhIndex=31403
+ObjType=6
+Agarrable=1
+Abierta=0
+Llave=0
+IndexAbierta=1107
+IndexCerrada=1108
+IndexCerradaLlave=1108
+
+[OBJ1108] 'Puerta piedra suelo
+Name=Puerta de piedra en suelo cerrada
+GrhIndex=31404
+ObjType=6
+Abierta=1
+Agarrable=1
+Llave=0
+IndexAbierta=1107
+IndexCerrada=1108
+IndexCerradaLlave=1108
+
+[OBJ1109]
+Name=Poción Sanadora
+GrhIndex=32101
+ObjType=36
+Agarrable=0
+Valor=0
+Crucial=1
+
+[OBJ1110] 
+Name=Alas infernales
+GrhIndex=32487
+AlaIndex=1
+ObjType=40
+MaxDef=0
+MinDef=0
+Valor=0
+Crucial=0
+Nosecae=1
+
+[OBJ1111] 
+Name=Alas 2
+GrhIndex=32514
+AlaIndex=2
+ObjType=40
+MaxDef=0
+MinDef=0
+Valor=0
+Crucial=0
+Nosecae=1
 
 
 

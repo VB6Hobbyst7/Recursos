@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 936
+Actual Npc con Nro más alto: 937
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,8 +84,7 @@ Actual Npc con Nro más alto: 936
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=967
-
+NumNPCs=937
 [NPC148] 'VendeMagia Polo
 Name=Mago
 NpcType=0
@@ -4517,6 +4516,8 @@ Snd1=35
 Snd2=9
 NROITEMS=1
 Obj1=414-1
+NumDropNPC=1
+DropNPC1=501-2-1
 BackUp=0
 
 ############################################
@@ -4547,9 +4548,6 @@ PoderAtaque=100
 PoderEvasion=20
 Snd2=33
 Snd3=164
-NumDropNPC=2
-DropNPC1=646-1-3
-DropNPC2=653-1-3
 BackUp=0
 
 ############################################
@@ -4763,7 +4761,6 @@ NpcType=0
 Head=0
 Heading=3
 Body=42
-Colorsangre=2
 Movement=3
 AguaValida=0
 Attackable=1
@@ -5634,7 +5631,6 @@ NpcType=0
 Head=0
 Heading=3
 Body=75
-Colorsangre=3
 Movement=3
 AguaValida=0
 Attackable=1
@@ -5732,7 +5728,6 @@ NpcType=0
 Head=0
 Heading=3
 Body=83
-Colorsangre=4  
 Movement=3
 AguaValida=0
 Attackable=1
@@ -6792,7 +6787,6 @@ NpcType=0
 Head=0
 Heading=3
 Body=83
-Colorsangre=4 
 Movement=3
 AguaValida=0
 Attackable=1
@@ -8460,7 +8454,7 @@ BackUp=0
 ############################################
 
 [NPC643]
-Name=Guardian del cementerio
+Name=Hombre Lobo
 NpcType=0
 Head=0
 Heading=3
@@ -8473,13 +8467,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=3450
-GiveGLDMin=500
-GiveGLDMax=1040
-MinHP=2000
-MaxHP=2000
-MaxHIT=190
-MinHIT=1305
+GiveEXP=1450
+GiveGLDMin=140
+GiveGLDMax=240
+MinHP=1000
+MaxHP=1000
+MaxHIT=100
+MinHIT=75
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
@@ -8488,7 +8482,7 @@ BackUp=0
 ############################################
 
 [NPC644]
-Name=Esqueleto roto
+Name=Zombie Boss
 NpcType=0
 Head=0
 Heading=3
@@ -8501,18 +8495,16 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=25
-GiveGLDMin=2
-GiveGLDMax=6
-MinHP=11
-MaxHP=11
-MaxHIT=5
-MinHIT=3
+GiveEXP=1450
+GiveGLDMin=140
+GiveGLDMax=240
+MinHP=1000
+MaxHP=1000
+MaxHIT=100
+MinHIT=75
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
-NumDropNPC=6
-DropNPC1=644-1-3
 BackUp=0
 
 ############################################
@@ -8546,7 +8538,7 @@ BackUp=0
 ############################################
 
 [NPC646]
-Name=Cabeza de zombie
+Name=Cría de tigre
 NpcType=0
 Head=0
 Heading=3
@@ -8559,14 +8551,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=10
-GiveGLDMin=0
-GiveGLDMax=0
-MinHP=10
-MaxHP=10
-MaxHIT=3
-MinHIT=1
-Veneno=1
+GiveEXP=1450
+GiveGLDMin=140
+GiveGLDMax=240
+MinHP=1000
+MaxHP=1000
+MaxHIT=100
+MinHIT=75
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
@@ -8631,7 +8622,7 @@ BackUp=0
 ############################################
 
 [NPC649]
-Name=Bruja del pantano
+Name=Grán León
 NpcType=0
 Head=0
 Heading=3
@@ -8644,26 +8635,16 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=10000
-GiveGLDMin=500
-GiveGLDMax=1200
-MinHP=5500
-MaxHP=5500
-MaxHIT=175
-MinHIT=125
-DEF=20
-PoderAtaque=220
-PoderEvasion=160
-Snd3=169
-LanzaSpells=3
-Sp1=15
-Sp2=23
-Sp3=9
-NumDropNPC=2
-DropNPC1=550-1-3
-DropNPC2=554-1-4
-NumDropquest=10
-Dropquest1=1109-1-1
+GiveEXP=1450
+GiveGLDMin=140
+GiveGLDMax=240
+MinHP=1000
+MaxHP=1000
+MaxHIT=100
+MinHIT=75
+DEF=0
+PoderAtaque=150
+PoderEvasion=70
 BackUp=0
 
 ############################################
@@ -8753,7 +8734,7 @@ BackUp=0
 ############################################
 
 [NPC653]
-Name=Zombie partido
+Name=Mano poseída
 NpcType=0
 Head=0
 Heading=3
@@ -8766,13 +8747,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=75
-GiveGLDMin=5
-GiveGLDMax=20
-MinHP=50
-MaxHP=50
-MaxHIT=30
-MinHIT=15
+GiveEXP=1450
+GiveGLDMin=140
+GiveGLDMax=240
+MinHP=1000
+MaxHP=1000
+MaxHIT=100
+MinHIT=75
 DEF=0
 PoderAtaque=150
 PoderEvasion=70
@@ -9176,7 +9157,7 @@ NROITEMS=1
 Obj1=1075-1
 
 [NPC910]
-Name=Dark 
+Name=Dark Rotshon
 NpcType=0
 Head=111
 Heading=3
@@ -9203,7 +9184,7 @@ BackUp=0
 
 
 [NPC911]
-Name=Dark Walter
+Name=Dark Ronin
 NpcType=0
 Head=111
 Heading=3
@@ -9229,7 +9210,7 @@ PoderEvasion=300
 BackUp=0
 
 [NPC912]
-Name=Dark 
+Name=Dark Rama
 NpcType=0
 Head=111
 Heading=3
@@ -9314,8 +9295,8 @@ Sp5=1
 
 [NPC915]
 Name=Cazador de osos
-NpcType=17
-Desc=¡Cuidado! Osos salvajes cerca!! ''QUEST BONUS''
+NpcType=0
+Desc=¡Cuidado! Osos salvajes cerca!! /BONUSQUEST
 Head=1
 Heading=3
 Body=58
@@ -9327,13 +9308,10 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-Numquest=1
-QuestNumber1=11
-
 
 [NPC916]
-Name=Mago Veril  ''QUEST BONUS''
-NpcType=17
+Name=Mago Veril /BONUSQUEST
+NpcType=0
 Desc=¡Cuidado! Esta isla es muy peligrosa!
 Head=5
 Heading=3
@@ -9346,12 +9324,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
+NumQuest=1
+QuestNumber1=21
 
 
 [NPC917]
 Name=Minero Nix
-NpcType=17
+NpcType=0
 Desc=A minar minar minar....
 Head=1
 Heading=3
@@ -9366,9 +9345,9 @@ Comercia=0
 BackUp=0
 
 [NPC918]
-Name=Pescador Nix  ''QUEST BONUS''
-NpcType=17
-Desc=Soy un veterano pescador.
+Name=Pescador Nix /BONUSQUEST
+NpcType=0
+Desc=¡ He pescado algo !
 Head=1
 Heading=3
 Body=3
@@ -9380,13 +9359,12 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-Numquest=2
-QuestNumber1=13
-QuestNumber2=18
+NumQuest=1
+QuestNumber1=22
 
 [NPC919]
 Name=Misero
-NpcType=17
+NpcType=0
 Desc= Aleluya!!
 Head=1
 Heading=3
@@ -9402,7 +9380,7 @@ BackUp=0
 
 [NPC920]
 Name=Misero dos
-NpcType=17
+NpcType=0
 Desc= Perdona mis pecados...
 Head=2
 Heading=3
@@ -9418,8 +9396,8 @@ BackUp=0
 
 [NPC921]
 Name=Cazador dos
-NpcType=17
-Desc=Ayudame!!  ''QUEST BONUS''
+NpcType=0
+Desc=Ayudame!! /BONUSQUEST
 Head=2
 Heading=3
 Body=320
@@ -9431,13 +9409,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-Numquest=1
-QuestNumber=15
+NumQuest=1
+QuestNumber1=24
 
 [NPC922]
 Name=Aviso DD
-NpcType=17
-Desc=Shhhh,tengo una espada matadragones  ''QUEST BONUS''
+NpcType=0
+Desc=Shhhh,tengo una espada matadragones /BONUSQUEST
 Head=2
 Heading=3
 Body=170
@@ -9449,13 +9427,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-Numquest=1
-QuestNumber=14
+NumQuest=1
+QuestNumber1=23
 
 [NPC923]
 Name=Entrada catas
-NpcType=17
-Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven!  ''QUEST BONUS''
+NpcType=0
+Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven! /BONUSQUEST
 Head=4
 Heading=3
 Body=35
@@ -9467,8 +9445,6 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-Numquest=1
-QuestNumber1=12
 
 [NPC924]
 Name=Camello
@@ -9498,7 +9474,7 @@ BackUp=0
 
 [NPC925]
 Name=Guardia Muralla
-NpcType=17
+NpcType=0
 Desc= El mal habita por las afueras de la ciuad,entra en Banderbill para estar a salvo!
 Head=0
 Heading=3
@@ -9514,7 +9490,7 @@ BackUp=0
 
 [NPC926]
 Name=Guardia Muralla
-NpcType=17
+NpcType=0
 Desc= De las murallas para adentro,estaras a salvo...
 Head=0
 Heading=3
@@ -9531,7 +9507,7 @@ BackUp=0
 -------------------------------- Quests -----------------------------------------------
 [NPC927]
 Name=Quest Newbie Dungeon
-NpcType=17
+NpcType=0
 Desc=¡Buen día ! El newbie dungeon es el lugar mas famoso de entreno para los principiantes! Puedo compensarte con algunas misiones /QUEST.
 Head=5
 Heading=3
@@ -9548,8 +9524,8 @@ BackUp=0
 
 [NPC928]
 Name=Quest Ullathorpe
-NpcType=17
-Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos.
+NpcType=0
+Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos. /QUEST.
 Head=2
 Heading=3
 Body=135
@@ -9561,13 +9537,20 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=7
+QuestNumber1=8
+QuestNumber2=9
+QuestNumber3=10
+QuestNumber4=11
+QuestNumber5=12
+QuestNumber6=13
+QuestNumber7=14
 
 
 [NPC929]
 Name=Quest Nix
-NpcType=17
-Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. 
+NpcType=0
+Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. /QUEST.
 Head=5
 Heading=4
 Body=135
@@ -9579,9 +9562,16 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=6
+QuestNumber1=15
+QuestNumber2=16
+QuestNumber3=17
+QuestNumber4=18
+QuestNumber5=19
+QuestNumber6=20
 
 [NPC930]
-Name=Margareth <Quest Newbie Dungeon>
+Name=Margareth <Quest Newbie Dungeon> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
 NpcType=17
 Desc=Bienvenido a Newbie Dungeon!! Yo te enseñare lo basico para aprender!
 Showname=1
@@ -9595,10 +9585,15 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=3
-QuestNumber1=2
-QuestNumber2=3
-QuestNumber3=4
+NumQuest=7
+QuestNumber1=1
+QuestNumber2=2
+QuestNumber3=3
+QuestNumber4=4
+QuestNumber5=5
+QuestNumber6=6
+QuestNumber7=7
+
 
 [NPC931]
 Name=Rey
@@ -9766,13 +9761,13 @@ Hostile=1
 Domable=0
 Alineacion=2
 Comercia=0
-GiveEXP=36500
-GiveGLDMin=10000
-GiveGLDMax=30000
-MinHP=19500
-MaxHP=19500
-MaxHIT=295
-MinHIT=165
+GiveEXP=265000
+GiveGLDMin=30000
+GiveGLDMax=60000
+MinHP=200000
+MaxHP=200000
+MaxHIT=5000
+MinHIT=1000
 DEF=0
 PoderAtaque=400
 PoderEvasion=320
@@ -9782,13 +9777,15 @@ Sp2=25
 SND1=30
 SND2=31
 SND3=32
+NROITEMS=1
+Obj1=194-1500
 AfectaParalisis=1
 BackUp=0
 
-[NPC938]
-Name=Guardia Azul Quest
-NpcType=17
-Desc=Soy un escolta real,quizas puedas hacerme unos favores.
+[NPC937] 'Banquero de Banderville
+Name=pruebaa polenta
+NpcType=4
+Desc=Hola, bienvenido al Banco Central de finanzas Goliath en Banderville. Somos la sede Goliath donde guardamos toda la moneda de Argentum, contamos con bancos en las ciudades más importantes.
 Head=0
 Heading=3
 Body=552
@@ -9800,533 +9797,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=
 
 
-[NPC939]
-Name=Mercenario
-NpcType=17
-Desc=Ya estoy viejo,es hora de descansar.
-Head=0
-Heading=3
-Body=553
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
 
-
-[NPC940]
-Name=Guardia Budista
-NpcType=17
-Desc=Yo era un defensor del Templo Budista,si si...antes era un Templo sagrado,quieres saber mas?
-Head=0
-Heading=3
-Body=554
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC941]
-Name=Viajero
-NpcType=17
-Desc=Estoy de viaje por estas tierras,puedo compensarte a camvio de unos favores.
-Head=0
-Heading=3
-Body=555
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC942]
-Name=Doncella
-NpcType=17
-Desc=Quieres bailar? lara lara me encanta la musica y bailar!
-Head=0
-Heading=3
-Body=556
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC943]
-Name=Gandalf
-NpcType=17
-Desc=Soy un buen Mago,pero tambien me gusta disfrutar de la buena musica y bebidas,la taberna de banderbille es la mejor!
-Head=0
-Heading=3
-Body=557
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC944]
-Name=Caballero
-NpcType=17
-Desc=te atrevas a desafiarme con esa mirada! te cres valiente?? haver si puedes cumplir alguna de mis misiones!
-Head=0
-Heading=3
-Body=558
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC945]
-Name=Rufian
-NpcType=17
-Desc=Estoy aqui perdido hace dias,necesito unas cuantas cosas,me puedes ayudar?
-Head=0
-Heading=3
-Body=559
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=16
-
-
-[NPC946]
-Name=Enano Guerrero
-NpcType=17
-Desc=Mi hacha ya esta gastada,podrias traerme una hacha nueva?
-Head=0
-Heading=3
-Body=560
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=6
-
-
-[NPC947]
-Name=Hobbit
-NpcType=17
-Desc=Tengo que hacer un viaje muy largo en otras tierras,estoy tomando un descanso.
-Head=0
-Heading=3
-Body=561
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-[NPC948]
-Name=Guerrero fornido
-NpcType=17
-Desc=Estoy muy cansado,quieres ayudarme?
-Head=0
-Heading=3
-Body=562
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=10
-
-
-[NPC949]
-Name=Gollum
-NpcType=17
-Desc=MI TESORO! MI TESOOOROOO!!!Trame mi tesoro y te recompensare!!!!!
-Head=0
-Heading=3
-Body=563
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC950]
-Name=Pirata pata de palo
-NpcType=17
-Desc=Yo era un capitan..hace ya mucho,un tiburon me arranco una pata!
-Head=0
-Heading=3
-Body=564
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC951]
-Name=Mendigo
-NpcType=17
-Desc=Ayudame,no tengo nada....me das algo para poder tener algo de dignidad?
-Head=0
-Heading=3
-Body=565
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=9
-
-
-[NPC952]
-Name=La muerte
-NpcType=17
-Desc=No retes a la muerte,todos morimos algun dia,veamos de que eres capaz.
-Head=0
-Heading=3
-Body=566
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=7
-
-
-[NPC953]
-Name=Arquero Elfo
-NpcType=17
-Desc=Me quede sin flechas,traeme algunas y te recompensare!
-Head=0
-Heading=3
-Body=567
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=5
-
-
-[NPC954]
-Name=Espantapajaros
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=568
-Movement=1
-Attackable=1
-ReSpawn=1
-Hostile=1
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC955]
-Name=Pirata
-NpcType=17
-Desc=Mi capitan pirata me abandono! ayudame!
-Head=0
-Heading=3
-Body=569
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber1=8
-
-
-[NPC956]
-Name=Budista
-NpcType=17
-Desc=Los rumores son ciertos,Banderbill era un templo budista,hasta que el rey conqisto el templo y lo convirtio en una fortaleza,pero aun queda parte oculta del templo.
-Head=0
-Heading=3
-Body=570
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC957]
-Name=Pirata
-NpcType=17
-Desc=Yo domino los mares!
-Head=0
-Heading=3
-Body=570
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-Numquest=1
-QuestNumber=17
-
-
-[NPC958]
-Name=Decoracion calaveras
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=571
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC959]
-Name=Planta de tomate
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=572
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC960]
-Name=Cofre cerrado
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=573
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC961]
-Name=Piedra pequeña
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=574
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC962]
-Name=Piedra Grande
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=575
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC963]
-Name=Lapida vieja
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=576
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC964]
-Name=lapida muy vieja
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=577
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC965]
-Name=Regalo
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=578
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-
-[NPC966]
-Name=Cofre pirata
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=579
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
-
-[NPC967]
-Name=Lapida
-NpcType=0
-Desc=
-Head=0
-Heading=3
-Body=580
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-QuestNumber=
 

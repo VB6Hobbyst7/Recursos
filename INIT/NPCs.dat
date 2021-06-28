@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 936
+Actual Npc con Nro más alto: 937
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,8 +84,7 @@ Actual Npc con Nro más alto: 936
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=936
-
+NumNPCs=937
 [NPC148] 'VendeMagia Polo
 Name=Mago
 NpcType=0
@@ -4517,6 +4516,8 @@ Snd1=35
 Snd2=9
 NROITEMS=1
 Obj1=414-1
+NumDropNPC=1
+DropNPC1=501-2-1
 BackUp=0
 
 ############################################
@@ -9307,7 +9308,6 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=1
 
 [NPC916]
 Name=Mago Veril /BONUSQUEST
@@ -9324,7 +9324,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=3
+NumQuest=1
+QuestNumber1=21
 
 
 [NPC917]
@@ -9358,7 +9359,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=4
+NumQuest=1
+QuestNumber1=22
 
 [NPC919]
 Name=Misero
@@ -9407,7 +9409,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=6
+NumQuest=1
+QuestNumber1=24
 
 [NPC922]
 Name=Aviso DD
@@ -9424,7 +9427,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=5
+NumQuest=1
+QuestNumber1=23
 
 [NPC923]
 Name=Entrada catas
@@ -9441,7 +9445,6 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-QuestNumber=2
 
 [NPC924]
 Name=Camello
@@ -9534,7 +9537,14 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=7
+QuestNumber1=8
+QuestNumber2=9
+QuestNumber3=10
+QuestNumber4=11
+QuestNumber5=12
+QuestNumber6=13
+QuestNumber7=14
 
 
 [NPC929]
@@ -9552,6 +9562,13 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=6
+QuestNumber1=15
+QuestNumber2=16
+QuestNumber3=17
+QuestNumber4=18
+QuestNumber5=19
+QuestNumber6=20
 
 [NPC930]
 Name=Margareth <Quest Newbie Dungeon> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
@@ -9568,10 +9585,15 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=3
-QuestNumber1=2
-QuestNumber2=3
-QuestNumber3=4
+NumQuest=7
+QuestNumber1=1
+QuestNumber2=2
+QuestNumber3=3
+QuestNumber4=4
+QuestNumber5=5
+QuestNumber6=6
+QuestNumber7=7
+
 
 [NPC931]
 Name=Rey
@@ -9760,6 +9782,21 @@ Obj1=194-1500
 AfectaParalisis=1
 BackUp=0
 
+[NPC937] 'Banquero de Banderville
+Name=pruebaa polenta
+NpcType=4
+Desc=Hola, bienvenido al Banco Central de finanzas Goliath en Banderville. Somos la sede Goliath donde guardamos toda la moneda de Argentum, contamos con bancos en las ciudades más importantes.
+Head=0
+Heading=3
+Body=552
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
 
 
 
