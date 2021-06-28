@@ -2,9 +2,7 @@
 NumQuests=24
  
 
----------------------------Quest Newbie Dungeon Iniciales----------------------------
-
-[QUEST24]
+[QUEST1]
 Nombre=Estamina
 Desc=Aveces muchas muertes son causa de la mala alimentacion.. Debes de comer y beber para mantener siempre una buena energia que te permita viajar y defenderte! por cierto.. tengo hambre! me traes 1 pollo y un vino??
 DescFinal=Increible! un pollo bien hermoso y una botella de vino de calidad,agarra este hacha y tendre mas misiones para ti!
