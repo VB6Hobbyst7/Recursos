@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 936
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=967
+NumNPCs=968
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -10326,4 +10326,32 @@ Comercia=0
 BackUp=0
 NumDropNPC=1
 DropNPC1=909=1-1
+
+[NPC968]
+Name=Cocodrilo
+NpcType=0
+Head=0
+Heading=3
+Body=208
+Movement=3
+AguaValida=0
+TierraInvalida=0
+Attackable=0
+ReSpawn=1
+Hostile=0
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=1000
+GiveGLDMin=60
+GiveGLDMax=80
+MinHP=600
+MaxHP=600
+MaxHIT=100
+MinHIT=75
+DEF=10
+DEFm=5
+PoderAtaque=220
+PoderEvasion=60
+BackUp=0
 
