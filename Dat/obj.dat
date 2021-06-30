@@ -2225,7 +2225,7 @@ Crucial=1
 
 [OBJ197]
 Name=Flecha Mágica
-GrhIndex=609
+GrhIndex=32448
 ObjType=24
 Agarrable=0
 Valor=2300
@@ -2258,7 +2258,7 @@ HechizoIndex=2
 
 [OBJ200]
 Name=Curar Veneno
-GrhIndex=609
+GrhIndex=32441
 ObjType=24
 Agarrable=0
 Valor=200
@@ -2267,7 +2267,7 @@ HechizoIndex=1
 
 [OBJ201]
 Name=Curar Heridas Leves
-GrhIndex=609
+GrhIndex=32440
 ObjType=24
 Agarrable=0
 Valor=500
@@ -2275,8 +2275,8 @@ Crucial=1
 HechizoIndex=3
 
 [OBJ202]
-Name=Toxina
-GrhIndex=609
+Name=Envenenar
+GrhIndex=32447
 ObjType=24
 Agarrable=0
 Valor=3000
@@ -2285,7 +2285,7 @@ HechizoIndex=4
 
 [OBJ203]
 Name=Curar Heridas Graves
-GrhIndex=609
+GrhIndex=32440
 ObjType=24
 Agarrable=0
 Valor=35000
@@ -2294,7 +2294,7 @@ HechizoIndex=5
 
 [OBJ204]
 Name=Flecha Eléctrica
-GrhIndex=609
+GrhIndex=32449
 ObjType=24
 Agarrable=0
 Valor=4500
@@ -2303,7 +2303,7 @@ HechizoIndex=7
 
 [OBJ205]
 Name=Misil Mágico
-GrhIndex=609
+GrhIndex=32442
 ObjType=24
 Agarrable=0
 Valor=9000
@@ -2312,7 +2312,7 @@ HechizoIndex=8
 
 [OBJ206]
 Name=Paralizar
-GrhIndex=609
+GrhIndex=32457
 ObjType=24
 Agarrable=0
 Valor=50000
@@ -2321,7 +2321,7 @@ HechizoIndex=9
 
 [OBJ207]
 Name=Remover Parálisis
-GrhIndex=609
+GrhIndex=32456
 ObjType=24
 Agarrable=0
 Valor=33000
@@ -3511,7 +3511,7 @@ Texto=Bienvenido al Palacio Real.
 
 [OBJ318]
 Name=Invisibilidad
-GrhIndex=609
+GrhIndex=32453
 ObjType=24
 Agarrable=0
 Valor=210000
@@ -3520,7 +3520,7 @@ HechizoIndex=14
 
 [OBJ319]
 Name=Resucitar
-GrhIndex=609
+GrhIndex=32439
 ObjType=24
 Agarrable=0
 Valor=290000
@@ -4037,7 +4037,7 @@ CP11=TRABAJADOR
 
 [OBJ361]
 Name=Tormenta de Fuego
-GrhIndex=609
+GrhIndex=32459
 ObjType=24
 Agarrable=0
 Valor=32000
@@ -4324,7 +4324,7 @@ SkHerreria=35
 
 [OBJ380]
 Name=Invocacion de Ultratumba
-GrhIndex=609
+GrhIndex=32460
 ObjType=24
 Agarrable=0
 Valor=45000
@@ -4524,7 +4524,7 @@ SkHerreria=90
 
 [OBJ394]
 Name=Llamado a la Naturaleza
-GrhIndex=609
+GrhIndex=32454
 ObjType=24
 Agarrable=0
 Valor=15000
@@ -4542,7 +4542,7 @@ HechizoIndex=17
 
 [OBJ396]
 Name=Celeridad
-GrhIndex=609
+GrhIndex=32437
 ObjType=24
 Agarrable=0
 Valor=12050
@@ -5388,7 +5388,7 @@ SkCarpinteria=75
 
 [OBJ470]
 Name=Fuerza
-GrhIndex=609
+GrhIndex=32450
 ObjType=24
 Agarrable=0
 Valor=15000
@@ -6341,7 +6341,7 @@ CP2=PIRATA
 
 [OBJ530]
 Name=Inmovilizar
-GrhIndex=609
+GrhIndex=32452
 ObjType=24
 Agarrable=0
 Valor=110000
@@ -6350,7 +6350,7 @@ HechizoIndex=24
 
 [OBJ531]
 Name=Descarga Electrica
-GrhIndex=609
+GrhIndex=32443
 ObjType=24
 Agarrable=0
 Valor=1200000
@@ -6359,7 +6359,7 @@ HechizoIndex=23
 
 [OBJ532]
 Name=Apocalipsis
-GrhIndex=609
+GrhIndex=32438
 ObjType=24
 Agarrable=0
 Valor=2400000
@@ -6398,7 +6398,7 @@ Texto=Lápida en homenaje a nuestro gran demiurgo, Gulfas Morgolock, quien desapa
 
 [OBJ536]
 Name=Invocar Elemental de Fuego
-GrhIndex=609
+GrhIndex=32446
 ObjType=24
 Agarrable=0
 Valor=950000
@@ -6407,7 +6407,7 @@ HechizoIndex=26
 
 [OBJ537]
 Name=Invocar Elemental de Agua
-GrhIndex=609
+GrhIndex=32445
 ObjType=24
 Agarrable=0
 Valor=350000
@@ -6417,7 +6417,7 @@ Log=1
 
 [OBJ538]
 Name=Invocar Elemental de Tierra
-GrhIndex=609
+GrhIndex=32444
 ObjType=24
 Agarrable=0
 Valor=500000
@@ -6426,7 +6426,7 @@ HechizoIndex=28
 
 [OBJ539]
 Name=Implorar Ayuda
-GrhIndex=609
+GrhIndex=32451
 ObjType=24
 Agarrable=0
 Valor=90000
