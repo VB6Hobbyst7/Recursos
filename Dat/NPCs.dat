@@ -9834,7 +9834,7 @@ BackUp=0
 [NPC940]
 Name=Guardia Budista
 NpcType=17
-Desc=Yo era un defensor del Templo Budista,si si...antes era un Templo sagrado,quieres saber mas?
+Desc=Protegere al buda de cualquier maleante!
 Head=0
 Heading=3
 Body=554
@@ -10120,7 +10120,7 @@ BackUp=0
 [NPC956]
 Name=Budista
 NpcType=17
-Desc=Los rumores son ciertos,Banderbill era un templo budista,hasta que el rey conqisto el templo y lo convirtio en una fortaleza,pero aun queda parte oculta del templo.
+Desc=Quien iva a decir que cuando el rey ordeno derribar el buda de piedra,estubiera oculto un buda de oro debajo con una entrada secreta?
 Head=0
 Heading=3
 Body=570
