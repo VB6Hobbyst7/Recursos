@@ -4765,6 +4765,7 @@ Heading=3
 Body=42
 Movement=3
 AguaValida=0
+Colorsangre=2
 Attackable=1
 ReSpawn=0
 Hostile=1
