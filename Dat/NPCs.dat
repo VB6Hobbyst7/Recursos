@@ -9172,7 +9172,7 @@ BackUp=0
 NROITEMS=1
 Obj1=1075-1
 NumDropNPC=1
-DropNPC1=967-1-9
+DropNPC1=967-1-1
 
 [NPC910]
 Name=Dark 
@@ -9202,7 +9202,7 @@ BackUp=0
 
 
 [NPC911]
-Name=Dark Walter
+Name=Dark Deidhara
 NpcType=0
 Head=111
 Heading=3
@@ -10328,7 +10328,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumDropNPC=1
-DropNPC1=909-1-9
+DropNPC1=909-1-1
 
 [NPC968]
 Name=Cocodrilo
