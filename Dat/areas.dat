@@ -1133,20 +1133,20 @@ X2=323
 Y2=1132
 Npcs=2
 Npc1=504
-Cant1=5
+Cant1=15
 Npc2=500
-Cant2=5
+Cant2=8
 
 [Area102]
 X1=257
 Y1=900
 X2=323
 Y2=1132
-Npcs=15
+Npcs=2
 Npc1=504
-Cant1=15
+Cant1=5
 Npc2=500
-Cant2=10
+Cant2=5
 
 
 [Area103]
