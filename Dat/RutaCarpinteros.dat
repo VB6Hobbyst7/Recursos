@@ -1,0 +1,32 @@
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+'Neo Ruta para los npcs carpinteros
+'Si el final esta ocupado por otro npc o personaje, el bot se pone al lado
+'En el campo direccion inicio y fin, poner para que lado esta el arbol o el npc, es para que el bot GIRE SU CUERPO y la cabeza apunte al arbol o npc/casa
+'Valores para direccion inicio y fin: NORTE, SUR, ESTE, OESTE
+'Cuando el bot llegue al inicio de su ruta, su cuerpo se va a girar en base a direccion inicio, para que la cabeza quede mirando al npc o casa de venta
+'Cuando el bot llegue al final de su ruta, su cuerpo se va a girar en base a direccion fin, para que la cabeza quede mirando el arbol o lo que sea
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+[INIT]
+NumeroRutaCarpintero=3
+
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+[RUTACARPINTERO1]
+Ruta=193,1226;193,1234;192,1234
+DireccionInicio=NORTE
+DireccionFin=ESTE
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+[RUTACARPINTERO2]
+Ruta=195,1226;184,1226;184,1232
+DireccionInicio=NORTE
+DireccionFin=OESTE
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+[RUTACARPINTERO3]
+Ruta=194,1227;194,1233;196,1233
+DireccionInicio=NORTE
+DireccionFin=OESTE
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
