@@ -1213,10 +1213,10 @@ Y1=1129
 X2=221
 Y2=1168
 Npcs=2
-Npc1=504
-Cant1=2
-Npc2=500
-Cant2=2
+Npc1=500
+Cant1=10
+Npc2=504
+Cant2=10
 
 [Area108]
 Mapa=1
@@ -2018,7 +2018,7 @@ Npcs=2
 Npc1=636
 Cant1=2
 Npc2=510
-Cant1=2
+Cant2=2
 
 [Area176]
 Mapa=1
