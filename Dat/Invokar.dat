@@ -1,6 +1,6 @@
 '#################### LISTA DE SPAWN #############################
 [INIT]
-NumNPCs=89
+NumNPCs=96
 
 
 [LIST]
@@ -272,15 +272,23 @@ NN88=Yik'ahku
 NI89=936
 NN89=Reina medusa
 
+NI90=989
+NN90=Lagarto
 
+NI91=990
+NN91=Mago Superior
 
+NI92=991
+NN92=Medusa Superior
 
+NI93=992
+NN93=Liche Magico
 
+NI94=993
+NN94=Guardian morgolock
 
+NI95=994
+NN95=Guardian morgolock
 
-
-
-
-
-
-
+NI96=996
+NN96=Asesino superior
