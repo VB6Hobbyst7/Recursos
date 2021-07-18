@@ -1781,7 +1781,13 @@ X1=16
 Y1=337
 X2=120
 Y2=679
-Npcs=0
+Npcs=3
+Npc1=606
+Cant1=1
+Npc2=606
+Cant2=1
+Npc3=606
+Cant3=1
 
 [Area154]
 Mapa=1
@@ -1988,7 +1994,7 @@ Npcs=2
 Npc1=636
 Cant1=1
 Npc2=510
-Cant1=1
+Cant2=1
 
 [Area174]
 Mapa=1
@@ -2000,7 +2006,7 @@ Npcs=2
 Npc1=636
 Cant1=1
 Npc2=510
-Cant1=1
+Cant2=1
 
 [Area175]
 Mapa=1
