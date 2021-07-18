@@ -9314,7 +9314,7 @@ Sp5=1
 
 [NPC915]
 Name=Cazador de osos
-NpcType=0
+NpcType=17
 Desc=¡Cuidado! Osos salvajes cerca!! /BONUSQUEST
 Head=1
 Heading=3
@@ -9331,7 +9331,7 @@ BackUp=0
 
 [NPC916]
 Name=Mago Veril /BONUSQUEST
-NpcType=0
+NpcType=17
 Desc=¡Cuidado! Esta isla es muy peligrosa!
 Head=5
 Heading=3
@@ -9363,9 +9363,10 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+
 [NPC918]
 Name=Pescador Nix /BONUSQUEST
-NpcType=0
+NpcType=17
 Desc=¡ He pescado algo !
 Head=1
 Heading=3
@@ -9415,7 +9416,7 @@ BackUp=0
 
 [NPC921]
 Name=Cazador dos
-NpcType=0
+NpcType=17
 Desc=Ayudame!! /BONUSQUEST
 Head=2
 Heading=3
@@ -9433,7 +9434,7 @@ QuestNumber1=24
 
 [NPC922]
 Name=Aviso DD
-NpcType=0
+NpcType=17
 Desc=Shhhh,tengo una espada matadragones /BONUSQUEST
 Head=2
 Heading=3
@@ -9544,7 +9545,7 @@ BackUp=0
 
 [NPC928]
 Name=Quest Ullathorpe
-NpcType=0
+NpcType=17
 Desc=¡Buen día ! Estas preparado para mis quest? jejeje veremos. /QUEST.
 Head=2
 Heading=3
@@ -9568,7 +9569,7 @@ QuestNumber7=14
 
 [NPC929]
 Name=Quest Nix
-NpcType=0
+NpcType=17
 Desc=¡Buen día ! Otro valiente!! Te pondre a prueba.. /QUEST.
 Head=5
 Heading=4
