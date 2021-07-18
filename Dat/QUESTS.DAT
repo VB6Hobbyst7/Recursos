@@ -74,8 +74,8 @@ RequiredSkill=1
 RequiredSkill1comercio=10
 
 RequiredOBJs=2
-RequiredOBJ1=138-1
-RequiredOBJ1=139-100
+RequiredOBJ1=138=1
+RequiredOBJ1=139=100
  
 RequiredNPCs=0
 RequiredNPC1=0
@@ -487,8 +487,8 @@ DescFinal= Gracias!!! ahora me siento mucho mas seguro.
 RequiredLevel=15
  
 RequiredOBJs=2
-RequiredOBJ1=478-1
-RequiredOBJ1=480-2
+RequiredOBJ1=478=1
+RequiredOBJ1=480=200
 
 RequiredNPCs=0
 RequiredNPC1=0
