@@ -2249,7 +2249,7 @@ SkHerreria=12
 
 [OBJ199]
 Name=Dardo Mágico
-GrhIndex=609
+GrhIndex=4185
 ObjType=24
 Agarrable=0
 Valor=500
@@ -4068,7 +4068,7 @@ HechizoIndex=12
 
 [OBJ364]
 Name=Terrible Hambre de Igor
-GrhIndex=609
+GrhIndex=4184
 ObjType=24
 Agarrable=0
 Valor=350
@@ -4324,7 +4324,7 @@ SkHerreria=35
 
 [OBJ380]
 Name=Invocacion de Ultratumba
-GrhIndex=32460
+GrhIndex=4189
 ObjType=24
 Agarrable=0
 Valor=45000
@@ -4533,7 +4533,7 @@ HechizoIndex=16
 
 [OBJ395]
 Name=Llamado Nigromante
-GrhIndex=609
+GrhIndex=4189
 ObjType=24
 Agarrable=0
 Valor=40000
@@ -4551,7 +4551,7 @@ HechizoIndex=18
 
 [OBJ397]
 Name=Torpeza
-GrhIndex=609
+GrhIndex=4187
 ObjType=24
 Agarrable=0
 Valor=13450
@@ -5397,7 +5397,7 @@ HechizoIndex=20
 
 [OBJ471]
 Name=Debilidad
-GrhIndex=609
+GrhIndex=4186
 ObjType=24
 Agarrable=0
 Valor=13450
@@ -6448,7 +6448,7 @@ SkCarpinteria=75
 
 [OBJ541]
 Name=Ceguera
-GrhIndex=609
+GrhIndex=32442
 ObjType=24
 Agarrable=0
 Valor=200000
@@ -8134,7 +8134,7 @@ SkHerreria=75
 
 [OBJ673]
 Name=Mimetismo
-GrhIndex=609
+GrhIndex=4188
 ObjType=24
 Agarrable=0
 Valor=400000
