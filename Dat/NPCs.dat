@@ -9330,7 +9330,7 @@ BackUp=0
 
 
 [NPC916]
-Name=Mago Veril /BONUSQUEST
+Name=Mago Veril
 NpcType=17
 Desc=¡Cuidado! Esta isla es muy peligrosa!
 Head=5
@@ -9417,7 +9417,7 @@ BackUp=0
 [NPC921]
 Name=Cazador dos
 NpcType=17
-Desc=Ayudame!! /BONUSQUEST
+Desc=Si me ayudas,te recompensare!
 Head=2
 Heading=3
 Body=320
@@ -9429,8 +9429,9 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=1
+NumQuest=2
 QuestNumber1=24
+QuestNumber2=25
 
 [NPC922]
 Name=Aviso DD
@@ -9508,6 +9509,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=29
 
 [NPC926]
 Name=Guardia Muralla
@@ -9524,6 +9527,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=30
 
 -------------------------------- Quests -----------------------------------------------
 [NPC927]
@@ -10010,6 +10015,11 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=3
+QuestNumber1=26
+QuestNumber2=27
+QuestNumber3=28
+
 
 
 
