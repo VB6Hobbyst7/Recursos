@@ -402,7 +402,7 @@ PosMap=1
 
 [QUEST20]
 Nombre=Catacumbas
-Desc=Tengo miedo,las catacumbas estan infectadas de arañas como pasar por ellas...mata 3 arañas para despejar la zona POR FAVOR!
+Desc=Despeja todo el camino de arañas de las catacumbas!
 DescFinal= Gracias.. aun asi no se si entrare...
 RequiredLevel=16
  
@@ -410,10 +410,10 @@ RequiredOBJs=0
 RequiredOBJ1=0
 
 RequiredNPCs=1
-RequiredNPC1=510-3
+RequiredNPC1=510-15
  
-RewardGLD=6000
-RewardEXP=11000
+RewardGLD=3000
+RewardEXP=20000
  
 RewardOBJs=0
 RewardOBJ1=0
