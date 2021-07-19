@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=30
+NumQuests=33
  
 
 [QUEST1]
@@ -563,8 +563,8 @@ RewardOBJ1=0
 PosMap=1
 
 [QUEST28]
-Nombre=Smeagol
-Desc=QUIERE ROBARNOS,SMmeagol CALLA! TESORO QUERER ROBAR SI ROBAR TESORO,PELIGROSO TRAE POCION ESPECIAL Y YO DAR TESORO.
+Nombre=Gollum
+Desc=QUIERE ROBARNOS,Smmeagol CALLA! TESORO QUERER ROBAR SI ROBAR TESORO,PELIGROSO TRAE POCION ESPECIAL Y YO DAR TESORO.
 DescFinal= TOMAR POCION PARA REGALO SI TESORO TSORO MIO
 RequiredLevel=15
  
@@ -581,6 +581,7 @@ PosMap=1
 [QUEST29]
 Nombre=Asesino
 Desc=Por estas zonas,ahi unos asesinos negros que nos complican la seguridad,me echas una mano?o no tienes valor suficiente...
+DescFinal= Gracias! menos faena para nosotros jejejeje
 RequiredLevel=15
  
 RequiredOBJs=0
@@ -597,6 +598,7 @@ PosMap=1
 [QUEST30]
 Nombre=La Vigilancia
 Desc=la vigilancia es dura,llevo muchas guardias seguidas,me traes algo de comer y beber?
+DescFinal= oh,esta recien echo!
 RequiredLevel=5
  
 RequiredOBJs=2
@@ -609,6 +611,57 @@ RequiredNPC1=0
 RewardGLD=1000
 RewardEXP=500
  
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST31]
+Nombre=Cueva aracnida
+Desc=Quiero entrenar un poco,pero es que ahi una plaga de arañas gigantes,puedes despegarme la entrada?
+DescFinal= Ahora si me atrevo a caminar por la cueva!
+RequiredLevel=13
+RequiredOBJs=0
+RequiredOBJ1=0
+
+RequiredNPCs=1
+RequiredNPC1=510-5
+ 
+RewardGLD=5000
+RewardEXP=3500
+ 
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST32]
+Nombre=Descansando
+Desc=El vino es bueno y la cerveza un manjar,pero la comida un desastre...puedes traerme algo rico de las zonas bajas?
+DescFinal= Esto si es comida de verdad!
+RequiredLevel=4
+RequiredOBJs=4
+RequiredOBJ1=25-10
+RequiredOBJ2=28-2
+RequiredOBJ3=29-1
+RequiredOBJ4=21-4
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=1000
+RewardEXP=750
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST33]
+Nombre=Almas
+Desc=Traeme 10 almas de guardias de la zona,sembraremos el caos en este reino.
+DescFinal= NECESITO MUCHAS MUCHAS MAS ALMAS!!!
+RequiredLevel=13
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=6-10
+RewardGLD=10000
+RewardEXP=7500
 RewardOBJs=0
 RewardOBJ1=0
 PosMap=1

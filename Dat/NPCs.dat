@@ -9454,7 +9454,7 @@ QuestNumber1=23
 [NPC923]
 Name=Entrada catas
 NpcType=17
-Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven!  ''QUEST BONUS''
+Desc= Las famosas catacumbas,muchos son los que entran,pocos los que sobreviven!
 Head=4
 Heading=3
 Body=35
@@ -9466,6 +9466,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=31
 
 
 [NPC924]
@@ -9909,6 +9911,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=32
 
 
 
@@ -10074,7 +10078,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=33
 
 
 [NPC953]
