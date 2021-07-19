@@ -884,3 +884,49 @@ RewardEXP=27500
 RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
+
+[QUEST47]
+Nombre=La prueba
+Desc=Demuestrame que eres un hombre del bien,que tienes poder suficiente para mis aventuras,manda al infiernoa los que lo adoran!
+DescFinal=Gracias!
+RequiredLevel=18
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=127-5
+RewardGLD=10000
+RewardEXP=17500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST48]
+Nombre=Una mas
+Desc=Si consiges matar estos pequeños demonios,te dare una llave donde yace el mal verdadero.
+DescFinal=Gracias,hablame para que te explique que hacer con la llave.
+RequiredLevel=18
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=2
+RequiredNPC1=127-5
+RequiredNPC2=105-5
+RewardGLD=10000
+RewardEXP=17500
+RewardOBJs=1
+RewardOBJ1=1112-1
+PosMap=1
+
+[QUEST49]
+Nombre=Una mas
+Desc=Si consiges matar estos pequeños demonios,te dare una llave donde yace el mal verdadero.
+DescFinal=Gracias,hablame para que te explique que hacer con la llave.
+RequiredLevel=18
+RequiredOBJs=1
+RequiredOBJ1=1112-1
+RequiredNPCs=1
+RequiredNPC1=0
+RewardGLD=20000
+RewardEXP=27500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
