@@ -388,10 +388,10 @@ RequiredLevel=14
 RequiredOBJs=3
 RequiredOBJ1=38-25  'pocion roja
 RequiredOBJ2=1-4 ''manzana roja
-RequiredOBJ3=34-2 ' botella agua
+RequiredOBJ3=43-2 ' botella agua
 
 RequiredNPCs=1
-RequiredNPC1=538=1 'oso pardo
+RequiredNPC1=538-1 'oso pardo
  
 RewardGLD=5000
 RewardEXP=10000
