@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=24
+NumQuests=30
  
 
 [QUEST1]
@@ -75,7 +75,7 @@ RequiredSkill1comercio=10
 
 RequiredOBJs=2
 RequiredOBJ1=138-1
-RequiredOBJ1=139-100
+RequiredOBJ2=139-100
  
 RequiredNPCs=0
 RequiredNPC1=0
@@ -204,10 +204,10 @@ RequiredLevel=14
 RequiredOBJs=0
 RequiredOBJ1=0
 
-RequiredNPCs=1
+RequiredNPCs=3
 RequiredNPC1=507-3
-RequiredNPC1=502-4
-RequiredNPC1=503-5
+RequiredNPC2=502-4
+RequiredNPC3=503-5
  
 RewardGLD=1750
 RewardEXP=3500
@@ -253,7 +253,7 @@ RequiredNPC1=529-20
 RewardGLD=2500
 RewardEXP=6500
  
-RewardOBJs=1
+RewardOBJs=3
 RewardOBJ1=166-15
 RewardOBJ2=365-1
 RewardOBJ3=203-1
@@ -274,7 +274,7 @@ RequiredNPC1=531-1
 RewardGLD=4500
 RewardEXP=7500
  
-RewardOBJs=1
+RewardOBJs=3
 RewardOBJ1=478-1
 RewardOBJ2=480-150
 RewardOBJ3=36-30
@@ -367,7 +367,7 @@ DescFinal= Toma,esta vestimenta ya no la voy a usar mas.
 RequiredLevel=22
  
 RequiredOBJs=0
-RequiredOBJ1=0-10
+RequiredOBJ1=0=10
 
 RequiredNPCs=1
 RequiredNPC1=612-10
@@ -387,11 +387,11 @@ RequiredLevel=14
  
 RequiredOBJs=3
 RequiredOBJ1=38-25  'pocion roja
-RequiredOBJ1=1-4 ''manzana roja
-RequiredOBJ1=34-2 ' botella agua
+RequiredOBJ2=1-4 ''manzana roja
+RequiredOBJ3=34-2 ' botella agua
 
 RequiredNPCs=1
-RequiredNPC1=538-1 'oso pardo
+RequiredNPC1=538=1 'oso pardo
  
 RewardGLD=5000
 RewardEXP=10000
@@ -488,7 +488,7 @@ RequiredLevel=15
  
 RequiredOBJs=2
 RequiredOBJ1=478-1
-RequiredOBJ1=480-2
+RequiredOBJ2=480-200
 
 RequiredNPCs=0
 RequiredNPC1=0
@@ -501,3 +501,114 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
+
+[QUEST25]
+Nombre=Defensa
+Desc=Las armas a distancia son poderosas,pero no siempre puedes estar lejos...trame una espada y unas pociones rojas,quiero marchar de aqui con vida!
+DescFinal= Gracias!!! ahora podre irme e reposar en la ciudad.
+RequiredLevel=15
+ 
+RequiredOBJs=2
+RequiredOBJ1=19-1
+RequiredOBJ2=38-50
+
+RequiredNPCs=0
+RequiredNPC1=0
+
+ 
+RewardGLD=6000
+RewardEXP=10000
+ 
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST26]
+Nombre=Gollum
+Desc=PEDIR COMIDA,COMER,SI CARNE TESORO,COMEREMOS SI,CHULETAS TRAERNOS
+DescFinal= MAS FAVOR SI TESORO ,SACARME SI
+RequiredLevel=15
+ 
+RequiredOBJs=2
+RequiredOBJ1=42-1
+RequiredOBJ2=27-2
+
+RequiredNPCs=0
+RequiredNPC1=0
+
+ 
+RewardGLD=1500
+RewardEXP=1500
+ 
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST27]
+Nombre=Smeagol
+Desc=Soy Sméagol,tu amigo,Gollum malo,cuidado,no hacermos caso,el malo,peligroso,se comio todo!
+DescFinal= Alejate de gollum va a venir!
+RequiredLevel=15
+ 
+RequiredOBJs=2
+RequiredOBJ1=43-1
+RequiredOBJ2=26-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=1500
+RewardEXP=1500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST28]
+Nombre=Smeagol
+Desc=QUIERE ROBARNOS,SMmeagol CALLA! TESORO QUERER ROBAR SI ROBAR TESORO,PELIGROSO TRAE POCION ESPECIAL Y YO DAR TESORO.
+DescFinal= TOMAR POCION PARA REGALO SI TESORO TSORO MIO
+RequiredLevel=15
+ 
+RequiredOBJs=1
+RequiredOBJ1=645-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=1500
+RewardEXP=1500
+RewardOBJs=1
+RewardOBJ1=645-1
+PosMap=1
+
+[QUEST29]
+Nombre=Asesino
+Desc=Por estas zonas,ahi unos asesinos negros que nos complican la seguridad,me echas una mano?o no tienes valor suficiente...
+RequiredLevel=15
+ 
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=531-2
+RewardGLD=4500
+RewardEXP=4500
+ 
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST30]
+Nombre=La Vigilancia
+Desc=la vigilancia es dura,llevo muchas guardias seguidas,me traes algo de comer y beber?
+RequiredLevel=5
+ 
+RequiredOBJs=2
+RequiredOBJ1=43-2
+RequiredOBJ2=64-10
+
+RequiredNPCs=0
+RequiredNPC1=0
+ 
+RewardGLD=1000
+RewardEXP=500
+ 
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
