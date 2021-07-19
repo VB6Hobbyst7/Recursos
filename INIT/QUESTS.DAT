@@ -917,9 +917,9 @@ RewardOBJ1=1112-1
 PosMap=1
 
 [QUEST49]
-Nombre=Una mas
-Desc=Si consiges matar estos pequeños demonios,te dare una llave donde yace el mal verdadero.
-DescFinal=Gracias,hablame para que te explique que hacer con la llave.
+Nombre=Demonio
+Desc=En el altillo yace el demonio dentro del cuerpo de la mujer del sacerdote,por amor la tiene encerrada,pero debemos matarla.
+DescFinal=Es triste,pero fue por el bien de todos.
 RequiredLevel=18
 RequiredOBJs=1
 RequiredOBJ1=1112-1
