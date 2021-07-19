@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 995
+Actual Npc con Nro más alto: 996
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 995
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=995
+NumNPCs=996
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9561,7 +9561,10 @@ Hostile=0
 Domable=0
 Alineacion=0
 Comercia=0
-BackUp=0
+NumQuest=3
+QuestNumber1=47
+QuestNumber2=48
+QuestNumber3=49
 
 [NPC921]
 Name=Cazador dos
@@ -11399,6 +11402,35 @@ GiveGLDMin=140
 GiveGLDMax=240
 MinHP=5500
 MaxHP=5500
+MaxHIT=240
+MinHIT=160
+DEF=0
+PoderAtaque=150
+PoderEvasion=70
+Veneno=1
+BackUp=0
+
+
+[NPC996]
+Name=Asesino Superior
+NpcType=0
+Head=0
+Heading=3
+Body=593
+Movement=3
+AguaValida=0
+Colorsangre=2
+Attackable=1
+ReSpawn=0
+Hostile=1
+Domable=0
+Alineacion=2
+Comercia=0
+GiveEXP=25000
+GiveGLDMin=140
+GiveGLDMax=240
+MinHP=7500
+MaxHP=7500
 MaxHIT=240
 MinHIT=160
 DEF=0

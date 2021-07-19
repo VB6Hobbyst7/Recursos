@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=46
+NumQuests=49
  
 
 [QUEST1]
@@ -924,7 +924,7 @@ RequiredLevel=18
 RequiredOBJs=1
 RequiredOBJ1=1112-1
 RequiredNPCs=1
-RequiredNPC1=0
+RequiredNPC1=996-1
 RewardGLD=20000
 RewardEXP=27500
 RewardOBJs=0
