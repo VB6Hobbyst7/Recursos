@@ -9875,8 +9875,9 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
-
+NumQuest=2
+QuestNumber1=45
+QuestNumber2=46
 
 [NPC942]
 Name=Doncella
@@ -9893,7 +9894,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=44
 
 
 [NPC943]
@@ -9955,7 +9957,7 @@ BackUp=0
 [NPC946]
 Name=Enano Guerrero
 NpcType=17
-Desc=Mi hacha ya esta gastada,podrias traerme una hacha nueva?
+Desc=Eres el famoso misionero?necesito estas cosas.
 Head=0
 Heading=3
 Body=560
@@ -9967,14 +9969,15 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=43
 
 
 
 [NPC947]
 Name=Hobbit
 NpcType=17
-Desc=Tengo que hacer un viaje muy largo en otras tierras,estoy tomando un descanso.
-Head=0
+Desc=El mago gris viene conmigo,tengo que hacer un viaje muy largo en otras tierras,me faltan algunas cosas!
 Heading=3
 Body=561
 Movement=1
@@ -9985,6 +9988,10 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=3
+QuestNumber1=37
+QuestNumber2=38
+QuestNumber3=39
 
 [NPC948]
 Name=Guerrero fornido
@@ -10060,7 +10067,9 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=2
+QuestNumber1=40
+QuestNumber2=41
 
 
 [NPC952]
@@ -10078,9 +10087,11 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=1
+NumQuest=4
 QuestNumber1=33
-
+QuestNumber2=34
+QuestNumber3=35
+QuestNumber4=36
 
 [NPC953]
 Name=Arquero Elfo
@@ -10097,7 +10108,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=42
 
 
 [NPC954]
@@ -10133,7 +10145,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=43
 
 
 [NPC956]

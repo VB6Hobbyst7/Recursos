@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=33
+NumQuests=46
  
 
 [QUEST1]
@@ -659,9 +659,228 @@ RequiredLevel=13
 RequiredOBJs=0
 RequiredOBJ1=0
 RequiredNPCs=1
-RequiredNPC1=6-10
+RequiredNPC1=86-10
 RewardGLD=10000
 RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST34]
+Nombre=Almas
+Desc=Las almas puras son las mas apreciadas en el infierno!traeme mas!
+DescFinal= Estas siguen siendo pocas almas...
+RequiredLevel=13
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=87-15
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST35]
+Nombre=Almas
+Desc=Estas almas son mas poderosas!
+DescFinal= NECESITO MUCHAS MUCHAS MAS ALMAS!!!
+RequiredLevel=13
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=85-10
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST36]
+Nombre=Almas
+Desc=El alma de un rey... es algo muy muy poderoso y preciado traeme una!
+DescFinal=Con esto me doy por satisfecho
+RequiredLevel=13
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=904-1
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST37]
+Nombre=Equipamiento
+Desc=Necesitare una daga +4 para defenderme en el viaje y una armadura ligera.
+DescFinal=necesitare mas cosas.
+RequiredLevel=18
+RequiredOBJs=2
+RequiredOBJ1=559-1
+RequiredOBJ2=499-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=50000
+RewardEXP=27500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST38]
+Nombre=Provisiones
+Desc=Tambien necesitare provisiones para sobrevivir
+DescFinal=necesitare mas cosas.
+RequiredLevel=18
+RequiredOBJs=2
+RequiredOBJ1=24-5
+RequiredOBJ2=43-3
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST39]
+Nombre=Mapa de mundos
+Desc=Ahora solo necesito el mapa de mundos para marchar,se rumorea que una brujo superior tiene este mapa!
+DescFinal=Gracias ya estoy completo para viajar!
+RequiredLevel=18
+RequiredOBJs=1
+RequiredOBJ1=41-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST40]
+Nombre=Ayuda
+Desc=Soy un humilde mendigo,me llamo Horacio,me desterraron por andar robando en tiempos de crisis,dame algo porfavor.
+DescFinal=Gracias!
+RequiredLevel=1
+RequiredOBJs=3
+RequiredOBJ1=1-10
+RequiredOBJ2=43-10
+RequiredOBJ3=15-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=750
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST41]
+Nombre=Ayuda
+Desc=No te sere fiel,aunque parezca que si,me siges ayudando?amigo.
+DescFinal=Gracias!
+RequiredLevel=2
+RequiredOBJs=3
+RequiredOBJ1=404-1
+RequiredOBJ2=1002-1
+RequiredOBJ3=38-50
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=750
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST42]
+Nombre=Flechas
+Desc=Aqui no venden las flechas que yo uso,consigemelas y seas recompensado!
+DescFinal=Gracias!
+RequiredLevel=13
+RequiredOBJs=1
+RequiredOBJ1=552-500
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=10000
+RewardEXP=17500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST42]
+Nombre=Embarcacion
+Desc=Mi capitan me abandono y ahora quiero montar mi propia tribulacion pirata,consigeme una embarcacion muchacho,te pagare bien!
+DescFinal=Gracias!
+RequiredLevel=13
+RequiredOBJs=1
+RequiredOBJ1=476-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=150000
+RewardEXP=37500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST43]
+Nombre=Casco
+Desc=Un buen casco de plata para un buen guerrero! tramelo y te compensare!
+DescFinal=Gracias!
+RequiredLevel=13
+RequiredOBJs=1
+RequiredOBJ1=405-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=20000
+RewardEXP=17500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST44]
+Nombre=Ropa de fiesta
+Desc=Traeme un vestido y bailare contigo toda la noche!
+DescFinal=Ha sido un honor bailar contigo toma esta cerveza!
+RequiredLevel=15
+RequiredOBJs=1
+RequiredOBJ1=551-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=20000
+RewardEXP=17500
+RewardOBJs=1
+RewardOBJ1=160-1
+PosMap=1
+
+[QUEST45]
+Nombre=barca
+Desc=viajar con el barco de otros sale bastante caro,mejor un barco propio!
+DescFinal=Gracias!
+RequiredLevel=18
+RequiredOBJs=1
+RequiredOBJ1=474-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=80000
+RewardEXP=27500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST46]
+Nombre=El libro
+Desc=Sin este mapa,no puedes viajar!
+DescFinal=Gracias!
+RequiredLevel=18
+RequiredOBJs=1
+RequiredOBJ1=41-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=10000
+RewardEXP=27500
 RewardOBJs=0
 RewardOBJ1=0
 PosMap=1

@@ -1,4 +1,19 @@
-##############################################
+
+[QUEST38]
+Nombre=Provisiones
+Desc=Tambien necesitare provisiones para sobrevivir
+DescFinal=necesitare mas cosas.
+RequiredLevel=18
+RequiredOBJs=3
+RequiredOBJ1=24-5
+RequiredOBJ2=43-3
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1##############################################
 #########TIPOS  DE OBJETOS (ObjType)##########
 ##############################################
 
@@ -502,7 +517,7 @@ Agarrable=0
 Crucial=0
 
 [OBJ41]
-Name=Libro Antiguo
+Name=Mapa de mundos
 GrhIndex=539
 ObjType=12
 Agarrable=0
