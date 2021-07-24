@@ -1,5 +1,5 @@
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-'NeoSefirot - Configurar bots
+'JOTA - Juan Pablo Pereyra: Configurar bots
 'Las variables de MINUTOS, solo hay que poner valores ENTEROS que representan minutos, minimo 1
 'Las variables de SEGUNDOS, solo hay que poner valores ENTEROS que representan SEGUNDOS, minimo 1
 'En turnos, poner cantidad minima y maxima de bots por turno, poner numero entero. El servidor toma un valor random minimo y random maximo por turno.

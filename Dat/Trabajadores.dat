@@ -1,5 +1,5 @@
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-'Neo Npcs trabajadores
+'Jota Npcs trabajadores
 'En INIT indicar el numero total de trabajadores
 'El trabajador cada un tiempo random de trabajo, dice una frase random del archivo FrasesTrabajadores.dat
 'En el campo PROFESION poner alguna de estas: PESCADOR, TALADOR, CARPINTERO, HERRERO, MINERO

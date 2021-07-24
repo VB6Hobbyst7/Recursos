@@ -1,5 +1,5 @@
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-'Neo Ruta para los npcs carpinteros
+'JOTA: Ruta para los npcs carpinteros
 'Si el final esta ocupado por otro npc o personaje, el bot se pone al lado
 'En el campo direccion inicio y fin, poner para que lado esta el arbol o el npc, es para que el bot GIRE SU CUERPO y la cabeza apunte al arbol o npc/casa
 'Valores para direccion inicio y fin: NORTE, SUR, ESTE, OESTE
