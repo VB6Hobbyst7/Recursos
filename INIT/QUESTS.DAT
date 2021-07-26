@@ -426,13 +426,13 @@ DescFinal= Aja!! Ahora podre hacerme una espada mata dragones!
 RequiredLevel=25
  
 RequiredOBJs=1
-RequiredOBJ1=194-1
+RequiredOBJ1=194-2000
 
 RequiredNPCs=0
 RequiredNPC1=0
  
-RewardGLD=15000
-RewardEXP=50000
+RewardGLD=30000
+RewardEXP=75000
  
 RewardOBJs=0
 RewardOBJ1=0
