@@ -10655,7 +10655,7 @@ Obj2=37-1
 ############################################
 
 [NPC972]
-Name=!Lord Culo
+Name=!Lord Sonic
 NpcType=10
 Head=10
 Heading=3
@@ -10729,7 +10729,7 @@ Obj2=37-1
 ############################################
 
 [NPC974] 
-Name=!Javier Malo
+Name=!Javier Podavini
 NpcType=10
 Head=40
 Heading=3
@@ -10766,7 +10766,7 @@ Obj2=37-1
 ############################################
 
 [NPC975]
-Name=!Lord Hit
+Name=!Lord Jota
 NpcType=10
 Head=10
 Heading=3
