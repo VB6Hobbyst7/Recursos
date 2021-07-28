@@ -1,4 +1,19 @@
-##############################################
+
+[QUEST38]
+Nombre=Provisiones
+Desc=Tambien necesitare provisiones para sobrevivir
+DescFinal=necesitare mas cosas.
+RequiredLevel=18
+RequiredOBJs=3
+RequiredOBJ1=24-5
+RequiredOBJ2=43-3
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=10000
+RewardEXP=7500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1##############################################
 #########TIPOS  DE OBJETOS (ObjType)##########
 ##############################################
 
@@ -71,7 +86,7 @@ usar primero los nros más bajos.
 [INIT]
 'aca va el numero de OBJ mas alto, NO la cantidad de OBJs.
 'esto sirve para que los GMS puedan ver la lista completa de items para crear en una ventanita.
-NumOBJs=1111
+NumOBJs=1112
 
 
 [OBJ1]
@@ -502,7 +517,7 @@ Agarrable=0
 Crucial=0
 
 [OBJ41]
-Name=Libro Antiguo
+Name=Mapa de mundos
 GrhIndex=539
 ObjType=12
 Agarrable=0
@@ -2225,7 +2240,7 @@ Crucial=1
 
 [OBJ197]
 Name=Flecha Mágica
-GrhIndex=609
+GrhIndex=32448
 ObjType=24
 Agarrable=0
 Valor=2300
@@ -2249,7 +2264,7 @@ SkHerreria=12
 
 [OBJ199]
 Name=Dardo Mágico
-GrhIndex=609
+GrhIndex=4185
 ObjType=24
 Agarrable=0
 Valor=500
@@ -2258,7 +2273,7 @@ HechizoIndex=2
 
 [OBJ200]
 Name=Curar Veneno
-GrhIndex=609
+GrhIndex=32441
 ObjType=24
 Agarrable=0
 Valor=200
@@ -2267,7 +2282,7 @@ HechizoIndex=1
 
 [OBJ201]
 Name=Curar Heridas Leves
-GrhIndex=609
+GrhIndex=32440
 ObjType=24
 Agarrable=0
 Valor=500
@@ -2275,8 +2290,8 @@ Crucial=1
 HechizoIndex=3
 
 [OBJ202]
-Name=Toxina
-GrhIndex=609
+Name=Envenenar
+GrhIndex=32447
 ObjType=24
 Agarrable=0
 Valor=3000
@@ -2285,7 +2300,7 @@ HechizoIndex=4
 
 [OBJ203]
 Name=Curar Heridas Graves
-GrhIndex=609
+GrhIndex=32440
 ObjType=24
 Agarrable=0
 Valor=35000
@@ -2294,7 +2309,7 @@ HechizoIndex=5
 
 [OBJ204]
 Name=Flecha Eléctrica
-GrhIndex=609
+GrhIndex=32449
 ObjType=24
 Agarrable=0
 Valor=4500
@@ -2303,7 +2318,7 @@ HechizoIndex=7
 
 [OBJ205]
 Name=Misil Mágico
-GrhIndex=609
+GrhIndex=32442
 ObjType=24
 Agarrable=0
 Valor=9000
@@ -2312,7 +2327,7 @@ HechizoIndex=8
 
 [OBJ206]
 Name=Paralizar
-GrhIndex=609
+GrhIndex=32457
 ObjType=24
 Agarrable=0
 Valor=50000
@@ -2321,7 +2336,7 @@ HechizoIndex=9
 
 [OBJ207]
 Name=Remover Parálisis
-GrhIndex=609
+GrhIndex=32456
 ObjType=24
 Agarrable=0
 Valor=33000
@@ -3511,7 +3526,7 @@ Texto=Bienvenido al Palacio Real.
 
 [OBJ318]
 Name=Invisibilidad
-GrhIndex=609
+GrhIndex=32453
 ObjType=24
 Agarrable=0
 Valor=210000
@@ -3520,7 +3535,7 @@ HechizoIndex=14
 
 [OBJ319]
 Name=Resucitar
-GrhIndex=609
+GrhIndex=32439
 ObjType=24
 Agarrable=0
 Valor=290000
@@ -4037,7 +4052,7 @@ CP11=TRABAJADOR
 
 [OBJ361]
 Name=Tormenta de Fuego
-GrhIndex=609
+GrhIndex=32459
 ObjType=24
 Agarrable=0
 Valor=32000
@@ -4068,7 +4083,7 @@ HechizoIndex=12
 
 [OBJ364]
 Name=Terrible Hambre de Igor
-GrhIndex=609
+GrhIndex=4184
 ObjType=24
 Agarrable=0
 Valor=350
@@ -4324,7 +4339,7 @@ SkHerreria=35
 
 [OBJ380]
 Name=Invocacion de Ultratumba
-GrhIndex=609
+GrhIndex=1537
 ObjType=24
 Agarrable=0
 Valor=45000
@@ -4524,7 +4539,7 @@ SkHerreria=90
 
 [OBJ394]
 Name=Llamado a la Naturaleza
-GrhIndex=609
+GrhIndex=32454
 ObjType=24
 Agarrable=0
 Valor=15000
@@ -4533,7 +4548,7 @@ HechizoIndex=16
 
 [OBJ395]
 Name=Llamado Nigromante
-GrhIndex=609
+GrhIndex=1537
 ObjType=24
 Agarrable=0
 Valor=40000
@@ -4542,7 +4557,7 @@ HechizoIndex=17
 
 [OBJ396]
 Name=Celeridad
-GrhIndex=609
+GrhIndex=32437
 ObjType=24
 Agarrable=0
 Valor=12050
@@ -4551,7 +4566,7 @@ HechizoIndex=18
 
 [OBJ397]
 Name=Torpeza
-GrhIndex=609
+GrhIndex=4187
 ObjType=24
 Agarrable=0
 Valor=13450
@@ -5388,7 +5403,7 @@ SkCarpinteria=75
 
 [OBJ470]
 Name=Fuerza
-GrhIndex=609
+GrhIndex=32450
 ObjType=24
 Agarrable=0
 Valor=15000
@@ -5397,7 +5412,7 @@ HechizoIndex=20
 
 [OBJ471]
 Name=Debilidad
-GrhIndex=609
+GrhIndex=4186
 ObjType=24
 Agarrable=0
 Valor=13450
@@ -6341,7 +6356,7 @@ CP2=PIRATA
 
 [OBJ530]
 Name=Inmovilizar
-GrhIndex=609
+GrhIndex=32452
 ObjType=24
 Agarrable=0
 Valor=110000
@@ -6350,7 +6365,7 @@ HechizoIndex=24
 
 [OBJ531]
 Name=Descarga Electrica
-GrhIndex=609
+GrhIndex=32443
 ObjType=24
 Agarrable=0
 Valor=1200000
@@ -6359,7 +6374,7 @@ HechizoIndex=23
 
 [OBJ532]
 Name=Apocalipsis
-GrhIndex=609
+GrhIndex=32438
 ObjType=24
 Agarrable=0
 Valor=2400000
@@ -6398,7 +6413,7 @@ Texto=Lápida en homenaje a nuestro gran demiurgo, Gulfas Morgolock, quien desapa
 
 [OBJ536]
 Name=Invocar Elemental de Fuego
-GrhIndex=609
+GrhIndex=32446
 ObjType=24
 Agarrable=0
 Valor=950000
@@ -6407,7 +6422,7 @@ HechizoIndex=26
 
 [OBJ537]
 Name=Invocar Elemental de Agua
-GrhIndex=609
+GrhIndex=32445
 ObjType=24
 Agarrable=0
 Valor=350000
@@ -6417,7 +6432,7 @@ Log=1
 
 [OBJ538]
 Name=Invocar Elemental de Tierra
-GrhIndex=609
+GrhIndex=32444
 ObjType=24
 Agarrable=0
 Valor=500000
@@ -6426,7 +6441,7 @@ HechizoIndex=28
 
 [OBJ539]
 Name=Implorar Ayuda
-GrhIndex=609
+GrhIndex=32451
 ObjType=24
 Agarrable=0
 Valor=90000
@@ -6448,7 +6463,7 @@ SkCarpinteria=75
 
 [OBJ541]
 Name=Ceguera
-GrhIndex=609
+GrhIndex=32442
 ObjType=24
 Agarrable=0
 Valor=200000
@@ -8134,7 +8149,7 @@ SkHerreria=75
 
 [OBJ673]
 Name=Mimetismo
-GrhIndex=609
+GrhIndex=4188
 ObjType=24
 Agarrable=0
 Valor=400000
@@ -12864,5 +12879,11 @@ Valor=0
 Crucial=0
 Nosecae=1
 
+[OBJ1112]
+Name=Llave del Altillo
+GrhIndex=509
+ObjType=9
+Agarrable=0
+Crucial=0
 
 

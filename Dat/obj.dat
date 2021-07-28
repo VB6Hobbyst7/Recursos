@@ -4339,7 +4339,7 @@ SkHerreria=35
 
 [OBJ380]
 Name=Invocacion de Ultratumba
-GrhIndex=4189
+GrhIndex=1537
 ObjType=24
 Agarrable=0
 Valor=45000
@@ -4548,7 +4548,7 @@ HechizoIndex=16
 
 [OBJ395]
 Name=Llamado Nigromante
-GrhIndex=4189
+GrhIndex=1537
 ObjType=24
 Agarrable=0
 Valor=40000
