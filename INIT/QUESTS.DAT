@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=53
+NumQuests=58
  
 
 [QUEST1]
@@ -1006,4 +1006,52 @@ RewardGLD=5000
 RewardEXP=15000
 RewardOBJs=1
 RewardOBJ1=11-1
+PosMap=1
+
+
+[QUEST56]
+Nombre=Red de pesca
+Desc=Estoy anclado y se me ha roto la red de pesca!rapido traeme una red!! a que esperas!!
+DescFinal=vete! toda esta zona es mia,son mis pescados!
+RequiredLevel=15
+RequiredOBJs=1
+RequiredOBJ1=543-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=15000
+RewardEXP=15000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+
+[QUEST57]
+Nombre=Embarcacion
+Desc=Me an robado mi barca! un ladron me golpeo y me afano todo! ayudame!
+DescFinal=Ahora podre irme de aqui,GRACIAS!
+RequiredLevel=25
+RequiredOBJs=1
+RequiredOBJ1=474-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=150000
+RewardEXP=170000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST58]
+Nombre=Mapa
+Desc=Tome unas cervezas...me aventure y me perdi...me consiges un mapa?
+DescFinal=Ahora podre irme de aqui,GRACIAS!
+RequiredLevel=10
+RequiredOBJs=1
+RequiredOBJ1=41-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=1500
+RewardEXP=3500
+RewardOBJs=0
+RewardOBJ1=0
 PosMap=1

@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 998
+Actual Npc con Nro más alto: 1000
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 998
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=998
+NumNPCs=1000
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -5501,6 +5501,8 @@ PoderAtaque=70
 PoderEvasion=50
 Snd3=157
 BackUp=0
+NROITEMS=1
+Obj1=41-1 'mapa
 
 ############################################
 
@@ -8185,7 +8187,7 @@ PoderAtaque=120
 PoderEvasion=50
 BackUp=0
 NROITEMS=1
-Obj1=1067-1 'Piel Lobo polar
+Obj1=414-1 'Piel Lobo polar
 
 ############################################
 
@@ -9456,10 +9458,10 @@ Sp5=1
 
 
 [NPC915]
-Name=Cazador de osos
+Name=Cazador
 NpcType=17
-Desc=¡Cuidado! Osos salvajes cerca!! /BONUSQUEST
-Desc2=¡Cuidado! Osos salvajes cerca!! /BONUSQUEST
+Desc=¡Cuidado! Osos salvajes cerca! estoy perdido!
+Desc2=¡Cuidado! Osos salvajes cerca! estoy perdido!
 Head=1
 Heading=3
 Body=58
@@ -9471,7 +9473,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=58
 
 [NPC916]
 Name=Mago Veril
@@ -11485,3 +11488,47 @@ Comercia=0
 BackUp=0
 NumQuest=1
 QuestNumber1=53
+
+
+[NPC999]
+Name=Pescador grosero
+NpcType=17
+Desc=Que estas mirando ! me ayudas o no!
+Desc2=Que estas mirando ! me ayudas o no!
+Head=0
+Heading=3
+AguaValida=1
+TierraInvalida=1
+Body=84
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=56
+
+[NPC1000]
+Name=Humano perdido
+NpcType=17
+Desc=No puedo salir de aqui! ayudame!
+Desc2=No puedo salir de aqui! ayudame!
+Head=1
+Heading=3
+AguaValida=1
+TierraInvalida=1
+Body=21
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=57
+
