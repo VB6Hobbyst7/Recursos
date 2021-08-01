@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=49
+NumQuests=53
  
 
 [QUEST1]
@@ -927,6 +927,67 @@ RequiredNPCs=1
 RequiredNPC1=996-1
 RewardGLD=20000
 RewardEXP=27500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST50]
+Nombre=Arco
+Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
+DescFinal=Hasta la proxima!
+RequiredLevel=1
+RequiredOBJs=1
+RequiredOBJ1=58-3000
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=1
+RewardOBJ1=479-1
+PosMap=1
+
+[QUEST51]
+Nombre=Flechas
+Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
+DescFinal=Hasta la proxima!
+RequiredLevel=1
+RequiredOBJs=1
+RequiredOBJ1=58-500
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=1
+RewardOBJ1=551-100
+PosMap=1
+
+
+[QUEST52]
+Nombre=Fragata
+Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
+DescFinal=Hasta la proxima!
+RequiredLevel=1
+RequiredOBJs=1
+RequiredOBJ1=58-14000
+RequiredNPCs=1
+RequiredNPC1=474-1
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST53]
+Nombre=Hacha dos filos
+Desc=la hacha dos dilos es una de las mas poderosas,yo te puedo construir las que necesites.
+DescFinal=Hasta la proxima!
+RequiredLevel=13
+RequiredOBJs=1
+RequiredOBJ1=386-120
+RequiredNPCs=1
+RequiredNPC1=129-1
+RewardGLD=0
+RewardEXP=0
 RewardOBJs=0
 RewardOBJ1=0
 PosMap=1

@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 996
+Actual Npc con Nro más alto: 998
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 996
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=996
+NumNPCs=998
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -10655,7 +10655,7 @@ Obj2=37-1
 ############################################
 
 [NPC972]
-Name=!Lord Culo
+Name=!Lord Sonic
 NpcType=10
 Head=10
 Heading=3
@@ -10729,7 +10729,7 @@ Obj2=37-1
 ############################################
 
 [NPC974] 
-Name=!Javier Malo
+Name=!Javier Podavini
 NpcType=10
 Head=40
 Heading=3
@@ -10766,7 +10766,7 @@ Obj2=37-1
 ############################################
 
 [NPC975]
-Name=!Lord Hit
+Name=!Lord Jota
 NpcType=10
 Head=10
 Heading=3
@@ -11438,3 +11438,43 @@ PoderAtaque=150
 PoderEvasion=70
 Veneno=1
 BackUp=0
+
+[NPC997]
+Name=Carpintero Josue
+NpcType=17
+Desc=Puedo realizarte trabajos.
+Desc2=Puedo realizarte trabajos.
+Head=2
+Heading=3
+Body=1
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=3
+QuestNumber1=50
+QuestNumber2=51
+QuestNumber3=53
+
+[NPC998]
+Name=Herrero Forjador
+NpcType=17
+Desc=Yo tengo mejores armas que ese herrero feo...pero no me interesa el dinero,sino los materiales.
+Desc2=Yo tengo mejores armas que ese herrero feo...pero no me interesa el dinero,sino los materiales.
+Head=2
+Heading=3
+Body=93
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=53
