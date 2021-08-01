@@ -1,5 +1,5 @@
 [Config]
-Cantidad=180
+Cantidad=181
 
 [Zona1]
 Nombre=Ullathorpe
@@ -968,7 +968,7 @@ X1=225
 Y1=1135
 X2=338
 Y2=1165
-Segura=1
+Segura=0
 Terreno=2
 Acoplar=0
 InviSinEfecto=0
@@ -5889,3 +5889,14 @@ Niebla=0
 NieblaR=0
 NieblaG=0
 NieblaB=0
+[Zona181]
+Nombre=Altillo Sacerdote
+Mapa=28
+X1=15
+Y1=6
+X2=34
+Y2=30
+Segura=1
+Musica1=5
+[Zona0]
+Acoplar=0

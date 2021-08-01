@@ -991,3 +991,19 @@ RewardEXP=0
 RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
+
+
+[QUEST55]
+Nombre=Tiburon
+Desc=Un maldito tiburon no me deja avanzar!esta mas adelante! matalo y te compensare!
+DescFinal=Hasta la proxima!
+RequiredLevel=20
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=606-2
+RewardGLD=5000
+RewardEXP=15000
+RewardOBJs=1
+RewardOBJ1=11-1
+PosMap=1

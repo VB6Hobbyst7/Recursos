@@ -3542,8 +3542,8 @@ BackUp=0
 [NPC102] 'Guardia Neutral
 Name=Guardia Neutral
 NpcType=2
-Desc=¡Protegeré esta ciudad de criaturas infames y alborotadores!
-Desc2=¡Protegeré esta ciudad de criaturas infames y alborotadoras!
+Desc=¡Protegeré esta ciudad de criaturase alborotadores!
+Desc2=¡Protegeré esta ciudad de criaturas alborotadoras!
 Head=-1
 Heading=3
 Body=221
@@ -3562,9 +3562,9 @@ GiveEXP=0
 GiveGLDMin=0
 MinHP=1000
 MaxHP=1000
-MaxHIT=250
-MinHIT=115
-DEF=30
+MaxHIT=950
+MinHIT=950
+DEF=80
 PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=1
@@ -6387,7 +6387,7 @@ BackUp=0
 ############################################
 
 [NPC561]
-Name=Dark Hit
+Name=Dark Hommer
 NpcType=0
 Head=9
 Heading=3
@@ -6415,7 +6415,7 @@ BackUp=0
 ############################################
 
 [NPC562]
-Name=Dark Jota
+Name=Dark Aikhio
 NpcType=0
 Head=72
 Heading=3
@@ -9693,8 +9693,8 @@ QuestNumber1=30
 [NPC927]
 Name=Quest Newbie Dungeon
 NpcType=17
-Desc=¡Buen día! El newbie dungeon es el lugar mas famoso de entreno para los principiantes! Puedo compensarte con algunas misiones /QUEST.
-Desc2=¡Buen día! El newbie dungeon es el lugar mas famoso de entreno para las principiantes! Puedo compensarte con algunas misiones /QUEST.
+Desc=¡Buen día! El newbie dungeon es el lugar mas famoso de entreno para los principiantes! Puedo compensarte con algunas misiones 
+Desc2=¡Buen día! El newbie dungeon es el lugar mas famoso de entreno para las principiantes! Puedo compensarte con algunas misiones
 Head=5
 Heading=3
 Body=3
@@ -9706,7 +9706,14 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=7
+QuestNumber1=1
+QuestNumber2=2
+QuestNumber3=3
+QuestNumber4=4
+QuestNumber5=5
+QuestNumber6=6
+QuestNumber7=7
 
 [NPC928]
 Name=Quest Ullathorpe
@@ -9758,10 +9765,16 @@ QuestNumber5=19
 QuestNumber6=20
 
 [NPC930]
-Name=Margareth <Quest Newbie Dungeon> ' EJEMPLO DE NPC QUEST DEL NUEVO SISTEMA SACADO DE AO20
+Name=Pirata
+Head=0
+Heading=3
+Body=86
+Movement=3
+AguaValida=1
+TierraInvalida=1
 NpcType=17
-Desc=Bienvenido a Newbie Dungeon!! Yo te enseñare lo basico para aprender!
-Desc2=Bienvenida a Newbie Dungeon!! Yo te enseñare lo basico para aprender!
+Desc=
+Desc2=
 Showname=1
 Heading=3
 Body=537
@@ -9773,14 +9786,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=7
-QuestNumber1=1
-QuestNumber2=2
-QuestNumber3=3
-QuestNumber4=4
-QuestNumber5=5
-QuestNumber6=6
-QuestNumber7=7
+NumQuest=1
+QuestNumber1=54
 
 [NPC931]
 Name=Rey
