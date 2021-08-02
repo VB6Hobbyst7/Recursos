@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 1004
+Actual Npc con Nro más alto: 1000
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 1004
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=1004
+NumNPCs=1000
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -9512,6 +9512,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=69
 
 [NPC918]
 Name=Pescador Nix /BONUSQUEST
@@ -11511,7 +11513,7 @@ BackUp=0
 NumQuest=1
 QuestNumber1=56
 
-[NPC1000]
+[NPC173]
 Name=Humano perdido
 NpcType=17
 Desc=No puedo salir de aqui! ayudame!
@@ -11533,7 +11535,7 @@ NumQuest=1
 QuestNumber1=57
 
 
-[NPC1001]
+[NPC174]
 Name=Cazador marino
 NpcType=17
 Desc=Matemos al kraken!
@@ -11554,7 +11556,7 @@ BackUp=0
 NumQuest=1
 QuestNumber1=60
 
-[NPC1002]
+[NPC175]
 Name=La muerte
 NpcType=17
 Desc=veamos de que eres capaz.
@@ -11579,7 +11581,7 @@ QuestNumber5=65
 QuestNumber6=66
 QuestNumber7=67
 
-[NPC1003]
+[NPC176]
 Name=Orco Huesero
 NpcType=17
 Desc=Necesito muchos huesos!
@@ -11598,16 +11600,35 @@ BackUp=0
 NumQuest=1
 QuestNumber1=68
 
-[NPC1004]
+[NPC177]
+Name=Sastre molesto
+NpcType=17
+Desc=No le voy a comprar nada a este sastre!
+Desc2=Necesito pieles!
+Head=275
+Heading=3
+Body=49
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=70
+
+[NPC178]
 Name=Cazador perdido
 NpcType=17
 Desc=ayudame!
 Desc2=ayudame!
-Head=4
+Head=2
 Heading=3
 AguaValida=1
 TierraInvalida=1
-Body=32
+Body=2
 Movement=1
 Attackable=0
 ReSpawn=0

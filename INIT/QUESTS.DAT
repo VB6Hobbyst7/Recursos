@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=58
+NumQuests=70
  
 
 [QUEST1]
@@ -809,7 +809,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST42]
+[QUEST43]
 Nombre=Embarcacion
 Desc=Mi capitan me abandono y ahora quiero montar mi propia tribulacion pirata,consigeme una embarcacion muchacho,te pagare bien!
 DescFinal=Gracias!
@@ -824,7 +824,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST43]
+[QUEST44]
 Nombre=Casco
 Desc=Un buen casco de plata para un buen guerrero! tramelo y te compensare!
 DescFinal=Gracias!
@@ -840,7 +840,7 @@ RewardOBJ1=0
 PosMap=1
 
 
-[QUEST44]
+[QUEST45]
 Nombre=Ropa de fiesta
 Desc=Traeme un vestido y bailare contigo toda la noche!
 DescFinal=Ha sido un honor bailar contigo toma esta cerveza!
@@ -855,7 +855,7 @@ RewardOBJs=1
 RewardOBJ1=160-1
 PosMap=1
 
-[QUEST45]
+[QUEST46]
 Nombre=barca
 Desc=viajar con el barco de otros sale bastante caro,mejor un barco propio!
 DescFinal=Gracias!
@@ -870,7 +870,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST46]
+[QUEST47]
 Nombre=El libro
 Desc=Sin este mapa,no puedes viajar!
 DescFinal=Gracias!
@@ -885,7 +885,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST47]
+[QUEST48]
 Nombre=La prueba
 Desc=Demuestrame que eres un hombre del bien,que tienes poder suficiente para mis aventuras,manda al infiernoa los que lo adoran!
 DescFinal=Gracias!
@@ -900,7 +900,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST48]
+[QUEST49]
 Nombre=Una mas
 Desc=Si consiges matar estos pequeños demonios,te dare una llave donde yace el mal verdadero.
 DescFinal=Gracias,hablame para que te explique que hacer con la llave.
@@ -916,7 +916,7 @@ RewardOBJs=1
 RewardOBJ1=1112-1
 PosMap=1
 
-[QUEST49]
+[QUEST50]
 Nombre=Demonio
 Desc=En el altillo yace el demonio dentro del cuerpo de la mujer del sacerdote,por amor la tiene encerrada,pero debemos matarla.
 DescFinal=Es triste,pero fue por el bien de todos.
@@ -931,7 +931,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST50]
+[QUEST51]
 Nombre=Arco
 Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
 DescFinal=Hasta la proxima!
@@ -946,7 +946,7 @@ RewardOBJs=1
 RewardOBJ1=479-1
 PosMap=1
 
-[QUEST51]
+[QUEST52]
 Nombre=Flechas
 Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
 DescFinal=Hasta la proxima!
@@ -962,7 +962,7 @@ RewardOBJ1=551-100
 PosMap=1
 
 
-[QUEST52]
+[QUEST53]
 Nombre=Fragata
 Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
 DescFinal=Hasta la proxima!
@@ -977,7 +977,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST53]
+[QUEST54]
 Nombre=Hacha dos filos
 Desc=la hacha dos dilos es una de las mas poderosas,yo te puedo construir las que necesites.
 DescFinal=Hasta la proxima!
@@ -1054,4 +1054,192 @@ RewardGLD=1500
 RewardEXP=3500
 RewardOBJs=0
 RewardOBJ1=0
+PosMap=1
+
+[QUEST59]
+Nombre=Un cazador en apuros.
+Desc=Ayudame a controlar las plagas del bosque y te recompenzare!
+DescFinal=Ahora podre irme de aqui,GRACIAS!
+RequiredLevel=15
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=3
+RequiredNPC1=515-3
+RequiredNPC2=510-5
+RequiredNPC3=523-7
+RewardGLD=4500
+RewardEXP=15500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST60]
+Nombre=Peligros del mar abierto.
+Desc=Cientos de navegantes estan siendo atacados por los mas peligrosos monstruos marinos. Sube a tu barca y ayudame con ellos.
+DescFinal=GRACIAS!
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=610-1
+RewardGLD=25000
+RewardEXP=25500
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST61]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=558-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST62]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=559-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST63]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=560-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST64]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=561-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST65]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=562-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST66]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=563-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+[QUEST67]
+Nombre=Terrores de otros tiempos.
+Desc=Espiritus de tiempos pasados acechan nuestro presente. Si aceptas esta mision deberas viajar y derrotarlos pero te aseguro que la recompensa valdra la pena.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=911-1
+RewardGLD=100000
+RewardEXP=100000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST68]
+Nombre=Huesos
+Desc=Llevo mucho tiempo en el mercado negro de la muerte pero nunca antes me habian hecho un pedido de huesos tan grande. Ayudame a completar mi pedido y te pagare.
+RequiredLevel=13
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredNPCs=3
+RequiredNPC1=596-20
+RequiredNPC2=599-20
+RequiredNPC3=601-20
+RequiredOBJs=0
+RequiredOBJ1=0
+RewardGLD=35000
+RewardEXP=15000
+RewardOBJs=0
+RewardOBJ1=0
+PosMap=1
+
+
+[QUEST69]
+Nombre=Pico Roto
+Desc=Tengo el pico cuadrado jaja,me traes otro?te dare unos cuantos minerales si me haces el favor,estoy viejo ya para viajar.
+RequiredLevel=13
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredNPCs=0
+RequiredNPC1=0
+RequiredOBJs=1
+RequiredOBJ1=187-1
+RewardGLD=150
+RewardEXP=3500
+RewardOBJs=1
+RewardOBJ1=192-500
+PosMap=1
+
+
+[QUEST70]
+Nombre=Pieles de lobo
+Desc=Este sastre esta loco,es muy caro! traeme estas pieles y are dos tunicas,una parati y otra parami!
+RequiredLevel=13
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredNPCs=0
+RequiredNPC1=0
+RequiredOBJs=1
+RequiredOBJ1=413-20
+RewardGLD=0
+RewardEXP=3500
+RewardOBJs=1
+RewardOBJ1=670-1
 PosMap=1

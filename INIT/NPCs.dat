@@ -9512,6 +9512,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=69
 
 [NPC918]
 Name=Pescador Nix /BONUSQUEST
@@ -10323,7 +10325,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumQuest=1
-QuestNumber1=42
+QuestNumber1=43
 
 [NPC956]
 Name=Budista
@@ -11511,7 +11513,7 @@ BackUp=0
 NumQuest=1
 QuestNumber1=56
 
-[NPC1000]
+[NPC173]
 Name=Humano perdido
 NpcType=17
 Desc=No puedo salir de aqui! ayudame!
@@ -11531,4 +11533,110 @@ Comercia=0
 BackUp=0
 NumQuest=1
 QuestNumber1=57
+
+
+[NPC174]
+Name=Cazador marino
+NpcType=17
+Desc=Matemos al kraken!
+Desc2=Matemos al kraken!
+Head=0
+Heading=3
+AguaValida=1
+TierraInvalida=1
+Body=85
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=60
+
+[NPC175]
+Name=La muerte
+NpcType=17
+Desc=veamos de que eres capaz.
+Desc2=veamos de que eres capaz.
+Head=0
+Heading=3
+Body=566
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=7
+QuestNumber1=61
+QuestNumber2=62
+QuestNumber3=63
+QuestNumber4=64
+QuestNumber5=65
+QuestNumber6=66
+QuestNumber7=67
+
+[NPC176]
+Name=Orco Huesero
+NpcType=17
+Desc=Necesito muchos huesos!
+Desc2=Necesito muchos huesos!
+Head=0
+Heading=3
+Body=186
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=68
+
+[NPC177]
+Name=Sastre molesto
+NpcType=17
+Desc=No le voy a comprar nada a este sastre!
+Desc2=Necesito pieles!
+Head=275
+Heading=3
+Body=49
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=70
+
+[NPC178]
+Name=Cazador perdido
+NpcType=17
+Desc=ayudame!
+Desc2=ayudame!
+Head=2
+Heading=3
+AguaValida=1
+TierraInvalida=1
+Body=2
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+NumQuest=1
+QuestNumber1=59
 
