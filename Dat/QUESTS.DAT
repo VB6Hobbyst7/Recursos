@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=70
+NumQuests=68
  
 
 [QUEST1]
@@ -1210,36 +1210,4 @@ RewardGLD=35000
 RewardEXP=15000
 RewardOBJs=0
 RewardOBJ1=0
-PosMap=1
-
-
-[QUEST69]
-Nombre=Pico Roto
-Desc=Tengo el pico cuadrado jaja,me traes otro?te dare unos cuantos minerales si me haces el favor,estoy viejo ya para viajar.
-RequiredLevel=13
-DescFinal=pense que no regresarias,me toca cumplir mi parte.
-RequiredNPCs=0
-RequiredNPC1=0
-RequiredOBJs=1
-RequiredOBJ1=187-1
-RewardGLD=150
-RewardEXP=3500
-RewardOBJs=1
-RewardOBJ1=192-500
-PosMap=1
-
-
-[QUEST70]
-Nombre=Pieles de lobo
-Desc=Este sastre esta loco,es muy caro! traeme estas pieles y are dos tunicas,una parati y otra parami!
-RequiredLevel=13
-DescFinal=pense que no regresarias,me toca cumplir mi parte.
-RequiredNPCs=0
-RequiredNPC1=0
-RequiredOBJs=1
-RequiredOBJ1=413-20
-RewardGLD=0
-RewardEXP=3500
-RewardOBJs=1
-RewardOBJ1=670-1
 PosMap=1
