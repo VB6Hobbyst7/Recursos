@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 1004
+Actual Npc con Nro más alto: 1000
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 1004
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=1004
+NumNPCs=1000
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
@@ -10323,7 +10323,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumQuest=1
-QuestNumber1=43
+QuestNumber1=42
 
 [NPC956]
 Name=Budista
@@ -11531,91 +11531,4 @@ Comercia=0
 BackUp=0
 NumQuest=1
 QuestNumber1=57
-
-
-[NPC1001]
-Name=Cazador marino
-NpcType=17
-Desc=Matemos al kraken!
-Desc2=Matemos al kraken!
-Head=0
-Heading=3
-AguaValida=1
-TierraInvalida=1
-Body=85
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-NumQuest=1
-QuestNumber1=60
-
-[NPC1002]
-Name=La muerte
-NpcType=17
-Desc=veamos de que eres capaz.
-Desc2=veamos de que eres capaz.
-Head=0
-Heading=3
-Body=566
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-NumQuest=7
-QuestNumber1=61
-QuestNumber2=62
-QuestNumber3=63
-QuestNumber4=64
-QuestNumber5=65
-QuestNumber6=66
-QuestNumber7=67
-
-[NPC1003]
-Name=Orco Huesero
-NpcType=17
-Desc=Necesito muchos huesos!
-Desc2=Necesito muchos huesos!
-Head=0
-Heading=3
-Body=186
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-NumQuest=1
-QuestNumber1=68
-
-[NPC1004]
-Name=Cazador perdido
-NpcType=17
-Desc=ayudame!
-Desc2=ayudame!
-Head=4
-Heading=3
-AguaValida=1
-TierraInvalida=1
-Body=32
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-NumQuest=1
-QuestNumber1=59
 

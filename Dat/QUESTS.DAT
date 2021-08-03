@@ -809,7 +809,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST43]
+[QUEST42]
 Nombre=Embarcacion
 Desc=Mi capitan me abandono y ahora quiero montar mi propia tribulacion pirata,consigeme una embarcacion muchacho,te pagare bien!
 DescFinal=Gracias!
@@ -824,7 +824,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST44]
+[QUEST43]
 Nombre=Casco
 Desc=Un buen casco de plata para un buen guerrero! tramelo y te compensare!
 DescFinal=Gracias!
@@ -840,7 +840,7 @@ RewardOBJ1=0
 PosMap=1
 
 
-[QUEST45]
+[QUEST44]
 Nombre=Ropa de fiesta
 Desc=Traeme un vestido y bailare contigo toda la noche!
 DescFinal=Ha sido un honor bailar contigo toma esta cerveza!
@@ -855,7 +855,7 @@ RewardOBJs=1
 RewardOBJ1=160-1
 PosMap=1
 
-[QUEST46]
+[QUEST45]
 Nombre=barca
 Desc=viajar con el barco de otros sale bastante caro,mejor un barco propio!
 DescFinal=Gracias!
@@ -870,7 +870,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST47]
+[QUEST46]
 Nombre=El libro
 Desc=Sin este mapa,no puedes viajar!
 DescFinal=Gracias!
@@ -885,7 +885,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST48]
+[QUEST47]
 Nombre=La prueba
 Desc=Demuestrame que eres un hombre del bien,que tienes poder suficiente para mis aventuras,manda al infiernoa los que lo adoran!
 DescFinal=Gracias!
@@ -900,7 +900,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST49]
+[QUEST48]
 Nombre=Una mas
 Desc=Si consiges matar estos pequeños demonios,te dare una llave donde yace el mal verdadero.
 DescFinal=Gracias,hablame para que te explique que hacer con la llave.
@@ -916,7 +916,7 @@ RewardOBJs=1
 RewardOBJ1=1112-1
 PosMap=1
 
-[QUEST50]
+[QUEST49]
 Nombre=Demonio
 Desc=En el altillo yace el demonio dentro del cuerpo de la mujer del sacerdote,por amor la tiene encerrada,pero debemos matarla.
 DescFinal=Es triste,pero fue por el bien de todos.
@@ -931,7 +931,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST51]
+[QUEST50]
 Nombre=Arco
 Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
 DescFinal=Hasta la proxima!
@@ -946,7 +946,7 @@ RewardOBJs=1
 RewardOBJ1=479-1
 PosMap=1
 
-[QUEST52]
+[QUEST51]
 Nombre=Flechas
 Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
 DescFinal=Hasta la proxima!
@@ -962,7 +962,7 @@ RewardOBJ1=551-100
 PosMap=1
 
 
-[QUEST53]
+[QUEST52]
 Nombre=Fragata
 Desc=Soy un Carpintero de la zona,puedo construirte cosas a buen precio.
 DescFinal=Hasta la proxima!
@@ -977,7 +977,7 @@ RewardOBJs=0
 RewardOBJ1=0
 PosMap=1
 
-[QUEST54]
+[QUEST53]
 Nombre=Hacha dos filos
 Desc=la hacha dos dilos es una de las mas poderosas,yo te puedo construir las que necesites.
 DescFinal=Hasta la proxima!
@@ -1075,7 +1075,7 @@ PosMap=1
 
 [QUEST60]
 Nombre=Peligros del mar abierto.
-Desc=Cientos de navegantes estan siendo atacados por los mas peligrosos monstruos marinos. Sube a tu barca y ayudame con ellos.
+Desc=Cientos de navegantes estan siendo atacados por los mas peligrosos monstruos marinos. Sube a tu barca y ayudame con ellos. Prometo una paella y grandes recompensas al terminar.
 DescFinal=GRACIAS!
 RequiredLevel=25
 RequiredOBJs=0
