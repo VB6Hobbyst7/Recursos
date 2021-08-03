@@ -98,7 +98,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC19]
 Name=Sastre
-Desc=¡Bienvenido Viajero! Tengo hermosas vestimentas para ofrecerte...
+Desc=¡Bienvenida Viajera! Tengo hermosas vestimentas para ofrecerte...
 Head=70
 Body=80
 Heading=3
@@ -147,7 +147,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC14]
 Name=Lilith
-Desc=Hola jovencito, tengo las mejores Pociones de la Alquimia.
+Desc=Hola, tengo las mejores Pociones de la Alquimia.
 Head=77
 Body=200
 Heading=3
@@ -784,7 +784,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC48]
 Name=Minero
-Desc=Tengo los mejores utensilios para mineros de todo Argentum.
+Desc=Tengo los mejores utensillos para mineros de todo Argentum.
 Head=2
 Body=1
 Heading=3
@@ -881,7 +881,7 @@ GiveGLDMax=0
 EquitandoBody=0
 [NPC41]
 Name=Pescador
-Desc=¡Bienvenido al gremio de pescadores!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Desc=¡Bienvenido al gremio de pescadores!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 Head=2
 Body=3
 Heading=3
@@ -1318,7 +1318,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC26]
 Name=Sastre
-Desc=¡Adelante hermoso niño! En mi tienda encontrarás vestidos hechos para mujeres!
+Desc=¡Adelante hermosa niña! En mi tienda encontrarás vestidos hechos para tí!
 Head=173
 Body=121
 Heading=3
@@ -1367,7 +1367,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC74]
 Name=Armaduras
-Desc=Ven, tengo resistentes armaduras para ofrecerte muchacho.
+Desc=Ven, tengo resistentes armaduras para ofrecerte.
 Head=6
 Body=93
 Heading=4
@@ -1555,7 +1555,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC32]
 Name=Sastre
-Desc=¡Ven y mira estas vestimentas, seguro te encantarán! Solo para mujeres.
+Desc=¡Ven y mira estas vestimentas, seguro te encantarán!
 Head=75
 Body=118
 Heading=3
@@ -1702,7 +1702,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC56]
 Name=Herrero
-Desc=¡Ven, pasa, que he fabricado, aquí en Lindos, poderosas armas para tí viejuno!
+Desc=¡Ven, pasa, que he fabricado, aquí en Lindos, poderosas armas para tí!
 Head=505
 Body=199
 Heading=3
@@ -1751,7 +1751,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC69]
 Name=Mago
-Desc=Ven por aquí jovencito, las artes mágicas superiores te están llamando...
+Desc=Ven por aquí joven, las artes mágicas superiores te están llamando...
 Head=110
 Body=46
 Heading=3
@@ -2370,7 +2370,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC101]
 Name=Karlk
-Desc=¡Hola bastardos! Os saluda Karlk, en estas tierras demoníacas están las mejores residencias para los miembros de la Legión Oscura... Si no eres legionario puedes también vivir acá, ¡pero os aseguro que os augura un infierno! jajaja!
+Desc=¡Hola bastardos! Os saluda Karlk, en estas tierras demoníacas están las mejores residencias para los miembros de la Legión Oscura... Si no eres legionario puedes también vivir acá, ¡pero os aseguro que los augura un infierno! jajaja!
 Head=34
 Body=170
 Heading=3
@@ -2464,7 +2464,7 @@ Obj19=0-0
 Obj20=0-0
 [NPC9]
 Name=Ralph
-Desc=¡Hola, pequeño aventurero, tengo aquí unas mercaderías para saciar tu hambre y sed!
+Desc=¡Hola, pequeño aventurero, tengo aquí unas mercaderías para saciar tu hambre y sed!.
 Head=504
 Body=202
 Heading=3
@@ -2660,7 +2660,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC64]
 Name=Virgin
-Desc=¡Bienvenido jovencito! Soy quien hace los mejores atuendos femeninos de todo Arghal, ven y prueba mi mercadería.
+Desc=¡Bienvenida jovencita! Soy quien hace los mejores atuendos femeninos de todo Arghal, ven y prueba mi mercadería.
 Head=70
 Body=80
 Heading=3
@@ -2954,7 +2954,7 @@ EquitandoBody=0
 Colorsangre=0
 [NPC22]
 Name=Sastre
-Desc=¡Bienvenido Viajero! Entra a mi tienda,¡Tengo las mejores prendas de Nix! Solo tengo ropaje de Mujer.
+Desc=¡Bienvenida Viajera! Entra a mi tienda, ¡Tengo las mejores prendas de Nix!
 Head=71
 Body=80
 Heading=3
