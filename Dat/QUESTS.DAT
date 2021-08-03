@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=70
+NumQuests=72
  
 
 [QUEST1]
@@ -1242,4 +1242,34 @@ RewardGLD=0
 RewardEXP=3500
 RewardOBJs=1
 RewardOBJ1=670-1
+PosMap=1
+
+[QUEST71]
+Nombre=Cazarecompensas
+Desc=Asique eres un aventurero... en estas zonas se habla mucho sobre un Yeti, hasta ofrecen una recompensa por atraparlo. Tal vez tengas suerte.
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredNPCs=0
+RequiredNPC1=0
+RequiredOBJs=1
+RequiredNPC1=632-1
+RewardGLD=0
+RewardEXP=3500
+RewardOBJs=1
+RewardOBJ1=670-1
+PosMap=1
+
+[QUEST72]
+Nombre=Faraon
+Desc=Aventurero, visita la antigua piramide, al norte del desierto y elimina al faraon!
+DescFinal=pense que no regresarias,me toca cumplir mi parte.
+RequiredLevel=25
+RequiredNPCs=0
+RequiredNPC1=0
+RequiredOBJs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=0
+RewardOBJ1=0
 PosMap=1
