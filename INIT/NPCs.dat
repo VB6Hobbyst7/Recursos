@@ -11640,21 +11640,3 @@ BackUp=0
 NumQuest=1
 QuestNumber1=59
 
-[NPC179]
-Name=Quest Polo
-NpcType=17
-Desc=¡Un monstruo de hielo corre por esta zona!!
-Desc2=¡Un monstruo de hielo corre por esta zona!!
-Head=5
-Heading=3
-Body=3
-Movement=1
-Attackable=0
-ReSpawn=0
-Hostile=0
-Domable=0
-Alineacion=0
-Comercia=0
-BackUp=0
-NumQuest=1
-QuestNumber1=71
