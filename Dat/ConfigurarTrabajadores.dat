@@ -52,10 +52,10 @@ IntervaloMaximoTrabajo=10
 
 [TURNOS]
 CantidadMinimaBotManiana=1
-CantidadMaximaBotManiana=9
+CantidadMaximaBotManiana=7
 CantidadMinimaBotTarde=1
-CantidadMaximaBotTarde=9
+CantidadMaximaBotTarde=7
 CantidadMinimaBotNoche=1
-CantidadMaximaBotNoche=9
+CantidadMaximaBotNoche=7
 CantidadMinimaBotMadrugada=1
-CantidadMaximaBotMadrugada=9
+CantidadMaximaBotMadrugada=7
