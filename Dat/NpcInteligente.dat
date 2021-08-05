@@ -3,7 +3,7 @@
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 [INIT]
-NumeroNpcInteligentes=9
+NumeroNpcInteligentes=7
 
 
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -80,17 +80,17 @@ Ruta1=195,1225;195,1235;201,1235;201,1251;217,1252;220,1261;272,1261;272,1268;30
 
 [NPCINTELIGENTE3]
 NumeroNPC=970
-Clan=<CLAN MAGIA NEGRA>
+Clan=<AoYind>
 Fijo=0
-TiempoEsperaMinuto=1
+TiempoEsperaMinuto=2
 CrearInicioServer=1
 TiempoRenacer=0
 Mana=2000
 PocionesRojas=800
 PocionesAzules=900
-OroInicial=1
-IncrementoOro=1
-OroMaximo=100
+OroInicial=100
+IncrementoOro=10
+OroMaximo=100000
 TiraRemo=1
 TiraInmo=1
 TiraApoca=1
@@ -98,14 +98,14 @@ TiraDescarga=1
 TiraTormentaFuego=0
 TiraVerInvi=1
 NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
+MsjAgresorInvi=uhhhhhhhhh!!
+MsjNuevoAgresor=uhhhhhhhhh!!
+MsjAgresorRandom1=uhhhhhhhhh!!
+MsjAgresorRandom2=uhhhhhhhhh!!
+MsjAgresorRandom3=uhhhhhhhhh!!
+MsjAvisoPosibleAgresor=uhhhhhhhhh!!
+MsjNoMolestes=uhhhhhhhhh!!
+MsjAlHacerClick=uhhhhhhhhh!!
 NroRutas=1
 Ruta1=156,1234;156,1236;188,1236;188,1248;201,1248;201,1235;188,1235;188,1215
 
@@ -114,7 +114,7 @@ Ruta1=156,1234;156,1236;188,1236;188,1248;201,1248;201,1235;188,1235;188,1215
 
 [NPCINTELIGENTE4]
 NumeroNPC=971
-Clan=<CLAN MAGIA NEGRA>
+Clan=<AoYind>
 Fijo=0
 TiempoEsperaMinuto=1
 CrearInicioServer=1
@@ -132,14 +132,14 @@ TiraDescarga=1
 TiraTormentaFuego=0
 TiraVerInvi=1
 NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
+MsjAgresorInvi=¡Yusuke manda!
+MsjNuevoAgresor=¡Yusuke manda!
+MsjAgresorRandom1=¡Yusuke manda!
+MsjAgresorRandom2=¡Yusuke manda!
+MsjAgresorRandom3=¡Yusuke manda!
+MsjAvisoPosibleAgresor=¡Yusuke manda!
+MsjNoMolestes=¡Yusuke manda!
+MsjAlHacerClick=¡Yusuke manda!
 NroRutas=1
 Ruta1=176,1243;188,1243;188,1170;176,1170
 
@@ -148,7 +148,7 @@ Ruta1=176,1243;188,1243;188,1170;176,1170
 
 [NPCINTELIGENTE5]
 NumeroNPC=972
-Clan=<CLAN MAGIA NEGRA>
+Clan=<AoYind>
 Fijo=0
 TiempoEsperaMinuto=1
 CrearInicioServer=1
@@ -166,14 +166,14 @@ TiraDescarga=1
 TiraTormentaFuego=0
 TiraVerInvi=1
 NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
+MsjAgresorInvi=Por lo menos no libero codigos ajenos como el n00b
+MsjNuevoAgresor=Por lo menos no libero codigos ajenos como el n00b
+MsjAgresorRandom1=Por lo menos no libero codigos ajenos como el n00b
+MsjAgresorRandom2=Por lo menos no libero codigos ajenos como el n00b
+MsjAgresorRandom3=Por lo menos no libero codigos ajenos como el n00b
+MsjAvisoPosibleAgresor=Por lo menos no libero codigos ajenos como el n00b
+MsjNoMolestes=Por lo menos no libero codigos ajenos como el n00b
+MsjAlHacerClick=Por lo menos no libero codigos ajenos como el n00b
 NroRutas=1
 Ruta1=166,1179;188,1179;188,1236;201,1236;201,1231;239,1231
 
@@ -182,7 +182,7 @@ Ruta1=166,1179;188,1179;188,1236;201,1236;201,1231;239,1231
 
 [NPCINTELIGENTE6]
 NumeroNPC=973
-Clan=<CLAN MAGIA NEGRA>
+Clan=<AoYind>
 Fijo=0
 TiempoEsperaMinuto=1
 CrearInicioServer=1
@@ -200,14 +200,14 @@ TiraDescarga=1
 TiraTormentaFuego=0
 TiraVerInvi=1
 NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
+MsjAgresorInvi=Quiero un gm con poderes!!!
+MsjNuevoAgresor=Quiero un gm con poderes!!!
+MsjAgresorRandom1=Quiero un gm con poderes!!!
+MsjAgresorRandom2=Quiero un gm con poderes!!!
+MsjAgresorRandom3=Quiero un gm con poderes!!!
+MsjAvisoPosibleAgresor=Quiero un gm con poderes!!!
+MsjNoMolestes=Quiero un gm con poderes!!!
+MsjAlHacerClick=Quiero un gm con poderes!!!
 NroRutas=1
 Ruta1=217,1261;217,1251;189,1251;189,1203;239,1203;239,1191;164,1191;164,1179;239,1179
 
@@ -216,7 +216,7 @@ Ruta1=217,1261;217,1251;189,1251;189,1203;239,1203;239,1191;164,1191;164,1179;23
 
 [NPCINTELIGENTE7]
 NumeroNPC=974
-Clan=<CLAN MAGIA NEGRA>
+Clan=<AoYind>
 Fijo=0
 TiempoEsperaMinuto=1
 CrearInicioServer=1
@@ -234,84 +234,16 @@ TiraDescarga=1
 TiraTormentaFuego=0
 TiraVerInvi=1
 NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
+MsjAgresorInvi=No hice nada y soy del staff :D
+MsjNuevoAgresor=No hice nada y soy del staff :D
+MsjAgresorRandom1=No hice nada y soy del staff :D
+MsjAgresorRandom2=No hice nada y soy del staff :D
+MsjAgresorRandom3=No hice nada y soy del staff :D
+MsjAvisoPosibleAgresor=No hice nada y soy del staff :D
+MsjNoMolestes=No hice nada y soy del staff :D
+MsjAlHacerClick=No hice nada y soy del staff :D
 NroRutas=1
 Ruta1=173,1225;173,1236;189,1236;189,1204;239,1204;239,1252;200,1252;200,1247;188,1247;188,1243;176,1243
-
-'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-[NPCINTELIGENTE8]
-NumeroNPC=975
-Clan=<CLAN MAGIA NEGRA>
-Fijo=0
-TiempoEsperaMinuto=1
-CrearInicioServer=1
-TiempoRenacer=0
-Mana=2000
-PocionesRojas=800
-PocionesAzules=900
-OroInicial=1
-IncrementoOro=1
-OroMaximo=100
-TiraRemo=1
-TiraInmo=1
-TiraApoca=1
-TiraDescarga=1
-TiraTormentaFuego=0
-TiraVerInvi=1
-NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
-NroRutas=1
-Ruta1=159,1206;159,1215;189,1215;189,1236;160,1236;160,1245
-
-'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-'&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-[NPCINTELIGENTE9]
-NumeroNPC=976
-Clan=<CLAN MAGIA NEGRA>
-Fijo=0
-TiempoEsperaMinuto=1
-CrearInicioServer=1
-TiempoRenacer=0
-Mana=2000
-PocionesRojas=800
-PocionesAzules=900
-OroInicial=1
-IncrementoOro=1
-OroMaximo=100
-TiraRemo=1
-TiraInmo=1
-TiraApoca=1
-TiraDescarga=1
-TiraTormentaFuego=0
-TiraVerInvi=1
-NroHechizoInvocacion=0
-MsjAgresorInvi=Dale, mostrate pa!
-MsjNuevoAgresor=Veni, pelea!
-MsjAgresorRandom1=Te voy a matar!
-MsjAgresorRandom2=No podes contra mi
-MsjAgresorRandom3=Ya perdiste noob
-MsjAvisoPosibleAgresor=Deja de molestar!
-MsjNoMolestes=Segui tu camino
-MsjAlHacerClick=
-NroRutas=1
-Ruta1=180,1255;189,1255;189,1149;193,1149;193,1170;188,1170;188,1179;238,1179;238,1192;166,1192;166,1201;173,1201;173,1215;188,1215;188,1250
 
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
