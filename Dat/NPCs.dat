@@ -84,7 +84,7 @@ Actual Npc con Nro más alto: 1000
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=1030
+NumNPCs=1023
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
