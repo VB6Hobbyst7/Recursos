@@ -477,7 +477,7 @@ RewardGLD=20000
 RewardEXP=50000
  
 RewardOBJs=1
-RewardOBJ1=402
+RewardOBJ1=402-1
 PosMap=1
 
 [QUEST24]
@@ -1249,7 +1249,7 @@ Nombre=Cazarecompensas
 Desc=Asique eres un aventurero... en estas zonas se habla mucho sobre un Yeti, hasta ofrecen una recompensa por atraparlo. Tal vez tengas suerte.
 DescFinal=pense que no regresarias,me toca cumplir mi parte.
 RequiredLevel=25
-RequiredNPCs=0
+RequiredNPCs=1
 RequiredNPC1=0
 RequiredOBJs=1
 RequiredNPC1=632-1

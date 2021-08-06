@@ -9638,7 +9638,7 @@ Comercia=0
 BackUp=0
 
 [NPC918]
-Name=Pescador Nix /BONUSQUEST
+Name=Pescador Nix
 NpcType=17
 Desc=¡ He pescado algo !
 Desc2=¡ He pescado algo !
@@ -9688,10 +9688,11 @@ Hostile=0
 Domable=0
 Alineacion=0
 Comercia=0
-NumQuest=3
+NumQuest=4
 QuestNumber1=47
 QuestNumber2=48
 QuestNumber3=49
+QuestNumber4=50
 
 [NPC921]
 Name=Cazador dos
@@ -11571,7 +11572,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumQuest=3
-QuestNumber1=50
+QuestNumber1=53
 QuestNumber2=51
 QuestNumber3=52
 
