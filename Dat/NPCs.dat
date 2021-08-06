@@ -10894,11 +10894,11 @@ Obj2=37-1
 '############################################ Pescadores
 
 [NPC975]
-Name=!Alicia
+Name=!Tiburon
 NpcType=10
-Head=72
+Head=1
 Heading=3
-Body=114
+Body=3
 Arma=20
 Escudo=2
 Casco=2
@@ -10920,7 +10920,6 @@ PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=0
 NROITEMS=0
-
 '############################################
 
 [NPC976]
@@ -12030,7 +12029,6 @@ PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=0
 NROITEMS=0
-
 '############################################
 
 [NPC1014]
@@ -12060,7 +12058,6 @@ PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=0
 NROITEMS=0
-
 '############################################
 
 [NPC1015]
