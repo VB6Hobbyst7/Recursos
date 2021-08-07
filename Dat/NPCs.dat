@@ -10715,7 +10715,7 @@ BackUp=0
 
 '############################################
 
-[NPC970]
+[NPC970]'fantasma neosefirot
 Name=!NeoSefirot
 NpcType=10
 Head=500
@@ -10731,8 +10731,8 @@ Hostile=0
 Domable=0
 Alineacion=0
 Comercia=0
-GiveEXP=0
-GiveGLDMin=0
+GiveEXP=5000
+GiveGLDMin=1500
 MinHP=455
 MaxHP=455
 MaxHIT=200
