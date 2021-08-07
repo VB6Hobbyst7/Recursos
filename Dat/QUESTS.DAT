@@ -796,7 +796,7 @@ PosMap=1
 
 [QUEST42]
 Nombre=Flechas
-Desc=Aqui no venden las flechas que yo uso,consigemelas y seas recompensado!
+Desc=Tengo que llevarle unas flechas a un Arquero Elfo,consigemelas y seas recompensado!
 DescFinal=Gracias!
 RequiredLevel=13
 RequiredOBJs=1
@@ -1322,4 +1322,20 @@ RewardGLD=0
 RewardEXP=0
 RewardOBJs=1
 RewardOBJ1=1073-1000
+PosMap=1
+
+
+[QUEST76]
+Nombre=Hombre de barro
+Desc=La bruja del pantano aveces invoca un hombre de barro malefico!matalo!!!
+Desc=La bruja del pantano aveces invoca un hombre de barro malefico!matalo!!!
+RequiredLevel=20
+RequiredOBJs=0
+RequiredOBJ1=0
+RequiredNPCs=1
+RequiredNPC1=645-1
+RewardGLD=25000
+RewardEXP=25000
+RewardOBJs=1
+RewardOBJ1=0
 PosMap=1
