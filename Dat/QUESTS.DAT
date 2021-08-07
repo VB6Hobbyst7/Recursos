@@ -1,5 +1,5 @@
 [INIT]
-NumQuests=72
+NumQuests=75
  
 
 [QUEST1]
@@ -988,8 +988,8 @@ RequiredNPCs=0
 RequiredNPC1=0
 RewardGLD=0
 RewardEXP=0
-RewardOBJs=0
-RewardOBJ1=0
+RewardOBJs=1
+RewardOBJ1=129-1
 PosMap=1
 
 
@@ -1274,3 +1274,52 @@ RewardOBJ1=0
 PosMap=1
 
 
+[QUEST73]
+Nombre=Congelar
+Desc=la magia blanca,magia pura,es lo que te puedo entregar si me ayudas,necesito un galeon de guerra.
+DescFinal=Hasta la proxima!
+RequiredLevel=13
+RequiredOBJs=1
+RequiredOBJ1=476-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=1
+RewardOBJ1=1071-1
+PosMap=1
+
+
+[QUEST74]
+Nombre=Pocion rara
+Desc=Si me traes un arma buena te dare una pocion misteriosa que me drope un Boss!
+Desc=Si me traes un arma buena te dare una pocion misteriosa que me drope un Boss!
+RequiredLevel=25
+RequiredOBJs=1
+RequiredOBJ1=403-1
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=1
+RewardOBJ1=1072-1
+PosMap=1
+
+
+[QUEST75]
+Nombre=Cañones
+Desc=Soy un triste pirata con pata de palo,pero aun conservo la municion de mis cañones en el sotano!
+Desc=Soy un triste pirata con pata de palo,pero aun conservo la municion de mis cañones en el sotano!
+RequiredLevel=20
+RequiredOBJs=4
+RequiredOBJ1=710-1
+RequiredOBJ2=388-10
+RequiredOBJ3=157-1
+RequiredOBJ4=387-10
+RequiredNPCs=0
+RequiredNPC1=0
+RewardGLD=0
+RewardEXP=0
+RewardOBJs=1
+RewardOBJ1=1073-1000
+PosMap=1
