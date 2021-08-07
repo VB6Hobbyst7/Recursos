@@ -66,7 +66,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 1000
+Actual Npc con Nro más alto: 1023
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -10415,10 +10415,10 @@ NumQuest=1
 QuestNumber1=42
 
 [NPC954]
-Name=Espantapajaros
+Name=Hide
 NpcType=0
-Desc=
-Desc2=
+Desc=Soy Hide! Visita www.gs-zone.org una enorme comunidad de Ao!
+Desc2=Soy Hide! Visita www.gs-zone.org una enorme comunidad de Ao!
 Head=0
 Heading=3
 Body=568
@@ -10921,7 +10921,6 @@ PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=0
 NROITEMS=0
-
 '############################################
 
 [NPC976]
@@ -12031,7 +12030,6 @@ PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=0
 NROITEMS=0
-
 '############################################
 
 [NPC1014]
@@ -12061,7 +12059,6 @@ PoderAtaque=400
 PoderEvasion=190
 LanzaSpells=0
 NROITEMS=0
-
 '############################################
 
 [NPC1015]
@@ -12095,7 +12092,7 @@ NROITEMS=0
 '############################################
 
 [NPC1016]
-Name=!Mina
+Name=!Lidia
 NpcType=10
 Head=271
 Heading=3

@@ -10415,10 +10415,10 @@ NumQuest=1
 QuestNumber1=42
 
 [NPC954]
-Name=Espantapajaros
+Name=Hide
 NpcType=0
-Desc=
-Desc2=
+Desc=Soy Hide! Visita www.gs-zone.org una enorme comunidad de Ao!
+Desc2=Soy Hide! Visita www.gs-zone.org una enorme comunidad de Ao!
 Head=0
 Heading=3
 Body=568
