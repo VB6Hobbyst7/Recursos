@@ -19,7 +19,8 @@
 MOVEMENT
 10 ====== PATHFINDING
 
-##############################################
+######################################
+########
 ################ORDEN EN DAT##################
 ##############################################
 
@@ -10169,9 +10170,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-NumQuest=2
-QuestNumber1=45
-QuestNumber2=46
+NumQuest=1
+QuestNumber1=46
 
 [NPC942]
 Name=Doncella
@@ -10190,7 +10190,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumQuest=1
-QuestNumber1=44
+QuestNumber1=45
 
 [NPC943]
 Name=Gandalf
@@ -10267,7 +10267,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumQuest=1
-QuestNumber1=43
+QuestNumber1=44
 
 
 
@@ -10448,7 +10448,7 @@ Alineacion=0
 Comercia=0
 BackUp=0
 NumQuest=1
-QuestNumber1=42
+QuestNumber1=43
 
 [NPC956]
 Name=Budista
