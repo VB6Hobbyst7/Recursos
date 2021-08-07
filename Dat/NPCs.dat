@@ -10123,8 +10123,8 @@ BackUp=0
 [NPC939]
 Name=Mercenario
 NpcType=17
-Desc=Ya estoy viejo,es hora de descansar.
-Desc2=Ya estoy viejo,es hora de descansar.
+Desc=Se me rompio mi arma,me ayudas??
+Desc2=Se me rompio mi arma,me ayudas??
 Head=0
 Heading=3
 Body=553
@@ -10136,6 +10136,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+NumQuest=1
+QuestNumber1=74
 
 [NPC940]
 Name=Guardia Budista
@@ -10153,6 +10155,7 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
+
 
 [NPC941]
 Name=Viajero
@@ -10247,7 +10250,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=42
 
 
 [NPC946]
@@ -10294,8 +10298,8 @@ QuestNumber3=39
 [NPC948]
 Name=Guerrero fornido
 NpcType=17
-Desc=Estoy muy cansado. ¿Quieres ayudarme?
-Desc2=Estoy muy cansado. ¿Quieres ayudarme?
+Desc=Soy un Paladin Superior de maxima pureza.
+Desc2==Soy un Paladin Superior de maxima pureza.
 Head=0
 Heading=3
 Body=562
@@ -10307,7 +10311,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=73
 
 
 [NPC949]
@@ -10350,7 +10355,8 @@ Domable=0
 Alineacion=0
 Comercia=0
 BackUp=0
-
+NumQuest=1
+QuestNumber1=75
 
 
 [NPC951]
