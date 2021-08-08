@@ -67,7 +67,7 @@ REVISAR ENTRENADOR ARKHEIN SI SUS NPCS QUE INVOCA, HAY QUE REVISAR QUE NO TENGAN
 580
 581
 
-Actual Npc con Nro más alto: 1023
+Actual Npc con Nro más alto: 1000
 
 ##############################################
 ###############OBSERVACIONES##################
@@ -85,7 +85,7 @@ Actual Npc con Nro más alto: 1023
 'aca va el número de NPC más alto, NO la cantidad de NPCs.
 'esto sirve para que los GMS puedan ver la lista completa de npcs a invocar en una ventanita.
 
-NumNPCs=1023
+NumNPCs=1000
 
 [NPC148] 'VendeMagia Polo
 Name=Mago
