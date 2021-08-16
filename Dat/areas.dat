@@ -1,5 +1,5 @@
 [Config]
-Cantidad=153
+Cantidad=155
 
 [Area1]
 Mapa=1
@@ -2209,3 +2209,17 @@ Cant1=1
 Npcs=1
 Npc2=990
 Cant2=1
+[Area154]
+Mapa=1
+X1=352
+Y1=75
+X2=519
+Y2=182
+Npcs=0
+[Area155]
+Mapa=1
+X1=410
+Y1=92
+X2=461
+Y2=112
+Npcs=0

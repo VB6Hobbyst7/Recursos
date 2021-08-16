@@ -1,5 +1,5 @@
 [Config]
-Cantidad=181
+Cantidad=182
 
 [Zona1]
 Nombre=Ullathorpe
@@ -5900,3 +5900,13 @@ Segura=1
 Musica1=5
 [Zona0]
 Acoplar=0
+
+[Zona182]
+Nombre=Pretorianos
+Mapa=1
+X1=409
+Y1=91
+X2=462
+Y2=113
+Segura=0
+Musica1=9
