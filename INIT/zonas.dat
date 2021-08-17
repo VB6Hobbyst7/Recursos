@@ -1,5 +1,5 @@
 [Config]
-Cantidad=182
+Cantidad=183
 
 [Zona1]
 Nombre=Ullathorpe
@@ -5908,5 +5908,14 @@ X1=409
 Y1=91
 X2=462
 Y2=113
+Segura=0
+Musica1=9
+[Zona183]
+Nombre=Fortaleza Abandonada
+Mapa=1
+X1=372
+Y1=200
+X2=419
+Y2=223
 Segura=0
 Musica1=9
