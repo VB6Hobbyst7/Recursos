@@ -1515,17 +1515,6 @@ X2=530
 Y2=185
 Npcs=0
 
-[Area99]
-Mapa=1
-X1=608
-Y1=460
-X2=705
-Y2=545
-Npcs=2
-Npc1=515
-Cant1=5
-Npc2=504
-Cant2=6
 
 [Area100]
 Mapa=1
@@ -2209,13 +2198,7 @@ Cant1=1
 Npcs=1
 Npc2=990
 Cant2=1
-[Area154]
-Mapa=1
-X1=352
-Y1=75
-X2=519
-Y2=182
-Npcs=0
+
 [Area155]
 Mapa=1
 X1=410

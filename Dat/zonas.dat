@@ -3937,38 +3937,6 @@ NieblaR=0
 NieblaG=0
 NieblaB=0
 
-[Zona120]
-Nombre=Bosques
-Mapa=1
-X1=352
-Y1=75
-X2=519
-Y2=182
-Segura=0
-Terreno=1
-Acoplar=0
-InviSinEfecto=0
-MagiaSinEfecto=0
-Restringir=No
-ResuSinEfecto=0
-TieneNpcInvocacion=0
-NpcInvocadoIndex=0
-CantMusica=1
-Musica1=9
-Musica2=0
-Musica3=0
-Musica4=0
-Musica5=0
-CantSonidos=5
-Sonido1=52
-Sonido2=71
-Sonido3=93
-Sonido4=125
-Sonido5=131
-Niebla=0
-NieblaR=0
-NieblaG=0
-NieblaB=0
 
 [Zona121]
 Nombre=Entrada Pretoriano
